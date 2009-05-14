@@ -1,0 +1,20 @@
+# Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK)
+Vom 06.07.2006
+Gestützt auf Artikel 12 und Art. 12 ter der Interkantonalen Vereinbarung vom 18. Februar 1993 über die Anerkennung von Ausbildungsabschlüssen (IKV) und Art. 10 der Anerkennungsverordnung Ausland (AVO Ausland) der GDK vom 20. November 1997 beschliesst der Vorstand der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK):
+Art. 1 Geltungsbereich
+1 Die vorliegende Verordnung regelt die Gebühren für Tätigkeiten und Entscheide des Zentralsekretariats sowie der Rekurskommission im Zusammenhang mit der interkantonalen Prüfung in Osteopathie, der Anerkennung ausländischer Ausbildungsabschlüsse sowie in Vollzug des Personenfreizügigkeitsabkommens CH-EU für die Registrierung von Inhaberinnen und Inhabern in- und ausländischer Ausbildungsabschlüsse und für die Erteilung von Auskünften aus dem Register.
+Art. 2 Gebührenansätze
+1 Die Gebühren betragen (in Fr.):
+1. Gebühr für das Erfassen der Personendaten und der Angaben zum Diplom: 70 bis 130
+2. Gebühr für die Erteilung von Auskünften aus dem Register: 90 bis 130
+3. Gebühr für die Anerkennung eines ausländischen Ausbildungsabschlusses: 400; Ist die Prüfung des Anerkennungsgesuchs sehr aufwändig, kann die Gebühr angemessen erhöht werden, jedoch höchstens auf: 1'000
+4. Entscheide der Rekurskommission für ausländische Ausbildungsabschlüsse und gemäss Art. 24 des Reglements für die interkantonale Prüfung in Osteopathie: 1'000; Ist das Beschwerdeverfahren sehr aufwändig, kann die Spruchgebühr angemessen erhöht werden, jedoch höchstens auf: 2'000
+5. Gebühr für das Ausstellen von Bescheinigungen an Personen mit einem schweizerischen Ausbildungsabschluss, die ihren Beruf im Ausland ausüben wollen: 100
+6. Schriftliche Auskunftserteilung mit erheblichem Aufwand: 100 bis 300
+2 Die Gebühren gemäss Ziffer 2 (für Auskünfte an ausländische Stellen), 3a und 5 sind im Voraus zu entrichten.
+3 Bei Beschwerdeverfahren gemäss Ziffer 4 kann ein Kostenvorschuss in angemessener Höhe verlangt werden.
+Art. 3 Gebührenerlass
+1 Die entscheidende Behörde kann Gebühren ganz oder teilweise erlassen, wenn im Einzelfall die Auferlegung der Gebühr zu einer Härte führen würde oder andere besondere Gründe dies rechtfertigen.
+Art. 4 In-Kraft-Treten
+1 Diese Verordnung ist gleichzeitig mit der revidierten interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen in Kraft getreten . Die Änderung tritt mit der Annahme durch den Vorstand in Kraft.
+GS 36.1160
