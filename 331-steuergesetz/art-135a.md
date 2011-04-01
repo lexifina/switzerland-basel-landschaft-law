@@ -1,0 +1,6 @@
+# § 135a II. Zahlungsfrist und Verzugszinspflicht
+1 Die periodisch geschuldeten Steuern auf Einkommen, Vermögen, Ertrag und Kapital sind mit der Fälligkeit gemäss § 135 Absatz 1, 2 oder 3 zu entrichten.
+2 Die nicht periodisch geschuldeten Steuern sowie die Bussen und Gebühren gemäss § 135 Absatz 4 und die periodisch geschuldeten Steuern mit besonderen Fälligkeiten gemäss § 135 Absatz 5 sind innert 30 Tagen nach Fälligkeit zu entrichten.
+3 Nach Ablauf der Zahlungsfrist wird ein Verzugszins erhoben. Der Regierungsrat setzt die Höhe der Verzugzinsen pro Kalenderjahr fest.
+4 Eine Verzugszinspflicht besteht nur dann, wenn auf den Fälligkeitstermin hin eine provisorische oder eine definitive Rechnung gestellt wurde. Ist bis zur Fälligkeit noch keine Steuerrechnung gestellt worden, beginnt die Verzugszinspflicht 30 Tage nach Rechnungsstellung. Erhöht sich der definitive Rechnungsbetrag gegenüber der provisorischen Rechnungsstellung, beginnt die Verzugszinspflicht für den Mehrbetrag 30 Tage nach definitiver Rechnungsstellung.
+5 Steuerpflichtigen Personen, die ihren Zahlungsverpflichtungen nicht vollständig nachkommen, wird eine Mahnung zugestellt. Für Mahnungen kann eine Gebühr erhoben werden. Der Regierungsrat setzt die Höhe der Gebühr fest.

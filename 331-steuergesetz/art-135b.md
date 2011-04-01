@@ -1,0 +1,4 @@
+# § 135b III. Vorauszahlungen und Vergütungszinsen
+1 Die steuerpflichtigen Personen können vor Eintritt der Fälligkeit Vorauszahlungen leisten.
+2 Für vor der Fälligkeit geleistete Vorauszahlungen werden bis zum Fälligkeitstermin Vergütungszinsen gutgeschrieben. Die Verzinsung ist auf Vorauszahlungen des laufenden und folgenden Steuerjahres beschränkt und auf 120% der tatsächlich geschuldeten oder aufgrund provisorischer Rechnungsstellung ermittelten Steuer begrenzt. Der Regierungsrat setzt die Höhe der Vergütungszinsen pro Kalenderjahr fest.
+3 Die Verrechnungssteuer auf Kapitalerträge und Lotteriegewinne von natürlichen Personen sowie der Steuerrückbehalt USA wird als Vorauszahlung an das der Fälligkeit der steuerbaren Leistung folgende Steuerjahr angerechnet. Der Vergütungszins wird dabei ab Eingang der Steuererklärung, frühestens aber ab 1. April des der Fälligkeit der steuerbaren Leistung folgenden Steuerjahres gewährt.

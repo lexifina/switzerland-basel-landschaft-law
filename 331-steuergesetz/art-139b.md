@@ -1,0 +1,5 @@
+# § 139b IX. Erlass
+1 Steuerpflichtigen Personen, für die infolge einer Notlage die Bezahlung der Steuern, Zinsen, Bussen und Gebühren eine grosse Härte bedeuten würde, können die geschuldeten Beträge ganz oder teilweise erlassen werden.
+2 Das Erlassgesuch muss schriftlich und begründet sowie mit den nötigen Beweismitteln bei der kantonalen Taxations- und Erlasskommission eingereicht werden. Diese entscheidet nach Anhörung des zuständigen Gemeinderates. Der Steuerpflichtige und die kantonale Steuerverwaltung sowie die Gemeinde können gegen den Entscheid der kantonalen Taxations- und Erlasskommission innert 30 Tagen nach der Zustellung beim Steuergericht schriftlich Rekurs erheben. Im Übrigen gelten die Bestimmungen gemäss den §§ 124-132.
+3 Ein Erlass oder Teilerlass der Staatssteuer hat auch die entsprechende Herabsetzung der Gemeindesteuer zur Folge.
+4 Das erstinstanzliche Erlassverfahren ist kostenfrei. Die Kosten des Verfahrens können der gesuchstellenden Person aber auferlegt werden, wenn sie ein offensichtlich unbegründetes Erlassgesuch eingereicht hat.

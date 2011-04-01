@@ -1,0 +1,2 @@
+# § 121d Schenkungsregister
+1 Die kantonale Steuerverwaltung führt aufgrund der Angaben des Steuerpflichtigen oder Dritter ein Schenkungsregister über erhaltene oder gemachte Schenkungen mit den schenkenden oder beschenkten Personen für Beträge von über 10'000 Fr., wobei wiederholte Vermögensübergänge vom gleichen Schenker an denselben Empfänger zusammenzurechnen sind, soweit sie nicht mehr als 10 Jahre auseinander liegen.
