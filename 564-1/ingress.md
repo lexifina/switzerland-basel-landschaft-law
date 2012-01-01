@@ -1,0 +1,3 @@
+# Verordnung über den Vollzug der eidgenössischen Preisvorschriften
+Vom 31.03.1987
+Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984, beschliesst:
