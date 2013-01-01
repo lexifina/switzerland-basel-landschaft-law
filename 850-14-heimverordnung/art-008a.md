@@ -1,0 +1,2 @@
+# § 8a Bewilligungspflicht bei minderjährigen Personen und Erwachsenen
+1 Einzelpersonen, Familien oder familienähnliche Wohngemeinschaften, die mehr als 4 nichtverwandten minderjährigen Personen und Erwachsenen zusammen entgeltliche oder unentgeltliche Pflege und Betreuung tags- oder nachtsüber gewähren, bedürfen einer Bewilligung, sofern sie nicht aufgrund der §§ 6 oder 8 im Besitze einer Bewilligung sind.
