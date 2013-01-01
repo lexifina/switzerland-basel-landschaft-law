@@ -1,0 +1,3 @@
+# § 8a Beizug einer Fachperson in Bedrohungs- oder Gefahrensituationen
+1 Besteht für Mitarbeitende eine Bedrohungs- oder Gefahrensituation, können die Generalsekretärinnen und Generalsekretäre der Direktionen, die Landschreiberin oder der Landschreiber, eine Leiterin oder ein Leiter der Gerichtsverwaltung und die Vorsteherinnen bzw. Vorsteher der besonderen Behörden vom Regierungsrat bezeichnete Fachpersonen für die Beurteilung der Bedrohungs- oder Gefahrensituation beiziehen.
+2 Wird zur Beurteilung einer Bedrohungs- oder Gefahrensituation eine Fachperson beigezogen, welche nicht der kantonalen Personalgesetzgebung untersteht, so ist die Schweigepflicht gegenüber Dritten sicherzustellen.
