@@ -1,0 +1,4 @@
+# § 3a Auf Amtsperiode gewählte Mitarbeiterinnen und Mitarbeiter
+1 Den vom Volk, vom Landrat, vom Regierungsrat oder vom Kantonsgericht gewählten Mitarbeiterinnen und Mitarbeitern wird im Falle von Arbeitsunfähigkeit der vertraglich vereinbarte Lohn zuzüglich allfälliger Sozialzulagen ab dem 1. Tag der Arbeitsunfähigkeit und während maximal 730 Tagen pro Fall ausbezahlt.
+2 Die Bestimmungen von § 3 Absatz 2 und Absatz 3 gelten sinngemäss.
+3 Endet das Arbeitsverhältnis infolge Nichtwiederwahl oder weil sich die Mitarbeiterin bzw. der Mitarbeiter infolge Arbeitsunfähigkeit der Wiederwahl nicht mehr stellt und dauert die Arbeitsunfähigkeit über den Ablauf der Amtsperiode hinaus fort, so erlischt der Lohnanspruch erst bei Wiedereintritt der Arbeitsfähigkeit, spätestens jedoch nach Ablauf der Lohnzahlungspflicht gemäss Absatz 1.
