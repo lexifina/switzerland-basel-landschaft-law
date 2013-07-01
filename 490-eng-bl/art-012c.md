@@ -1,0 +1,4 @@
+# § 12c Aufhebung der Netzgebietszuteilung, Ersatzvornahme
+1 Der Regierungsrat kann eine Netzgebietszuteilung ganz oder teilweise aufheben, wenn der Netzbetreiber ein entsprechendes Gesuch stellt.
+2 Die Aufhebung ist unter Wahrung der Verhältnismässigkeit auch möglich, wenn der Netzbetreiber seinen gesetzlichen oder vertraglichen Verpflichtungen trotz Ansetzung einer Nachfrist nicht nachkommt.
+3 Bei Verletzung von gesetzlichen oder vertraglichen Pflichten ist eine Ersatzvornahme auf Kosten des Netzbetreibers möglich, auch wenn keine Aufhebung der Netzgebietszuteilung verfügt wird.

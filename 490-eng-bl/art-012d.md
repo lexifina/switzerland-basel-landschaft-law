@@ -1,0 +1,6 @@
+# § 12d Anschlussrecht und Anschlusspflicht
+1 In einem Netzbetreiber zugewiesenen Gebiet ist vorbehältlich damit verbundener Tiefbauarbeiten ausschliesslich dieser berechtigt, Netzanschlüsse für Endverbraucher und Elektrizitätserzeuger zu erstellen.
+2 Der Netzbetreiber ist verpflichtet, sämtliche Endverbraucher und Elektrizitätserzeuger seines Gebiets anzuschliessen, sofern diese es verlangen. Er hat die Netzanschlusskosten transparent und nach Massgabe der Rechtsgleichheit auszugestalten.
+3 Befindet sich der Endverbraucher ausserhalb der Bauzone, dürfen ihm die tatsächlich verursachten Anschlusskosten und die Kosten für den allfälligen Ersatz der Anschlussleitung auferlegt werden. Im Streitfall erlässt der Netzbetreiber eine Verfügung mit Rechtsmittelbelehrung.
+4 Gegen die Verfügung des Netzbetreibers kann innert 10 Tagen beim Regierungsrat Beschwerde erhoben werden.
+5 Betreibt ein Netzeigentümer das Netz nicht selbst, so hat er alle Massnahmen des Netzbetreibers zu dulden, die dieser zur Erfüllung seiner gesetzlichen Pflichten ergreift.
