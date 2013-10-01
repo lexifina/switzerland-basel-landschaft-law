@@ -1,0 +1,4 @@
+# § 121a Informations- und Konsultationspflicht bei Mobilfunkanlagen
+1 Die Mobilfunkbetreiber informieren die Gemeinden und den Kanton jährlich über den aktuellen Stand der Netzplanung.
+2 Vor der Einreichung eines Baugesuches für eine Mobilfunkanlage ist der Mobilfunkbetreiber verpflichtet, bei der Standortgemeinde ein Vorabklärungsgesuch betreffend den Standort einzureichen. Die Gemeinde kann vom Mobilfunkbetreiber einen Vorschlag für einen Alternativstandort verlangen. Sie prüft den vorgesehenen Standort und bespricht mit dem Mobilfunkbetreiber von ihm vorgeschlagene Alternativstandorte. Die Gemeinde kann das Lufthygieneamt beider Basel beiziehen.
+3 Nach Durchführung des von der Gemeinde zu protokollierenden Konsultationsverfahrens kann der Mobilfunkbetreiber das Baugesuch formell bei der zuständigen Baubewilligungsbehörde einreichen, spätestens aber 4 Monate nach Einreichung des Vorabklärungsgesuches bei der Standortgemeinde.

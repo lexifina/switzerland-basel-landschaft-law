@@ -1,0 +1,3 @@
+# § 104a Mobilfunkanlagen
+1 Mobilfunkanlagen dürfen nur auf Dächern errichtet werden, wenn sie die kommunalen Bestimmungen über Dachaufbauten einhalten, nicht innerhalb des Gebäudes untergebracht werden können und die Dachlandschaft nicht verunstalten. Masten und all jene Bestandteile einer Mobilfunkanlage, welche aus technischen Gründen auf dem Dach angebracht werden müssen, sind nicht an die Mass- und Situierungsbestimmungen für Dachaufbauten gebunden, jedoch an das Verunstaltungsverbot.
+2 Auf dem Boden errichtete Mobilfunkmasten unterliegen keiner Höhenbeschränkung. Sie haben sich in die Landschaft und das Ortsbild einzuordnen und dürfen nur mit jenen Bestandteilen versehen werden, welche aus technischen Gründen am Masten befestigt werden müssen.
