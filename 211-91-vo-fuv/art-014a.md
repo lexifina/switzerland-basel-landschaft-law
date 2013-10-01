@@ -1,0 +1,4 @@
+# § 14a Abrechnung der Gebühren für beschlagnahmte und eingezogene Güter
+1 Die Gebühren für beschlagnahmte und eingezogene Güter gemäss § 5 Absätze 2 bis 4 gelten als Kosten des Strafverfahrens und werden der jeweiligen verfahrensleitenden Instanz in Rechnung gestellt.
+2 Ab Rechtskraft des Entscheids oder Urteils werden bis zur Verwertung keine Gebühren für die Verwahrung mehr in Rechnung gestellt.
+3 Der Verwertungsdienst teilt der verfahrensleitenden Instanz auf Anfrage hin die ungefähren Verwertungskosten mit. Allfällig höhere Verwertungskosten, die nicht durch den Verwertungserlös gedeckt sind, werden der verfahrensleitenden Instanz in Rechnung gestellt, welche diese dem Ausgleichskonto belastet, dem die der Staatskasse verfallenen Verwertungserlöse gemäss § 14 Absatz 8 gutgeschrieben werden.
