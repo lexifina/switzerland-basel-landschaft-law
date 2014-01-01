@@ -1,0 +1,5 @@
+# Verordnung über das Naturschutzgebiet «Zigflue», Oltingen
+Vom 03.12.2013
+Der Regierungsrat des Kantons Basel-Landschaft,
+gestützt auf § 12 des Gesetzes vom 20. November 1991 betreffend den Natur- und Landschaftsschutz,
+beschliesst:
