@@ -1,0 +1,2 @@
+# § 17b Übergangsbestimmung betreffend Wegkauf des Leistungsaufschubes bei unterstützten Personen
+1 Für Forderungen der Versicherer, für welche gemäss Übergangsbestimmung zur Änderung des Bundesgesetzes über die Krankenversicherung vom 19. März 2010 der Leistungsaufschub bestehen bleibt, gilt § 6b während 6 Monaten ab dem Inkrafttreten weiter, sofern die sozialhilferechtliche Unterstützung im Jahr 2011 entstanden ist.
