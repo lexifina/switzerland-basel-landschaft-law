@@ -1,0 +1,2 @@
+# § 6bis Instruktion
+1 Die vorsitzende Person oder ihre Stellvertretung instruiert das Verfahren.
