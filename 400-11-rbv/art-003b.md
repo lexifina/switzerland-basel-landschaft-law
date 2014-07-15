@@ -1,0 +1,6 @@
+# § 3b Genehmigungsnachführung, Archivierung und Publikation
+1 Nach rechtskräftiger Genehmigung oder (Teilgenehmigung) der Zonenvorschriften und des Planes wird der Regierungsratsbeschluss im Auftrag der Gemeinde durch die Datenverwaltungsstelle in die Geobasisdaten eingearbeitet.
+2 Die nachgeführten digitalen Geobasisdaten werden innerhalb von 30 Tagen nach dem Regierungsratsbeschluss durch die Nachführungsstelle an das Amt für Raumplanung abgegeben. Sie bestätigt dem Amt für Raumplanung, dass die Geobasisdaten die im Absatz 5 der Verordnung des Bundes über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREBKV) beschriebenen Anforderungen erfüllen.
+3 Die genehmigten und nachgeführten Geobasisdaten und Pläne werden von der Datenverwaltungsstelle im Auftrag der Gemeinde archiviert.
+4 Die Gemeinden können die Geobasisdaten über ihre eigenen Geodienste publizieren und Dritten abgeben.
+5 Das Amt für Raumplanung integriert die von der Gemeinde und deren Nachführungsstelle erhaltenen verbindlichen Geobasisdaten in die kantonale Geodatenbank und veröffentlicht diese über die kantonalen Geodienste. Für die Datenabgabe gilt die Gebührenverordnung für Geobasisdaten und Geodienste (GeoGV).
