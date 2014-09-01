@@ -1,0 +1,6 @@
+# § 4a Auswertung des Mitberichtsverfahren
+1 Lautet der Mitbericht auf gänzliche oder teilweise Ablehnung des Geschäfts, entscheidet die Antrag stellende Direktion, ob sie an ihrem ursprünglichen Antrag festhalten, ihn zurückziehen oder im Sinne des Mitberichtes modifiziert unterbreiten will.
+2 Allfällige Differenzen zwischen der Antrag stellenden Direktion und der teilnehmenden Stelle sind bilateral zu bereinigen, bevor der Antrag an den Regierungsrat gestellt wird. Bleiben Differenzen bestehen bzw. lassen sich diese bilateral nicht bereinigen, so sind diese in der Vorlage zu begründen und auf das durchgeführte Bereinigungsverfahren hinzuweisen.
+3 Nach der Auswertung des Mitberichtsverfahrens unterbreitet die Antrag stellende Direktion definitive Vorlagen mit finanziellen Auswirkungen, zu welchen ein Vernehmlassungsverfahren durchgeführt werden soll oder welche an den Landrat überwiesen werden, der Finanz- und Kirchendirektion zur abschliessenden finanzrechtlichen Prüfung.
+4 Die Finanz- und Kirchendirektion hält das Ergebnis der finanzrechtlichen Prüfung in einem Formular schriftlich fest und erstattet dieses der Antrag stellenden Direktion innert 5 Arbeitstagen.
+5 Die Antrag stellende Direktion fügt das Ergebnis der finanzrechtlichen Prüfung am Schluss des Kapitels zu den finanziellen Auswirkungen in die Landratsvorlage ein.
