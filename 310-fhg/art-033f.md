@@ -1,0 +1,4 @@
+# § 33f Widerspruch
+1 Jede Einwohnergemeinde kann gegen eine Belastung des Zahlungsverkehrskontos innerhalb von 30 Tagen schriftlich Widerspruch bei der Kantonalbank erheben.
+2 Erhebt eine Einwohnergemeinde Widerspruch, macht die Kantonalbank die Belastung rückgängig und teilt dies dem Kanton mit.
+3 Erachtet der Kanton den Widerspruch als unbegründet, erlässt er gegenüber der Einwohnergemeinde nach erfolglosem Einigungsversuch eine anfechtbare Verfügung. Ist bereits eine Verfügung ergangen und in Rechtskraft erwachsen, setzt der Kanton die Forderung in Betreibung.

@@ -1,0 +1,3 @@
+# § 33d Zahlungen
+1 Der Kanton leistet seine Zahlungen an die Einwohnergemeinden durch Gutschrift auf das Zahlungsverkehrskonto.
+2 Der Kanton vereinnahmt die Zahlungen der Einwohnergemeinden an den Kanton durch Belastung des Zahlungsverkehrskontos.
