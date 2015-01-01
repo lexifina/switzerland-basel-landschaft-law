@@ -1,0 +1,3 @@
+# § 15b Übernahme der Ausfinanzierung der Gemeindelehrkräfte
+1 Der Kanton übernimmt à-fonds-perdu die Forderungen der BLPK an die Einwohnergemeinden für die Lehrkräfte des Kindergartens, der Primarschule und der Musikschule sowie an die Musikschulzweckverbände inklusive der ehemals angeschlossenen Musikschulzweckverbände gemäss dem vollständigen Modell für das Kantonspersonal.
+2 Tritt eine Einwohnergemeinde, ein Musikschulzweckverband oder eine Gruppe von Lehrkräften gemäss Absatz 1 als Kollektiv aus der BLPK aus, gilt für die Forderungsübernahme des Kantons die Rückerstattungspflicht gemäss § 12 Absatz 3.
