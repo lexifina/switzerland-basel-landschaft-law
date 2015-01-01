@@ -1,0 +1,2 @@
+# § 52d IVHB Kniestockhöhe
+1 Die Kniestockhöhe ist der Höhenunterschied zwischen der Oberkante des Dachgeschossbodens im Rohbau und der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion.

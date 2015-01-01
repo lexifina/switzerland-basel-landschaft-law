@@ -35,4 +35,7 @@
 ### 6.4 Bauten und Anlagen, die dem kleinen Baubewilligungsverfahren der Gemeinden unterstehen
 ### 6.5 Bewilligungsfreie Bauten und Anlagen
 ### 6.6 Beschwerdeverfahren (Organisation und Verfahren der Baurekurskommission)
-## 7 Schlussbestimmungen
+## 7 Bestimmungen IVHB
+### 4.3.1 IVHB Oberirdische Bauten (Bauten und Bauteile, die über dem massgebenden Terrain liegen)
+#### 4.3.2 IVHB Unterirdische Bauten
+## 8 Schlussbestimmungen

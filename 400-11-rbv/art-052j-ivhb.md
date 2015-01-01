@@ -1,0 +1,2 @@
+# § 52j IVHB Fassadenhöhe
+1 Die Fassadenhöhe ist der grösste Höhenunterschied zwischen der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion und der dazugehörigen Fassadenlinie.

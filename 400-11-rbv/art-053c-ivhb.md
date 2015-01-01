@@ -1,0 +1,2 @@
+# § 53c IVHB Projizierte Fassadenlinie
+1 Die projizierte Fassadenlinie ist die Projektion der Fassadenlinie auf die Ebene der amtlichen Vermessung.

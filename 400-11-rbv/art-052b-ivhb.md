@@ -1,0 +1,2 @@
+# § 52b IVHB Gebäudebreite
+1 Die Gebäudebreite ist die kürzere Seite des flächenkleinsten Rechtecks, welches die projizierte Fassadenlinie umfasst.
