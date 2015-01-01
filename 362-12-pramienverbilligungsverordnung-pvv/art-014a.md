@@ -1,0 +1,3 @@
+# § 14a Junge Erwachsene
+1 Junge Erwachsene ab dem 1. Januar nach Vollendung des 18. Altersjahres bis zum 31. Dezember nach Vollendung des 25. Altersjahres, die zum Zeitpunkt des Versands der Antragsformulare nicht unter § 9 Absatz 1 Buchstabe b fallen, können der Ausgleichskasse bis zum 31. Dezember des Anspruchsjahres ein schriftliches Gesuch um Prämienverbilligung einreichen.
+2 Das massgebende Jahreseinkommen wird anhand der Steuerveranlagung des Vor-Vorjahrs ermittelt. Bei Personen, die im Vorjahr volljährig geworden sind, ist die Steuerveranlagung des Vorjahres massgebend. Bei Personen, die im Vorjahr volljährig geworden sind und der Quellensteuer unterstehen, ist 70% des Bruttoeinkommens des Vorjahres massgebend.
