@@ -1,8 +1,8 @@
-# § 26a Wegweisung und Betretungsverbot bei häuslicher Gewalt
-1 Gefährdet eine Person jemanden innerhalb einer bestehenden oder aufgelösten familiären oder partnerschaftlichen Beziehung oder droht sie mit einer ernsthaften Gefährdung, kann die Polizei
+# § 26a Polizeiliche Schutzmassnahmen (Wegweisung, Betretungs- und Kontaktverbot) bei häuslicher Gewalt und anderen Gefährdungen
+1 Gefährdet eine Person jemanden oder droht sie mit einer ernsthaften Gefährdung, kann die Polizei Basel-Landschaft:
 a. sie aus der Wohnung oder dem Haus wegweisen;
 b. ihr die Betretung eines eng umgrenzten Gebietes untersagen;
 c. ihr verbieten, mit bestimmten Personen in irgendeiner Form Kontakt aufzunehmen.
-2 Die polizeiliche Anordnung dauert 12 Tage. Sie erfolgt unter der Strafandrohung gemäss Art. 292 StGB.
-3 Mit der Wegweisung und dem Betretungsverbot kann zusätzlich Polizeigewahrsam angeordnet werden.
-4 Die Polizei kann die Einhaltung der Wegweisung kontrollieren. Zur Kontrolle der Wegweisung können auch technische Überwachungsgeräte einschliesslich deren fester Verbindung mit der zu überwachenden Person eingesetzt werden.
+2 Die polizeiliche Anordnung dauert 12 Tage. Sie erfolgt unter der Strafandrohung gemäss Artikel 292 StGB.
+3 …
+4 Die Polizei Basel-Landschaft kann die Einhaltung der Schutzmassnahmen gemäss Absatz 1 kontrollieren. Zur Kontrolle können auch technische Überwachungsgeräte, einschliesslich der festen Verbindung mit der zu überwachenden Person, eingesetzt werden.

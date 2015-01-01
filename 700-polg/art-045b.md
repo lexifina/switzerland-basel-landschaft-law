@@ -1,0 +1,4 @@
+# § 45b Polizeiliche Überwachung des öffentlichen Raums
+1 Die Polizei Basel-Landschaft kann bei oder im Zusammenhang mit öffentlichen Veranstaltungen und Kundgebungen allgemein und nicht allgemein zugängliche öffentliche Orte mit technischen Geräten offen überwachen und, soweit notwendig, Bild- und Tonaufnahmen machen, wenn konkrete Anhaltspunkte die Annahme rechtfertigen, es könne zu strafbaren Handlungen gegen Personen, Tiere und Sachen oder zu erheblicher Gefährdung der öffentlichen Sicherheit kommen.
+2 Die Aufzeichnungen sind sofort auszuwerten.
+3 Die Aufzeichnungen dürfen ausschliesslich weiter bearbeitet werden, wenn strafbare Handlungen begangen worden sind, und sind zu vernichten, sobald feststeht, dass sie für die Strafverfolgung oder die Gefahrenabwehr nicht mehr benötigt werden.

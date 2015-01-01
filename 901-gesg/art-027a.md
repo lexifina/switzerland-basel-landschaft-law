@@ -1,3 +1,3 @@
 # § 27a Ersatzabgabe
 1 Die Berufsorganisation kann von Personen, die keinen Notfalldienst leisten, eine Ersatzabgabe erheben. Die Ersatzabgabe ist zweckgebunden für die Deckung der Kosten der Organisation und Durchführung des Notfalldienstes zu verwenden.
-2 Die Höhe der Ersatzabgabe beträgt bis zu 6'000 Franken pro Jahr und orientiert sich an der Anzahl nicht geleisteter Dienste. Sie kann bei Personen, die aus triftigen Gründen wie Krankheit, Schwangerschaft, Betreuung von Kindern oder Erreichen des 55. Altersjahrs von der Dienstleistung ganz oder teilweise befreit worden sind, angemessen reduziert werden.
+2 Die Höhe der Ersatzabgabe beträgt bis zu CHF 6'000 pro Jahr und orientiert sich an der Anzahl nicht geleisteter Dienste. Sie kann bei Personen, die aus triftigen Gründen wie Krankheit, Schwangerschaft, Betreuung von Kindern oder Erreichen des 55. Altersjahrs von der Dienstleistung ganz oder teilweise befreit worden sind, angemessen reduziert werden.
