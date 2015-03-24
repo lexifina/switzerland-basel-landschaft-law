@@ -1,3 +1,5 @@
-# Verordnung über Abgeltungsbeiträge zur Schaffung und Erhaltung von ökologischen Ausgleichsflächen in der Landwirtschaftszone
-Vom 18.12.2001
-Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
+# Verordnung über die Förderung der Biodiversität und Landschaftsqualität im Landwirtschaftsgebiet
+Vom 24.03.2015
+Der Regierungsrat des Kantons Basel-Landschaft,
+gestützt auf das Gesetz über den Natur- und Landschaftsschutz vom 20. November 1991,
+beschliesst:
