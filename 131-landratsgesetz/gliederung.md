@@ -17,7 +17,7 @@
 ## 6 Publikation
 ## 7 Parlamentarische Oberaufsicht
 ### 7.1 Organe der Oberaufsicht
-### 7.2 Geschäftsprüfungskommission, Finanzkommission und andere Kommissionen
+### 7.2 Geschäftsprüfungskommission, Interparlamentarische Geschäftsprüfungskommissionen, Finanzkommission und andere Kommissionen
 ### 7.3 Parlamentarische Untersuchungskommissionen (PUK)
 ## 8 Akteneinsichtsrecht für die Bevölkerung
 ## 9 Schlussbestimmungen

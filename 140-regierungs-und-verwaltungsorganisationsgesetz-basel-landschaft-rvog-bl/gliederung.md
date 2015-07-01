@@ -2,8 +2,9 @@
 ### 1.1 Stellung und Aufgaben des Regierungsrates
 ### 1.2 Organisation des Regierungsrates
 ### 1.3 Geschäftsgang
-## 2 Die Landeskanzlei und weitere Stabsstellen des Regierungsrates
+## 2 Landeskanzlei, der Rechtsdienst von Regierungsrat und Landrat und weitere Stabstellen des Regierungsrates
 ### 2.1 Die Landeskanzlei
+### 2.1bis Rechtsdienst von Regierungsrat und Landrat
 ### 2.2 Weitere Stabsstellen des Regierungsrates
 ## 3 Die Direktionen
 ### 3.1 Grundsätze der Organisation
@@ -13,4 +14,5 @@
 ## 4
 ### 4.1
 ### 4.3
+## 4bis Beteiligungen
 ## 5 Schlussbestimmungen
