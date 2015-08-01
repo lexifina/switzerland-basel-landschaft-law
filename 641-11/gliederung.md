@@ -5,8 +5,8 @@
 ### 4.1 Allgemeine Bestimmungen
 ### 4.2 Kindergarten
 ### 4.3 Primarschule
-## 5 Umfassende Blockzeiten
-### 5.1 Allgemeines
+## 5 Unterrichtsorganisation
+### 5.1 Allgemeine Bestimmungen
 ### 5.2 Kindergarten
 ### 5.3 Primarschule
 ## 6 Spezielle Förderung
