@@ -1,0 +1,3 @@
+# § 119a Verfahrenskoordination und einheitliche Rechtsmittelinstanz
+1 Bei koordinierten Verfahren gemäss § 119 sind die koordiniert ergehenden Verfügungen oder Entscheide mehrerer Behörden bei einer einheitlichen Rechtsmittelinstanz anfechtbar. Es handelt sich dabei um diejenige Rechtsmittelinstanz, welche gemäss der spezifischen Gesetzgebung Rechtsmittelinstanz für Verfügungen und Entscheide im Leitverfahren ist.
+2 Die Rechtsmittelinstanz nimmt eine Überprüfung hinsichtlich Rechtsverletzungen einschliesslich der Überschreitung, Unterschreitung oder des Missbrauchs des Ermessens vor sowie hinsichtlich unrichtiger oder unvollständiger Feststellung des Sachverhalts und Unangemessenheit.
