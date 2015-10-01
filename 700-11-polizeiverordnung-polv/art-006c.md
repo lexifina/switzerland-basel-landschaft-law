@@ -2,6 +2,7 @@
 1 Folgende Gemeinden verfügen über die Kompetenz zur Kontrolle des ruhenden Verkehrs im Ordnungsbussenverfahren (§ 7 Buchstabe a Polizeigesetz):
 1. Aesch,
 2. Allschwil,
+2a. Arisdorf,
 3. Arlesheim,
 4. Augst,
 5. Binningen,
