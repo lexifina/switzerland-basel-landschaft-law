@@ -1,5 +1,6 @@
-## 1 Allgemeine Bestimmung
-## 2 Finanzausgleich
-## 3 Sonderlasten
+## 1 Allgemeine Bestimmungen
+## 2 Ressourcenausgleich
+## 2bis Härtebeitrag
+## 3 Lastenabgeltung
 ## 4 Kompensationsleistungen
 ## 5 Schlussbestimmungen
