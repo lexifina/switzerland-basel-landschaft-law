@@ -1,2 +1,3 @@
-# § 24a Aufwandspauschale (§ 33 Abs. 3 SHG)
-1 Die einbehaltene Aufwandspauschale für eine Rückerstattung aufgrund wirtschaftlicher Verhältnisse beträgt jährlich 10% des vereinnahmten Betrags, jedoch höchstens jährlich CHF 5'000.
+# § 24a Aufwandsentschädigung (§ 33 Abs. 4 SHG)
+1 Der Tarif nach Zeitaufwand beträgt CHF 90 pro Stunde.
+2 Auslagen für Porti und Kopien werden zusätzlich in Rechnung gestellt. Für Fotokopien wird CHF 1 pro Kopie erhoben. Die Auslagen für Porti werden nach effektiven Kosten festgelegt.
