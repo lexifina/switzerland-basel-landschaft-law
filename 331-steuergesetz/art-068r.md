@@ -1,5 +1,5 @@
 # § 68r 9. Mitwirkung des Schuldners der steuerbaren Leistung
-1 Die Arbeitgeber, Veranstalter, juristischen Personen, Hypothekarschuldner und öffentlichen Pensionskassen als Schuldner der steuerbaren Leistungen sind verpflichtet
+1 Die Arbeitgeber, Veranstalter, juristischen Personen, Hypothekarschuldner und öffentlichen Pensionskassen als Schuldner der steuerbaren Leistungen sind verpflichtet:
 a. bei Fälligkeit von Geldleistungen die geschuldete Steuer zurückzubehalten und bei anderen Leistungen (insbesondere Naturalleistungen und Trinkgeldern) die geschuldete Steuer vom Steuerpflichtigen einzufordern;
 b. dem Steuerpflichtigen eine Aufstellung oder eine Bestätigung über den Steuerabzug auszustellen;
 c. die Steuern periodisch der kantonalen Steuerverwaltung abzuliefern, mit ihr darüber abzurechnen und ihr zur Kontrolle der Steuererhebung Einblick in alle Unterlagen zu gewähren;

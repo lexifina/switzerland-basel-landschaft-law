@@ -1,5 +1,5 @@
 # § 10bis 7. Besteuerung nach dem Aufwand
-1 Natürliche Personen, die erstmals oder nach mindestens zehnjähriger Landesabwesenheit steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz nehmen und hier keine Erwerbstätigkeit ausüben, haben das Recht, bis zum Ende der laufenden Steuerperiode anstelle der Einkommens- und Vermögenssteuer eine Steuer nach dem Aufwand zu entrichten.
+1 Natürliche Personen, die erstmals oder nach mindestens 10-jähriger Landesabwesenheit steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz nehmen und hier keine Erwerbstätigkeit ausüben, haben das Recht, bis zum Ende der laufenden Steuerperiode anstelle der Einkommens- und Vermögenssteuer eine Steuer nach dem Aufwand zu entrichten.
 2 ...
 3 Die Steuer wird nach dem Aufwand des Steuerpflichtigen und seiner Familie bemessen und nach dem ordentlichen Steuertarif (§ 34) berechnet. Sie muss aber mindestens gleich hoch angesetzt werden wie die nach dem ordentlichen Tarif berechneten Steuern vom gesamten Bruttobetrag:
 a. des in der Schweiz gelegenen unbeweglichen Vermögens und von dessen Einkünften;

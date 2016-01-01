@@ -1,5 +1,5 @@
 # § 68f 6. Mitwirkung des Schuldners der steuerbaren Leistung
-1 Der Arbeitgeber als Schuldner der steuerbaren Leistung ist verpflichtet
+1 Der Arbeitgeber als Schuldner der steuerbaren Leistung ist verpflichtet:
 a. bei Fälligkeit von Geldleistungen die geschuldete Steuer zurückzubehalten und bei anderen Leistungen (insbesondere Naturalleistungen und Trinkgeldern) die geschuldete Steuer vom Arbeitnehmer einzufordern;
 b. dem Steuerpflichtigen eine Aufstellung oder eine Bestätigung über den Steuerabzug auszustellen;
 c. die Steuern periodisch der kantonalen Steuerverwaltung abzuliefern, mit ihr hierüber abzurechnen und ihr zur Kontrolle der Steuererhebung Einblick in alle Unterlagen zu gewähren;
