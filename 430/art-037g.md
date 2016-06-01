@@ -1,3 +1,3 @@
 # § 37g Einnahmenverteilung
-1 Der Kanton erhält 30 Franken für jede ausgestellte Gewerbeparkkarte.
-2 70 Franken werden im Verhältnis der Anzahl Einwohnerinnen und Einwohner unter den Gemeinden aufgeteilt.
+1 Der Kanton erhält CHF 30 für jede ausgestellte Gewerbeparkkarte.
+2 CHF 70 werden im Verhältnis der Anzahl Einwohnerinnen und Einwohner unter den Gemeinden aufgeteilt.
