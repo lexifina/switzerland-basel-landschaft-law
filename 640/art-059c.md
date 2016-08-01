@@ -1,0 +1,3 @@
+# § 59c Grundsätze der Datenbearbeitung
+1 Für die eindeutige Identifikation von in der SAL registrierten Personen wird die Versichertennummer gemäss Art. 50c des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung verwendet.
+2 Unter Einhaltung der Vorgaben des Informations- und Datenschutzgesetzes sowie der Fachweisungen und der jeweiligen Zugriffsberechtigungen können von der bearbeitenden Stelle abrufbare Daten zur Erfüllung des Berufsauftrags auch ausserhalb der SAL auf Medien abgespeichert werden, die durch entsprechende kantonale Benutzungsreglemente freigegeben sind.

@@ -20,6 +20,7 @@
 ### 2.12 Schuldienste
 ## 3 Schulen des Kantons und der Einwohnergemeinden
 ### 3.1 Auftrag
+### 3.1bis Schuladministrationslösung
 ### 3.2 Qualitätssicherung
 ### 3.3 Schulbeteiligte
 #### 3.3.1 Schülerinnen und Schüler

@@ -1,0 +1,4 @@
+# § 4b Spezielle Bestimmungen zur Datenweitergabe
+1 Bei einem Wechsel der Klasse oder einem Schulstufenwechsel in der Volksschule haben die Mitglieder des Klassenkonvents der übernehmenden Klasse Zugang zu den für die Leistungsentwicklung und die Erreichung der Bildungsziele erforderlichen Daten.
+2 Die beteiligten Fachpersonen der Schulorganisation haben Zugang zu den für die Förderplanung erforderlichen Daten und sind berechtigt, ihre Datenerhebungen in die Förderplanung einfliessen zu lassen.
+3 Für die Planung von Massnahmen zur Unterstützung des Zugangs und des Durchlaufens der Sekundarstufe II ist die Weitergabe der notwendigen Daten von Schülerinnen und Schülern an die beteiligten Fachpersonen nur im Einverständnis mit den Erziehungsberechtigten oder den volljährigen Schülerinnen und Schülern möglich.
