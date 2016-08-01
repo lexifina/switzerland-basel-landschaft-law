@@ -1,68 +1,92 @@
 # § 6c Gemeinden mit übertragener Kompetenz
-1 Folgende Gemeinden verfügen über die Kompetenz zur Kontrolle des ruhenden Verkehrs im Ordnungsbussenverfahren (§ 7 Buchstabe a Polizeigesetz):
-1. Aesch,
-2. Allschwil,
-2a. Arisdorf,
-3. Arlesheim,
-4. Augst,
-5. Binningen,
-6. Birsfelden,
-7. Bottmingen,
-8. Ettingen,
-9. Frenkendorf,
-10. Füllinsdorf,
-11. Giebenach,
-12. Grellingen,
-13. Hölstein,
-14. Itingen,
-15. Laufen,
-16. Lausen,
-17. Liestal,
-18. Münchenstein,
-19. Muttenz,
-20. Oberdorf,
-21. Oberwil,
-22. Pratteln,
-23. Reinach,
-24. Schönenbuch,
-25. Sissach,
-26. Therwil,
-27. Waldenburg,
-28. Zunzgen,
-29. Zwingen.
-2 Folgende Gemeinden verfügen über die Kompetenz zur Kontrolle des fahrenden Verkehrs mit technischen Geräten ohne Anhaltung der Fahrzeuge im Ordnungsbussenverfahren (§ 7 Buchstabe b Polizeigesetz):
-1. Aesch,
-2. Allschwil,
-3. Arlesheim,
-4. Binningen,
-5. Birsfelden,
-6. Bottmingen,
-7. Frenkendorf,
-8. Füllinsdorf,
-9. Liestal,
-10. Münchenstein,
-11. Muttenz,
-12. Oberwil,
-13. Pratteln,
-14. Reinach,
-15. Schönenbuch,
-16. Therwil.
-3 Folgende Gemeinden führen eine Gemeindepolizei, die auch das Ordnungsbussenwesen inklusive Anhaltung der Fahrzeuge mitumfasst (§§ 7f ff. Polizeigesetz):
-1. Aesch,
-2. Allschwil,
-3. Arlesheim,
-4. Augst,
-5. Binningen,
-6. Birsfelden,
-7. Ettingen,
-8. Frenkendorf,
-9. Füllinsdorf,
-10. Giebenach,
-11. Laufen,
-12. Liestal,
-13. Münchenstein,
-14. Muttenz,
-15. Oberwil,
-16. Pratteln,
-17. Reinach,
-18. Therwil.
+1 …
+2 …
+3 …
+4 Der Regierungsrat hat folgende Kompetenzen übertragen:
+Gemeinde Kontrolle des ruhenden Verkehrs im Ordnungsbussenverfahren (§ 7 Buchstabe a Polizeigesetz) Kontrolle des fahrenden Verkehrs mit technischen Geräten ohne Anhaltung der Fahrzeuge im Ordnungsbussenverfahren (§ 7 Buchstabe b Polizeigesetz) Führung einer Gemeindepolizei inklusive Kontrolle des ruhenden und fahrenden Verkehrs (Gemeindepolizeien können Fahrzeuge auch anhalten, §§ 7f ff. Polizeigesetz)
+Aesch JA JA JA
+Allschwil JA JA JA
+Anwil NEIN NEIN NEIN
+Arboldswil NEIN NEIN NEIN
+Arisdorf JA NEIN NEIN
+Arlesheim JA JA JA
+Augst JA JA JA
+Bennwil NEIN NEIN NEIN
+Biel-Benken NEIN NEIN NEIN
+Binningen JA JA JA
+Birsfelden JA JA JA
+Blauen NEIN NEIN NEIN
+Böckten NEIN NEIN NEIN
+Bottmingen JA JA NEIN
+Bretzwil NEIN NEIN NEIN
+Brislach NEIN NEIN NEIN
+Bubendorf NEIN NEIN NEIN
+Buckten NEIN NEIN NEIN
+Burg im Leimental NEIN NEIN NEIN
+Buus NEIN NEIN NEIN
+Diegten NEIN NEIN NEIN
+Diepflingen NEIN NEIN NEIN
+Dittingen NEIN NEIN NEIN
+Duggingen NEIN NEIN NEIN
+Eptingen NEIN NEIN NEIN
+Ettingen JA JA JA
+Frenkendorf JA JA JA
+Füllinsdorf JA JA JA
+Gelterkinden NEIN NEIN NEIN
+Giebenach JA JA JA
+Grellingen JA NEIN NEIN
+Häfelfingen NEIN NEIN NEIN
+Hemmiken NEIN NEIN NEIN
+Hersberg NEIN NEIN NEIN
+Hölstein JA NEIN NEIN
+Itingen JA NEIN NEIN
+Känerkinden NEIN NEIN NEIN
+Kilchberg NEIN NEIN NEIN
+Lampenberg NEIN NEIN NEIN
+Langenbruck NEIN NEIN NEIN
+Läufelfingen NEIN NEIN NEIN
+Laufen JA JA JA
+Lausen JA NEIN NEIN
+Lauwil NEIN NEIN NEIN
+Liedertswil NEIN NEIN NEIN
+Liesberg NEIN NEIN NEIN
+Liestal JA JA JA
+Lupsingen NEIN NEIN NEIN
+Maisprach NEIN NEIN NEIN
+Münchenstein JA JA JA
+Muttenz JA JA JA
+Nenzlingen NEIN NEIN NEIN
+Niederdorf NEIN NEIN NEIN
+Nusshof NEIN NEIN NEIN
+Oberdorf JA NEIN NEIN
+Oberwil JA JA JA
+Oltingen NEIN NEIN NEIN
+Ormalingen NEIN NEIN NEIN
+Pfeffingen NEIN NEIN NEIN
+Pratteln JA JA JA
+Ramlinsburg NEIN NEIN NEIN
+Reigoldswil NEIN NEIN NEIN
+Reinach JA JA JA
+Rickenbach NEIN NEIN NEIN
+Roggenburg NEIN NEIN NEIN
+Röschenz NEIN NEIN NEIN
+Rothenfluh NEIN NEIN NEIN
+Rümlingen NEIN NEIN NEIN
+Rünenberg NEIN NEIN NEIN
+Schönenbuch JA JA NEIN
+Seltisberg NEIN NEIN NEIN
+Sissach JA NEIN NEIN
+Tecknau NEIN NEIN NEIN
+Tenniken NEIN NEIN NEIN
+Therwil JA JA JA
+Thürnen NEIN NEIN NEIN
+Titterten NEIN NEIN NEIN
+Wahlen NEIN NEIN NEIN
+Waldenburg JA NEIN NEIN
+Wenslingen NEIN NEIN NEIN
+Wintersingen NEIN NEIN NEIN
+Wittinsburg NEIN NEIN NEIN
+Zeglingen NEIN NEIN NEIN
+Ziefen NEIN NEIN NEIN
+Zunzgen JA NEIN NEIN
+Zwingen JA NEIN NEIN
