@@ -24,7 +24,7 @@ Bubendorf NEIN NEIN NEIN
 Buckten NEIN NEIN NEIN
 Burg im Leimental NEIN NEIN NEIN
 Buus NEIN NEIN NEIN
-Diegten NEIN NEIN NEIN
+Diegten JA NEIN NEIN
 Diepflingen NEIN NEIN NEIN
 Dittingen NEIN NEIN NEIN
 Duggingen NEIN NEIN NEIN
