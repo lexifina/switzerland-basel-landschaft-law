@@ -9,7 +9,7 @@
 ### 5.1 Bevorschussung
 ### 5.2 Vollstreckungshilfe
 ## 6 Heime
-## 7 Jugend- und Behindertenhilfe
+## 7 Jugendhilfe
 ### 7.1 Heime, Pflegefamilien und Einrichtungen
 ### 7.2 Beiträge
 ## 8 Besondere Vollzugsbestimmungen

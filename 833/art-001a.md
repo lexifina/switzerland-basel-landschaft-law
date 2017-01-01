@@ -1,6 +1,6 @@
-# § 1a Heime
-1 Als im bundesrechtlichen Sinne kantonal anerkannte Heime gelten:
-a. die gemäss der kantonalen Sozialhilfegesetzgebung generell anerkannten sowie für die Aufenthaltsdauer einer bestimmten Person anerkannten Heime;
-b. die übrigen Heime gemäss der kantonalen Sozialhilfegesetzgebung bis zum 31. Dezember 2010, sofern eine Tarifvereinbarung mit dem Kanton besteht;
+# § 1a Heime (Art 25a Absatz 1 ELV)
+1 Als im bundesrechtlichen Sinne kantonal bewilligte und anerkannte Heime gelten:
+a. die gemäss der kantonalen Sozialhilfegesetzgebung bewilligten bzw. generell anerkannten sowie für die Aufenthaltsdauer einer bestimmten Person anerkannten Heime;
+b. die gemäss dem Gesetz vom 29. September 2016 über die Behindertenhilfe (BHG) anerkannten Heime;
 c. die auf den kantonalen Pflegeheimlisten aufgeführten Heime;
 d. die aufgrund interkantonaler Vereinbarungen anerkannten Heime.
