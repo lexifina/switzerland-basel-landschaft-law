@@ -1,4 +1,0 @@
-# § 3a Solarkataster
-1 Der Kanton führt einen Solarkataster.
-2 Der Solarkataster zeigt die solaren Potenziale für Photovoltaik- und solarthermische Anlagen auf den Gebäuden im Kanton auf.
-3 Der Solarkataster wird über das kantonale Geoportal der Allgemeinheit zugänglich gemacht.
