@@ -1,3 +1,3 @@
-# § 14c Einkommensuntergrenzen für günstige, wirtschaftliche Verhältnisse
+# § 14c Einkommensuntergrenzen für günstige wirtschaftliche Verhältnisse
 1 Personen, die ein Gesuch nach § 14a stellen, haben Anspruch auf Prämienverbilligung, wenn das massgebende Jahreseinkommen ihrer Eltern höchstens um den Faktor 2,75 grösser ist als die anspruchsabschliessende Obergrenze des massgebenden Jahreseinkommens der jeweiligen Berechnungseinheit gemäss Dekret über die Einkommensobergrenzen und über den Prozentanteil in der Prämienverbilligung.
 2 Leben die Eltern der gesuchstellenden Person nicht miteinander in ungetrennter Ehe, besteht Anspruch auf Prämienverbilligung, wenn das massgebende Jahreseinkommen beider Elternteile je einzeln die Grenze nach Absatz 1 nicht überschreitet.
