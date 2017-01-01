@@ -1,0 +1,2 @@
+# § 18a Kosten für Pflege in einer Institution gemäss Bundesgesetz vom 6. Oktober 2006 über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)
+1 Kosten für Pflege in einer anerkannten Institution gemäss IFEG werden vergütet, wenn die Pflegeleistungen durch einen KVG-anerkannten Leistungserbringer erbracht werden, die Kosten aus der Behindertenhilfe ausgeschieden sind und die Leistungen in Folge Alter, Invalidität, Unfall oder Krankheit notwendig sind.
