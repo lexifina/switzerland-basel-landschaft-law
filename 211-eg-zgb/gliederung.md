@@ -13,6 +13,7 @@
 ## 4.2.6 Nachbetreuung, ambulante Massnahmen
 ## 4.2.7 Sammelvermögen
 ## 4.2.8 Verantwortlichkeit
+## 4.2.9 Vorsorgeauftrag
 ## 5 Erbrecht
 ## 5.1 Zuständigkeiten
 ## 5.2 Massregeln zur Sicherung der Erbschaft
