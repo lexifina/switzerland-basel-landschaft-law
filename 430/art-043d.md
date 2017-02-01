@@ -1,0 +1,7 @@
+# § 43d Bauprojekt Rückbau der Rheinstrasse zwischen Pratteln und Liestal
+1 Das umweltverträglich auszuführende Bauprojekt «Rückbau der Rheinstrasse zwischen Pratteln und Liestal» ist vorsorglich so auszugestalten, dass für länger dauernde Sperrungen der A22, insbesondere der Tunnelröhren, die Rheinstrasse mit 3 Fahrstreifen betrieben werden kann.
+2 Ab dem Knoten Rheinstrasse/Wölferstrasse südwärts bis zum Kreisel Schauenburgstrasse hat die Fahrbahn eine Gesamtbreite von mindestens 9 Metern einzuhalten. Die 2-spurige Fahrbahn mit einem Mehrzweckstreifen in der Mitte und die Knoten sind so auszugestalten, dass bei voraussichtlich länger dauernden Sperrungen der A22, insbesondere der Sperrung einer oder beider Tunnelröhren wegen Schadenereignissen, eine temporäre 3-spurige Verkehrsführung innert weniger Tage eingerichtet werden kann.
+3 Die Haltestellen für den öffentlichen Verkehr sind so zu realisieren, dass sie mit dem 3-spurigen Verkehrsfluss verträglich sind.
+4 Ab dem Knoten Rheinstrasse/Wölferstrasse ist vorsorglich eine temporäre Einfahrt in die A22 in Richtung Basel zu realisieren (als Ergänzung des Halbanschlusses Frenkendorf/Füllinsdorf Nord).
+5 Den Bedürfnissen des Langsamverkehrs ist Rechnung zu tragen.
+6 Mit Inkrafttreten dieser Bestimmungen werden sämtliche damit in Widerspruch stehenden kantonalen Nutzungsplanungen und damit zusammenhängende Beschlüsse, insbesondere das am 12. August 2002 rechtskräftig erklärte Teilprojekt Rheinstrasse, aufgehoben.
