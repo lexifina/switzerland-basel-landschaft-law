@@ -1,0 +1,2 @@
+# § 19b Betreuung durch direkt angestellte Betreuungspersonen
+1 Wird die Betreuung gemäss § 19 durch eine direkt angestellte Betreuungsperson erbracht, werden Bezügerinnen und Bezügern einer Hilflosenentschädigung für schwere oder mittelschwere Hilflosigkeit die Kosten nach Angemessenheit vergütet, jedoch nur für denjenigen Teil der Betreuung, der nicht durch eine Spitex-Organisation erbracht werden kann.
