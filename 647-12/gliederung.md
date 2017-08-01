@@ -1,7 +1,8 @@
 ## 1 Allgemeine Bestimmungen
 ## 2 Anstellung
 ## 3 Arbeitszeit, Lohn
-### 3.1 Volksschulen
+### 3.1 Primarstufe
+### 3.1bis Sekundarschule
 ### 3.2 Berufsfachschulen, Gymnasien
 ### 3.3 Musikschulen
 ## 4 Aufgaben
