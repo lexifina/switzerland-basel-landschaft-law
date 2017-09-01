@@ -1,4 +1,4 @@
 ## 1 Allgemeines
-## 2 Vorgaben zur Zusammensetzung
-## 3 Kontrolle und Publikation
-## 4 Schlussbestimmungen
+## 2 Generelle Pflichten
+## 3 Vorgaben zur Zusammensetzung
+## 4 Überprüfung der Zusammensetzung und Zweckmässigkeit
