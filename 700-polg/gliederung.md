@@ -15,6 +15,7 @@
 ## 7 Vermisstensuche
 ## 8 Präventiver Bundesstaatsschutz
 ## 9 Polizeiliche Kompetenzen ausserhalb der Polizei Basel-Landschaft
+## 9a Bedrohungsmanagement
 ## 10 Rechte und Pflichten Privater
 ## 11 Vollzugshilfe
 ## 12 Schadenersatz, Kostenersatz, Gebühren, Inkasso
