@@ -1,6 +1,6 @@
 # § 36a Zusammenschluss
 1 2 oder mehrere Einwohnergemeinden können sich durch Vertrag zu einer neuen Einwohnergemeinde zusammenschliessen.
-2 Auf den Zeitpunkt des Zusammenschlusses hin
+2 Auf den Zeitpunkt des Zusammenschlusses hin:
 a. enden die Amtsperioden der bisherigen Behörden und beginnen diejenigen der neuen Behörden für den Rest der laufenden Amtsperioden,
 b. sind die Rechte und Pflichten aus bisherigem Zusammenwirken gemäss § 34 Absatz 1 aufgehoben,
 c. gehen die übrigen bisherigen Rechte und Pflichten auf die neue Einwohnergemeinde über.

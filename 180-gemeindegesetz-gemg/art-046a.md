@@ -3,7 +3,7 @@
 a. Bussen bis maximal CHF 5'000;
 b. Ersatzfreiheitsstrafen von maximal 50 Tagen für den Fall der Nichtbezahlung der Busse;
 c. gemeinnützige Arbeit bis 200 Stunden anstelle der ausgesprochenen Busse, sofern der oder die Betroffene zustimmt.
-2 Bei Übertretungen durch Jugendliche sind die Artikel 21-24 Jugendstrafgesetz sinngemäss anwendbar, wobei
+2 Bei Übertretungen durch Jugendliche sind die Art. 21 bis 24 Jugendstrafgesetz sinngemäss anwendbar, wobei:
 a. die maximale Bussenhöhe CHF 500 und
 b. die maximale,persönliche Leistung 5 Tage beträgt.
 3 Für Bussen nach den §§ 20 und 58 dieses Gesetzes sind die Bestimmungen über die Ersatzfreiheitsstrafe und die gemeinnützige Arbeit nicht anwendbar. Die maximale Bussenhöhe beträgt CHF 1'000.

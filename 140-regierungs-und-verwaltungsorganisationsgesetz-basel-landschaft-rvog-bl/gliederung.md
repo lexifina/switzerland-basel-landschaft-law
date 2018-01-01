@@ -1,18 +1,12 @@
-## 1 Der Regierungsrat
-### 1.1 Stellung und Aufgaben des Regierungsrates
-### 1.2 Organisation des Regierungsrates
-### 1.3 Geschäftsgang
-## 2 Landeskanzlei, der Rechtsdienst von Regierungsrat und Landrat und weitere Stabstellen des Regierungsrates
-### 2.1 Die Landeskanzlei
-### 2.1bis Rechtsdienst von Regierungsrat und Landrat
-### 2.2 Weitere Stabsstellen des Regierungsrates
-## 3 Die Direktionen
-### 3.1 Grundsätze der Organisation
-### 3.2 Erfüllung der Aufgaben
-### 3.3 Stabsstellen der Direktionen
-### 3.4 Zusammenarbeit in der kantonalen Verwaltung
-## 4
-### 4.1
-### 4.3
-## 4bis Beteiligungen
-## 5 Schlussbestimmungen
+## 1 Regierungsrat
+### 1.1 Zusammensetzung, Aufgaben
+### 1.2 Organisation
+### 1.3 Geschäftsführung
+## 2 Stabsstellen des Regierungsrats
+### 2.1 Landeskanzlei
+### 2.2 Rechtsdienst von Regierungsrat und Landrat
+## 3 Kantonale Verwaltung
+### 3.1 Grundlagen
+### 3.2 Die Direktionen
+### 3.3 Andere Träger öffentlicher Aufgaben
+### 4 Vollzug des Gesetzes
