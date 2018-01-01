@@ -6,6 +6,7 @@
 ### 1.5 Lohnwesen
 ### 1.6 Beschwerdewesen
 ### 1.7 Zusammenarbeit mit dem Personalamt
+### 1.8 Meldung von Missständen
 ## 2 Ausbildung; Personalentwicklung
 ### 2.1 Ausbildung
 ### 2.2 Personalentwicklung
