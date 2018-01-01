@@ -1,3 +1,5 @@
-# Reglement über den Kaminfegedienst
-Vom 19.11.1997
-Die Verwaltungskommission der Basellandschaftlichen Gebäudeversicherung (BGV), gestützt auf § 2 des Gesetzes vom 12. Januar 1981 über den Feuerschutz und § 14 der Verordnung vom 1. Dezember 1981 über den Feuerschutz, beschliesst:
+# Reglement über Beiträge an freiwillige Schutzmassnahmen
+Vom 20.09.2017
+Die Verwaltungskommission der Basellandschaftlichen Gebäudeversicherung,
+gestützt auf § 18 Absatz 3 des Gesetzes vom 12. Januar 2017 über die Prävention vor Schäden durch Brand- und gravitative Naturgefahren (Brand- und Naturgefahrenpräventionsgesetz, BNPG),
+beschliesst:
