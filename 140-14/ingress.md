@@ -1,5 +1,5 @@
 # Verordnung betreffend Pflichtenheft des Planungs- und Strategieausschusses
 Vom 21.12.2010
 Der Regierungsrat des Kantons Basel-Landschaft,
-gestützt auf § 38 des Verwaltungsorganisationsgesetzes vom 6. Juni 1983,
+gestützt auf § 24 des Gesetzes vom 28. September 2017 über die Organisation des Regierungsrats und der Verwaltung des Kantons Basel-Landschaft (Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft, RVOG BL),
 beschliesst:

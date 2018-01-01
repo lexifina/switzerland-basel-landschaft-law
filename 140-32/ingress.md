@@ -1,5 +1,5 @@
 # Verordnung über die Anhörung der Gemeinden
 Vom 15.07.2003
 Der Regierungsrat des Kantons Basel-Landschaft,
-gestützt auf § 7a des Gesetzes vom 6. Juni 1983 über die Organisation des Regierungsrates und der kantonalen Verwaltung (Verwaltungsorganisationsgesetz),
+gestützt auf § 2 Absatz 2 des Gesetzes vom 28. Mai 1970 über die Organisation und die Verwaltung der Gemeinden (Gemeindegesetz),
 beschliesst:
