@@ -1,5 +1,5 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Heime
+## 2 Alters- und Pflegeheime sowie Spitäler
 ## 3 Vergütung von Krankheits- und Behinderungskosten
 ## 3.1 Allgemeine Bestimmungen
 ## 3.2 Kosten für Kostenbeteiligungen, Zahnarzt, Ernährung und Kuren

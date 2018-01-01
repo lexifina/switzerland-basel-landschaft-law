@@ -2,4 +2,5 @@
 ## 2 Ressourcenausgleich
 ## 3 Härtebeitrag
 ## 4 Lastenabgeltung
+## 4a Kompensationsleistungen
 ## 5 Weitere Bestimmungen
