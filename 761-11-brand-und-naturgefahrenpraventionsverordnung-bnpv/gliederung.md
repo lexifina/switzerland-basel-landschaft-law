@@ -1,5 +1,3 @@
-## 1 Allgemeines
-## 2 Brandschutzkontrollen und Feuerschau
-## 3 Kaminfegedienst
-## 4 ...
-## 5 Schlussbestimmungen
+## 1 Allgemeine Bestimmungen
+## 2 Brandschadenprävention
+## 3 Prävention vor Schäden durch Naturgefahren

@@ -1,5 +1,6 @@
-# Verordnung über den Feuerschutz
-Vom 09.12.1997
+# Verordnung über die Prävention vor Schäden durch Brand- und gravitative Naturgefahren
+(Brand- und Naturgefahrenpräventionsverordnung, BNPV)
+Vom 29.08.2017
 Der Regierungsrat des Kantons Basel-Landschaft,
-gestützt auf das Gesetz vom 12. Januar 1981 über den Feuerschutz (FeuG),
+gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984,
 beschliesst:
