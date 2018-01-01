@@ -1,5 +1,5 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Rodung (Art. 4-9 WaG)
+## 2 Rodung (Art. 4–9 WaG)
 ## 3 Waldfeststellung
 ## 4 Waldgrenzenkarten
 ## 5 Bauen im Wald
