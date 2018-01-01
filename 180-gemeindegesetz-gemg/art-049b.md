@@ -1,3 +1,4 @@
-# § 49b Initiative auf Gründung einer Bürgergemeinde
-1 50 handlungsfähige Bürger und Bürgerinnen oder 100 Stimmberechtigte der Einwohnergemeinde können dem Gemeinderat das Begehren stellen, die Urnenabstimmung über die Gründung einer Bürgergemeinde durchzuführen.
-2 Der Gemeinderat kann die Urnenabstimmung auch von sich aus durchführen.
+# § 49b Verfahren
+1 Der Gemeinderat erstattet der Gemeindeversammlung zu einer gültig zustandegekommenen Einführungsinitiative innert eines halben Jahres seit Einreichung Bericht und stellt Antrag.
+2 Die Gemeindeversammlung erklärt eine unmögliche oder offensichtlich rechtswidrige Einführungsinitiative für ungültig.
+3 Sie kann für die Urnenabstimmung eine Empfehlung zur Annahme oder zur Ablehnung der Einführungsinitiative abgeben.

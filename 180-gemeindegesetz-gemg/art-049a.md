@@ -1,4 +1,7 @@
-# § 49a Initiative auf Einführung der ausserordentlichen Gemeindeorganisation
-1 10% der Stimmberechtigten können das nichtformulierte Begehren auf Einführung der ausserordentlichen Gemeindeorganisation stellen. Bei mehr als 5000 Stimmberechtigten genügen 500 Unterschriften.
-2 Die Einzelheiten der Initiative richten sich nach den §§ 122 Absatz 4 und 123. Zuständig anstelle des Einwohnerrates ist die Gemeindeversammlung.
-3 Bei der Behandlung des Initiativbegehrens findet keine Erheblicherklärung (§ 68 Absatz 4) statt.
+# § 49a Initiative auf Einführung des Initiativrechts sowie auf Einführung der ausserordentlichen Gemeindeorganisation (Einführungsinitiative)
+1 10% der Stimmberechtigten können das formulierte oder nicht formulierte Begehren stellen (Einführungsinitiative) auf Einführung:
+a. des Initiativrechts;
+b. der ausserordentlichen Gemeindeorganisation.
+2 Bei mehr als 5'000 Stimmberechtigten genügen 500 Unterschriften.
+3 Das formulierte Begehren enthält einen ausgearbeiteten Vorschlag zur Änderung der Gemeindeordnung.
+4 Mit dem nicht formulierten Begehren wird der Gemeindeversammlung beantragt, die Gemeindeordnung im Sinne des Begehrens zu ändern.

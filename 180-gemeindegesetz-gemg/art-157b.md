@@ -3,7 +3,7 @@
 2 Rechtliche Grundlagen für gebundene Ausgaben sind insbesondere:
 a. Erlass- und Vertragsbestimmungen, die zwingend angewendet werden müssen;
 b. Beschlüsse des Gemeinderats über die Vornahme einer Tätigkeit, die aus Gründen der Schadensminderung unverzüglich vorgenommen werden muss;
-c. Rechtsentscheide und -vergleiche.
+c. Rechtsentscheide und -vergleiche für alle damit verbundenen Ausgaben.
 3 Rechtliche Grundlagen für ungebundene Ausgaben sind:
 a. Budget,
 b. Sondervorlagen,
