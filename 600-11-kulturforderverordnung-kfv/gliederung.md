@@ -11,3 +11,4 @@
 ## 3 Kantonsmuseum
 ## 4 Kantonsarchäologie
 ## 5 Römerstadt Augusta Raurica
+## 6 Verlag des Kantons Basel-Landschaft
