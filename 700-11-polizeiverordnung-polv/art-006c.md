@@ -3,7 +3,7 @@
 2 …
 3 …
 4 Der Regierungsrat hat folgende Kompetenzen übertragen:
-Gemeinde Kontrolle des ruhenden Verkehrs im Ordnungsbussenverfahren (§ 7 Buchstabe a Polizeigesetz) Kontrolle des fahrenden Verkehrs mit technischen Geräten ohne Anhaltung der Fahrzeuge im Ordnungsbussenverfahren (§ 7 Buchstabe b Polizeigesetz) Führung einer Gemeindepolizei inklusive Kontrolle des ruhenden und fahrenden Verkehrs (Gemeindepolizeien können Fahrzeuge auch anhalten, §§ 7f ff. Polizeigesetz)
+Gemeinde Kontrolle des ruhenden Verkehrs im Ordnungsbussenverfahren (§ 7 Bst. a Polizeigesetz) Kontrolle des fahrenden Verkehrs mit technischen Geräten ohne Anhaltung der Fahrzeuge im Ordnungsbussenverfahren (§ 7 Bst. b Polizeigesetz) Führung einer Gemeindepolizei inklusive Kontrolle des ruhenden und fahrenden Verkehrs (Gemeindepolizeien können Fahrzeuge auch anhalten, §§ 7f ff. Polizeigesetz)
 Aesch JA JA JA
 Allschwil JA JA JA
 Anwil NEIN NEIN NEIN
@@ -56,7 +56,7 @@ Maisprach NEIN NEIN NEIN
 Münchenstein JA JA JA
 Muttenz JA JA JA
 Nenzlingen NEIN NEIN NEIN
-Niederdorf NEIN NEIN NEIN
+Niederdorf JA NEIN NEIN
 Nusshof NEIN NEIN NEIN
 Oberdorf JA NEIN NEIN
 Oberwil JA JA JA
