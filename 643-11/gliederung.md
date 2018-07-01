@@ -10,6 +10,7 @@
 ### 4.3 Lehrerinnen und Lehrer
 ## 5 Leitung und Aufsicht
 ### 5.1 Schulleitung
+### 5.1a Schulleitungskonferenz
 ### 5.2 Schulrat
 ## 6 Disziplinarwesen
 ## 7 Schlussbestimmungen

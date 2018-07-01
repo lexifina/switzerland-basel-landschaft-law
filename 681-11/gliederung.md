@@ -19,6 +19,7 @@
 ### 3.11 Lehrerinnen und Lehrer
 ## 4 Leitung und Aufsicht
 ### 4.1 Schulleitung
+### 4.1a Schulleitungskonferenz
 ### 4.2 Schulrat
 ### 4.3 Amt für Berufsbildung und Berufsberatung
 ## 5 Disziplinarwesen
