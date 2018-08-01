@@ -1,4 +1,4 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Anstellung und Pensen
-## 3 Amt für Kind, Jugend und Behindertenangebote, Fachkommission Schulsozialdienst und Schulleitungen
+## 2 Anstellung auf der Sekundarstufe I
+## 3 …
 ## 4 Übergangs- und Schlussbestimmungen
