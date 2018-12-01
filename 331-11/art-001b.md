@@ -1,0 +1,2 @@
+# § 1b Reduktion Mietwert selbstgenutzter Liegenschaften (§ 27ter Abs. 7 StG)
+1 Liegt der gemäss den gesetzlichen Bestimmungen formelmässig ermittelte Eigenmietwert im Einzelfall nachweislich über 60 % des Marktmietwertes, so wird er auf schriftlich und begründetes Gesuch hin auf einen Wert von 60 % reduziert. Zum individuellen Nachweis sind Liegenschaften geeignet, welche nach Lage, Beschaffenheit (Baujahr, Wohnfläche, Kubatur und Gebäudeart) und Ausstattung vergleichbar sowie an Dritte vermietet sind.

@@ -1,0 +1,3 @@
+# § 1a Korrektur Mietwert selbstgenutzter Liegenschaften (§ 27ter Abs. 6 StG)
+1 Der Marktmietwert des selbstgenutzten Wohneigentums richtet sich nach demjenigen Wert, der unter normalen und ortsüblichen Verhältnissen bei einer Vermietung an Dritte erzielt werden könnte.
+2 Liegt der gemäss den gesetzlichen Bestimmungen formelmässig ermittelte Eigenmietwert im Einzelfall nachweislich unter 60 % des Marktmietwertes, so wird er von Amtes wegen auf einen Wert von 60 % erhöht. Zur systematischen Überprüfung wird insbesondere ein Vergleich mit dem durchschnittlichen kommunalen Mietpreis (Median-Wert) je Quadratmeter Wohnfläche des betreffenden Objekts gemacht.
