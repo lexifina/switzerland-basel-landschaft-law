@@ -1,0 +1,4 @@
+# § 15a Stufenwechsel
+1 Ein Eintritt in das MZjE Arxhof erfolgt in der Regel in der geschlossenen Eintrittsabteilung. Ausnahmen sind aufgrund einvernehmlicher Absprachen der Direktion des Massnahmezentrums mit der einweisenden Behörde möglich.
+2 Der Aufenthalt in der Eintrittsabteilung ist zeitlich zu befristen und dauert im Regelfall bis 6 Monate. Er kann maximal 2-mal um je 2 Wochen verlängert werden, wenn ein Übertritt in den offenen Vollzug noch nicht möglich erscheint. Das Konzept regelt die Einzelheiten.
+3 Übertritte von der Eintrittsabteilung in einen Stammpavillon sowie Wechsel in die Aussenwohngruppe oder in externes Wohnen erfolgen durch die Direktion des MZjE Arxhof nach einvernehmlicher Absprache mit der einweisenden Behörde. Voraussetzung dafür ist, dass die gemeinsam gesetzten Ziele durch den Eingewiesenen erreicht wurden. Möglich sind Time-outs (Rückversetzungen) aus pädagogischen Gründen (§ 39a).
