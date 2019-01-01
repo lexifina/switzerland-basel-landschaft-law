@@ -6,4 +6,4 @@
 ## 3 Eingliederung
 ## 3.01 Verfügungen
 ## 4 Aufsicht und Fortbildung
-## 5 Schlussbestimmungen
+## 5 Übergangs- und Schlussbestimmungen

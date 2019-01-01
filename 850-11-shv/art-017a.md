@@ -1,5 +1,5 @@
 # § 17a Pflichten der unterstützten Person (§ 11 Abs. 2 SHG)
-1 Die unterstützte Person ist insbesondere verpflichtet,
+1 Die unterstützte Person ist insbesondere verpflichtet:
 a. die zur Bemessung der Unterstützung benötigten Auskünfte vollständig und wahrheitsgetreu zu geben, Einsicht in die zweckdienlichen Unterlagen zu gewähren sowie die notwendige Vollmacht zu unterzeichnen;
 b. unaufgefordert Veränderungen der unterstützungsrelevanten Sachverhalte umgehend zu melden;
 c. alle Ansprüche gemäss § 5 SHG, die ihr möglicherweise zustehen, geltend zu machen und sich so zu verhalten, dass diese nicht verjähren oder verwirken;
