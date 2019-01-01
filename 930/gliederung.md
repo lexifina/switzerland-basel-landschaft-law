@@ -1,5 +1,5 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Spitalplanung und Spitalfinanzierung
+## 2 …
 ## 3 Kantonale Spitäler
 ## 3.1 Allgemeines
 ## 3.2 Personal
