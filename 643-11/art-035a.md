@@ -16,4 +16,5 @@ k. die Planung des Bedarfs und der Nutzung des Schulraums;
 l. die regelmässige Konsultation der Interessenvertreter und Organe der Gymnasiallehrerinnen- und Gymnasiallehrer über ihre das Bildungsangebot betreffenden Absichten;
 m. die Sicherstellung der Information der Öffentlichkeit über die Ausbildungen an den Gymnasien (Maturitätsschule und Fachmittelschule);
 n. die Vertretung der Gymnasien in sie betreffenden Fragen auf regionaler und schweizerischer Ebene sowie gegenüber Zubringer- und Abnehmerschulen;
-o. die Koordination der Bildungsgänge mit den Abteilungen P und E der Sekundarschulen.
+o. die Koordination der Bildungsgänge mit den Abteilungen P und E der Sekundarschulen;
+p. die Festlegung des Kostendachs für Kostenbeiträge der Erziehungsberechtigten für Unterrichtsmittel, Schulveranstaltungen und Dienstleistungen.
