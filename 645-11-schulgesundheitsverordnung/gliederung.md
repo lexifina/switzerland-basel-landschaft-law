@@ -1,5 +1,3 @@
-## 1 Organisation und Aufgabe
-## 2 Untersuchungen, Meldepflicht, Formalitäten
-## 3 Vergütungen
-## 4 Rechtspflege
-## 5 Schlussbestimmungen
+## 1 Schulgesundheitliche Untersuchungen
+## 2 Dokumentation
+## 3 Vergütung
