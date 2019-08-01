@@ -1,3 +1,5 @@
 # Schulgesundheitsgesetz
-Vom 12.12.1955
-Der Landrat des Kantons Basel-Landschaft beschliesst auf Antrag des Regierungsrates als Gesetz:
+Vom 17.01.2019
+Der Landrat des Kantons Basel-Landschaft,
+gestützt auf § 63 Abs. 1 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984,
+beschliesst:
