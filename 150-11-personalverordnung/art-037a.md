@@ -4,7 +4,7 @@
 a. Weiterbildung;
 b. externe Stages;
 c. Projektarbeit;
-d: Erweiterung des Tätigkeitsfelds durch job enrichment, job enlargement oder job rotation;
+d: Erweiterung des Tätigkeitsfelds durch Job Enrichment, Job Enlargement oder Job Rotation;
 e. interne Stages;
 f. E-Learning und Blended Learning.
 3 Die Auswahl und Zuteilung der Teilnehmerinnen und Teilnehmer wird von den Anstellungsbehörden vorgenommen.
