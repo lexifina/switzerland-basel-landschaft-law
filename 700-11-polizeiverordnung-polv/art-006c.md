@@ -43,7 +43,7 @@ Itingen JA NEIN NEIN
 Känerkinden NEIN NEIN NEIN
 Kilchberg NEIN NEIN NEIN
 Lampenberg NEIN NEIN NEIN
-Langenbruck NEIN NEIN NEIN
+Langenbruck JA NEIN NEIN
 Läufelfingen NEIN NEIN NEIN
 Laufen JA JA JA
 Lausen JA NEIN NEIN
