@@ -1,0 +1,4 @@
+# § 8e Anteil der Landeskirchen an der direkten Bundessteuer
+1 Vom Kantonsanteil an der direkten Bundessteuer gemäss Art. 196 Abs. 1 des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (Bundessteueranteil) erhalten die 3 kantonalen Landeskirchen 0,6 %.
+2 Der Anteil der einzelnen Landeskirchen richtet sich nach dem Verhältnis ihrer Kirchenglieder zur Anzahl Kirchenglieder aller Landeskirchen des Kantons. Massgebend für die Anzahl Kirchenglieder sind die Zahlen der kantonalen Bevölkerungsstatistik per Ende September des der Auszahlung vorangehenden Jahres.
+3 Die Auszahlung an die Landeskirchen erfolgt jeweils quartalsweise durch die kantonale Steuerverwaltung. Die 1. Auszahlung findet im 2. Quartal 2020, gestützt auf die Abrechnung für den Bundessteueranteil (Generalausweis) des1. Quartals 2020, statt.

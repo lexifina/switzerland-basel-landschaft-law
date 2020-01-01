@@ -1,0 +1,3 @@
+# § 27quater 9. Einkünfte aus qualifizierten Beteiligungen
+1 Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Aktien, Anteilen an Gesellschaften mit beschränkter Haftung, Genossenschaftsanteilen und Partizipationsscheinen sind im Umfang von 60 % steuerbar, wenn diese Beteiligungsrechte mindestens 10 % des Grund- oder Stammkapitals einer Kapitalgesellschaft oder einer Genossenschaft darstellen.
+2 Die Teilbesteuerung gemäss Abs. 1 gilt auch auf Gewinnen aus der Veräusserung von Beteiligungsrechten des Geschäftsvermögens, sofern die veräusserten Beteiligungsrechte mindestens 1 Jahr im Eigentum der steuerpflichtigen Person oder des Personenunternehmens waren.
