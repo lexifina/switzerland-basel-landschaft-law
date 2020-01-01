@@ -1,0 +1,5 @@
+# § 48e Spezielle Bestimmungen zur Erkennung des Bedarfs an unterstützenden Massnahmen
+1 Schülerinnen und Schüler mit hohem Risiko, am Übergang in die Sekundarstufe II zu scheitern, werden zur Früherkennung der Koordinationsstelle Brückenangebote von der jeweiligen Schulleitung der Sekundarstufe I nach dem 1. Semester des letzten Schuljahres gemeldet.
+2 Schülerinnen und Schüler, die am Ende des letzten Schuljahres keine Anschlusslösung in die Sekundarstufe II haben, werden der Koordinationsstelle Brückenangebote von der jeweiligen Schulleitung der Sekundarstufe I gemeldet.
+3 Die Meldung gemäss den Absätzen 1 und 2 hat mit Einverständnis der Erziehungsberechtigten beziehungsweise der volljährigen Schülerin oder des volljährigen Schülers zu erfolgen.
+4 Bei Schülerinnen und Schülern mit sonderpädagogischen Massnahmen, deren Anschlusslösung in die Sekundarstufe II unklar ist, ist die Koordinationsstelle Brückenangebote ab dem Fachkonvent im zweitletzten Schuljahr der Sekundarstufe I beizuziehen.
