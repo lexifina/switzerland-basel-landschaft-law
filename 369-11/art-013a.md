@@ -1,2 +1,0 @@
-# § 13a Promotion von Swisslos Sportfonds
-1 Es werden jährlich finanzielle Mittel, maximal CHF 50'000.--, für die Promotion und Kommunikation vom Swisslos Sportfonds vorgesehen.
