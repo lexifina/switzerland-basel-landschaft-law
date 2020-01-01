@@ -7,3 +7,4 @@
 6 Wurden im Untersuchungsverfahren Zahlungen geleistet, sind diese an die Staatsanwaltschaft zurückzuerstatten.
 7 Gegen die Anordnung der Nachzahlung können dieselben Rechtsmittel ergriffen werden, die gegen die Verweigerung der unentgeltlichen Rechtspflege oder der amtlichen Verteidigung gegeben sind.
 8 Die Gerichtsverwaltung trifft die Abklärungen betreffend Nachzahlungen. Sie erhält Auskünfte aus den Steuerakten, sofern ein berechtigtes Interesse vorliegt, und kann die benötigten Daten mittels eines Abrufverfahrens beziehen. Der Regierungsrat regelt die Einzelheiten.
+4 Aufhebung und Änderung bisherigen Rechts
