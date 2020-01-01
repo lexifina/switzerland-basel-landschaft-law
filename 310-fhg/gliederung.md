@@ -10,6 +10,6 @@
 ### 4.1 Allgemeine Bestimmungen
 ### 4.2 Jahresrechnung
 ### 4.3 Bilanzierung und Bewertung
-## 5 Beteiligungen und Staatsbeiträge
+## 5 Beteiligungen
 ## 6 Zuständigkeiten
 ## 7 Übergangsbestimmung
