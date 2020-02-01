@@ -9,5 +9,5 @@
 ### 3.2 Ausgabenbewilligungen
 ### 3.3 Wirtschaftlichkeitsrechnung
 ## 4 Rechnungslegung
-## 5 Zahlungsverkehr Kanton-Gemeinden (§ 63 Abs. 3 FHG)
+## 5 Zahlungsverkehr Kanton–Gemeinden (§ 63 Abs. 3 FHG)
 ## 6 Übrige Bestimmungen
