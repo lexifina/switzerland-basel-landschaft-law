@@ -1,3 +1,5 @@
-# Verordnung über die Gebühren für den Vollzug der Lärmschutz-Gesetzgebung
+# Verordnung über die Gebühren für Vollzugsaufgaben im Bereich Lärmschutz
 Vom 24.03.1998
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf Artikel 48 des Bundesgesetzes vom 7. Oktober 1983 über den Umweltschutz, § 44 des Umweltschutzgesetzes Basel-Landschaft vom 27. Februar 1991 und § 24 des Verwaltungsverfahrensgesetzes vom 13. Juni 1988, beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984,
+beschliesst:
