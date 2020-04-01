@@ -4,6 +4,10 @@
 #### 1.2.1 Kantonale Richtplanung
 #### 1.2.2 Agglomerationsprogramm
 #### 1.2.3 Kantonale Nutzungsplanung
+### 1.2a Regionale Planung
+#### 1.2a.1 Regionalverbände
+#### 1.2a.2 Regionales Entwicklungskonzept
+#### 1.2a.3 Regionaler Richtplan
 ### 1.3 Ortsplanung
 #### 1.3.1 Kommunale Richtplanung
 #### 1.3.2 Kommunale Nutzungsplanung
