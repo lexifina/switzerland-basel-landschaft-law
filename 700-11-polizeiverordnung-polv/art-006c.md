@@ -19,7 +19,7 @@ Blauen NEIN NEIN NEIN
 Böckten NEIN NEIN NEIN
 Bottmingen JA JA NEIN
 Bretzwil NEIN NEIN NEIN
-Brislach NEIN NEIN NEIN
+Brislach JA NEIN NEIN
 Bubendorf NEIN NEIN NEIN
 Buckten NEIN NEIN NEIN
 Burg im Leimental NEIN NEIN NEIN
