@@ -1,5 +1,6 @@
 # § 8a Anmeldung
-1 Schülerinnen und Schüler melden sich für ein öffentliches Gymnasium bzw. eine Fachmittelschule des Kantons Basel-Landschaft an.
-2 Mit der Anmeldung geben sie 2 Prioritäten betreffend Schulort oder Maturitätsprofil an.
+1 Schülerinnen und Schüler melden sich für ein öffentliches Gymnasium (Maturitätsschule bzw. Fachmittelschule) des Kantons Basel-Landschaft an.
+2 Mit der Anmeldung geben sie das gewünschte Maturitätsprofil (Maturitätsschule) bzw. Berufsfeld (Fachmittelschule) an.
+2bis Sie können ein weiteres Maturitätsprofil bzw. Berufsfeld ihres Interesses angeben.
 3 …
 4 …
