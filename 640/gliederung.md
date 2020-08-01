@@ -6,11 +6,13 @@
 ### 2.1 Kindergarten
 ### 2.2 Primarschule
 ### 2.3 Sekundarschule
+### 2.3a Brückenangebote
+### 2.3b Berufsintegration
 ### 2.4 Berufliche Grundbildung
 #### 2.4.1 Berufsfachschule
 #### 2.4.2 Ausbildung in Lehrbetrieben
 #### 2.4.3 Ausbildung in Überbetrieblichen Kursen
-### 2.5 Fachmittelschule und Berufsvorbereitende Schule BVS 2
+### 2.5 Fachmittelschule
 ### 2.6 Gymnasium
 ### 2.7 Spezielle Förderung
 ### 2.8 Sonderschulung
