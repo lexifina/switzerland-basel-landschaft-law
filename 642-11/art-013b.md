@@ -1,0 +1,8 @@
+# § 13b Anspruch auf Transportkostenentschädigung bei unzumutbarem Schulweg
+1 Ist ein Schulweg gemäss den Kriterien von § 12a Abs. 3 nicht zumutbar, haben die Schülerinnen und Schüler Anspruch auf eine Transportkostenentschädigung.
+2 Wird ein unzumutbarer Schulweg (ganz oder teilweise) mit einem öffentlichen Verkehrsmittel zurückgelegt, trägt der Kanton 80 % der Kosten des Jahres-Umweltschutzabonnements für Junioren. Dabei gelten folgende Anspruchsvoraussetzungen:
+a. Schülerinnen und Schüler mit Wohnsitz in einer Wohngemeinde, die gemäss Anhang 1 von der Dorfmitte bis zum Schulstandort mindestens 6 Leistungskilometer (dabei wird die effektive Länge sowie die Höhendifferenz berücksichtigt, wobei 100 m Höhendifferenz 1 Leistungskilometer entsprechen) entfernt ist oder eine Höhendifferenz von mindestens 150 m zum Schulstandort aufweist, haben einen automatischen Anspruch auf Ausrichtung der Kostenbeteiligung.
+b. Bei Schülerinnen und Schülern, die im Rahmen der Klassenbildung nicht dem üblichen Schulstandort zugewiesen werden, entscheidet das Amt für Volksschulen im Rahmen des Zuweisungsentscheids über den Anspruch auf Kostenbeteiligung.
+c. Bei allen übrigen Schülerinnen und Schülern entscheidet das Amt für Volksschulen auf Gesuch über den Anspruch auf Kostenbeteiligung.
+3 Stehen für den Schulweg keine öffentlichen Verkehrsmittel zur Verfügung oder ist der Anteil des Schulwegs bis zur nächstgelegenen Haltestelle des öffentlichen Verkehrs nicht zumutbar, entscheidet das Amt für Volksschulen über alternative Transportmöglichkeiten oder eine Entschädigung für diese.
+4 Werden Erziehungsberechtigte für den Transport ihrer Kinder durch Nutzung des privaten Fahrzeugs beigezogen, beträgt die Entschädigung pro beitragsberechtigtem Kilometer CHF 0.70.
