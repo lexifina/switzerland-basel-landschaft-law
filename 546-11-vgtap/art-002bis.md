@@ -1,0 +1,8 @@
+# § 2bis Ausnahme von der Bewilligungspflicht
+1 Ein Personentransport gilt als bestellt, wenn der Fahrgast via Telefon, Internet oder andere technische Kommunikationsmittel zur Bestellung der Fahrt Kontakt zur Unternehmung aufnimmt und das Fahrzeug den Fahrgast am vereinbarten Standort abholt. Eine persönliche Bestellung direkt am Standort des Fahrzeugs ist unzulässig.
+2 Eine ausreichende Information über die Unternehmung, die Fahrerin oder den Fahrer und das Fahrzeug ist dann gegeben, wenn der Fahrgast den Namen der Unternehmung, respektive den Namen der Fahrerin oder des Fahrers und die Marke, das Modell und die Kennzeichennummer des Fahrzeugs auf einfach zugängliche Art und Weise vor Antritt der Fahrt erfährt oder erfahren kann und aufgrund dieser Informationen die Möglichkeit besteht, die Fahrt vor Fahrtantritt zu stornieren.
+3 Eine ausreichende Information über die Konditionen der Fahrt ist dann gegeben, wenn der Fahrgast vor Bestellung der Fahrt den verbindlichen Gesamtpreis oder eine Preisspanne für die Beförderung auf der gewünschten Strecke erfährt. Der Gesamtpreis respektive die Obergrenze der Preisspanne dürfen nur überschritten werden:
+a. bei erheblich längerer Fahrdauer wegen unvorhersehbarer äusserer Umstände wie Strassensperrungen, Staus, Unfällen oder schweren Unwettern;
+b. bei erheblicher Verlängerung der ursprünglich vorgesehenen Fahrstrecke wegen unvorhersehbarer äusserer Umstände wie Strassensperrungen, Staus, Unfällen oder schweren Unwettern, oder
+c. wenn Fahrdauer oder Fahrstrecke auf Wunsch des Fahrgastes verlängert werden.
+Treten unvorhersehbare äussere Umstände gemäss den Bst. a und b ein, ist der Fahrgast umgehend über die allfällige Preisüberschreitung zu informieren
