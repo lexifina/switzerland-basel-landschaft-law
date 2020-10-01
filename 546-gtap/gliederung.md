@@ -1,5 +1,5 @@
 ## 1 Geltungsbereich
-## 2 Taxigewerbe
+## 2 Taxigewerbe und andere Formen von gewerbsmässigen Personentransporten
 ## 2.1 Bewilligungsverfahren
 ## 2.2 Ausübung des Gewerbes
 ## 3 Gebühren
