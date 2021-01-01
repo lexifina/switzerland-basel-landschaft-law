@@ -1,5 +1,7 @@
-## 1 Verlosung bei Unterhaltungsanlässen (Tombola)
-## 2 Glücks- und Unterhaltungsspiele
-## 3 Gewerbsmässige Wetten
-## 4 Strafbestimmungen
-## 5 Schlussbestimmungen
+## 1 Kleinspiele
+## 2 Kleinlotterien an Unterhaltungsanlässen
+## 3 Kleine Geschicklichkeitsspiele
+## 4 Spielerschutz
+## 5 Abgaben
+## 6 Gebühren
+## 7 Vollzug
