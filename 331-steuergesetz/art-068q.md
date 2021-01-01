@@ -1,2 +1,2 @@
 # § 68q 8. Abgegoltene Steuer
-1 Der Steuerabzug tritt an die Stelle der im ordentlichen Verfahren zu veranlagenden Staats- und Gemeindesteuer.
+1 Die Quellensteuer tritt an die Stelle der im ordentlichen Verfahren zu veranlagenden Staats- und Gemeindesteuern auf dem Erwerbseinkommen. Nachträglich werden keine zusätzlichen Abzüge gewährt.
