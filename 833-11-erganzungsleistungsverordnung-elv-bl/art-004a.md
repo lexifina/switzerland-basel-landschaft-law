@@ -1,5 +1,5 @@
 # § 4a Obergrenze
-1 Die anrechenbaren Heimkosten für Personen, die in einem Alters- und Pflegeheim leben, sind für Unterbringung und Betreuung wie folgt begrenzt:
+1 Die anrechenbaren Heimkosten gemäss § 2a Ergänzungsleistungsgesetz zur AHV und IV sind für Unterbringung und Betreuung wie folgt begrenzt:
 a. im Jahr 2018 auf CHF 200.– pro Tag;
 b. im Jahr 2019 auf CHF 190.– pro Tag;
 c. im Jahr 2020 auf CHF 180.– pro Tag;
