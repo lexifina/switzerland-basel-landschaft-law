@@ -1,5 +1,1 @@
-# § 27a Erfahrungsstufenanstieg beim unterrichtenden Personal der öffentlichen Schulen des Kantons und der Einwohnergemeinden sowie bei den Schulleitungen der Primarstufe und der Musikschulen
-1 Beim unterrichtenden Personal der öffentlichen Schulen des Kantons und der Einwohnergemeinden sowie bei den Schulleitungen der Primarstufe und der Musikschulen ist anstelle des Ergebnisses der Gesamtbeurteilung des Mitarbeitendengesprächs die Erfüllung des Stellenauftrags oder der Stellenanforderungen für die Gewährung des Erfahrungsstufenanstiegs massgebend.
-2 Werden der Stellenauftrag oder die Stellenanforderungen nicht erfüllt, erfolgt kein Erfahrungsstufenanstieg.
-3 Wird eine nachhaltig ausserordentlich gute Leistung erbracht, kann in einem Kalenderjahr maximal 1 zusätzliche lohnwirksame Stufe gewährt werden.
-4 Die Anstellungsbehörde teilt den betroffenen Mitarbeitenden auf Antrag der Anstellungsbehörde ihren ablehnenden Entscheid über die Beschleunigung oder ihren Entscheid über die Nichtgewährung des Erfahrungsstufenanstiegs in Form einer Verfügung mit.
+# § 27a …
