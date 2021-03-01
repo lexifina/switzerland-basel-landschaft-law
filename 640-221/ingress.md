@@ -1,5 +1,5 @@
 # Reglement über Aufnahmen und Übertritte
-Vom 12.06.2014
-Die Dienststelle Gymnasien,
-gestützt auf § 67 Absatz 3 der Verordnung vom 11. Juni 2013 über die schulische Laufbahn (Laufbahnverordnung),
+Vom 05.03.2021
+Die Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH),
+gestützt auf § 67 Abs. 3 der Verordnung über die schulische Laufbahn vom 11. Juni 2013,
 beschliesst:
