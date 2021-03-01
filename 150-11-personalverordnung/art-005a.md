@@ -1,2 +1,2 @@
 # § 5a Verlängerung Probezeit
-1 Bei einer effektiven Verkürzung der Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht kann die Anstellungsbehörde die Probezeit angemessen verlängern.
+1 Die Anstellungsbehörde kann die Probezeit angemessen verlängern, insbesondere wenn die Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht effektiv verkürzt wurde.
