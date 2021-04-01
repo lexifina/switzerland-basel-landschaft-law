@@ -1,4 +1,4 @@
-## 1 Bezirksgefängnisse und Arrestlokale
+## 1 Gefängnisse und Polizeizellen
 ## 2 Zuständige Behörden
 ## 3 Aufnahme der Gefangenen
 ## 4 Aufsicht, Personal und Wartung
