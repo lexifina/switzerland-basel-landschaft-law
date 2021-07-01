@@ -1,4 +1,4 @@
-# § 42a Beschwerde beim Bezirksgerichtspräsidium
+# § 42a Beschwerde beim Zivilkreisgerichtspräsidium
 1 Die mit einer Massnahme gemäss § 26a belegte Person kann innert 5 Tagen seit Eröffnung der Verfügung beim Zivilkreisgerichtspräsidium schriftlich und begründet Beschwerde erheben.
 2 Die Beschwerde ist beim Zivilkreisgerichtspräsidium einzureichen, in dessen Bezirk die mit der Wegweisung und dem Betretungsverbot belegte Wohnung oder das Haus liegt.
 3 Der Lauf der Beschwerdefrist und die Beschwerdeerhebung haben keine aufschiebende Wirkung.

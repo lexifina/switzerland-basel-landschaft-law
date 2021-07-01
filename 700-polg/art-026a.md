@@ -1,5 +1,5 @@
 # § 26a Polizeiliche Schutzmassnahmen (Wegweisung, Betretungs- und Kontaktverbot) bei häuslicher Gewalt und anderen Gefährdungen
-1 Gefährdet eine Person jemanden oder droht sie mit einer ernsthaften Gefährdung, kann die Polizei Basel-Landschaft:
+1 Gefährdet eine Person jemanden, droht sie mit einer ernsthaften Gefährdung, belästigt sie jemanden oder stellt sie jemandem nach, kann die Polizei Basel-Landschaft:
 a. sie aus der Wohnung oder dem Haus wegweisen;
 b. ihr die Betretung eines eng umgrenzten Gebietes untersagen;
 c. ihr verbieten, mit bestimmten Personen in irgendeiner Form Kontakt aufzunehmen.

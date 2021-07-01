@@ -1,2 +1,4 @@
 # § 51c Ausnahmen von der Bewilligungspflicht
-1 Vorbehalten ist die bewilligungsfreie Tätigkeit aufgrund der Freizügigkeitsregeln des Bundesgesetzes vom 6. Oktober 1995 über den Binnenmarkt sowie des Abkommens vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit.
+1 Interne Werkschutzdienste sind von der Bewilligungspflicht ausgenommen.
+2 Unerheblich ist die Organisationsstruktur (interne Sicherheitsabteilung, Dienstleistung durch Tochter- oder Drittunternehmen usw.).
+3 Die Befreiung gilt nicht für Betriebe der Gastronomie, des Unterhaltungs-, Freizeit- und Sportbereichs, bei temporären Veranstaltungen und anderen Betrieben und Anlässen mit grösserem Publikumsverkehr und erhöhtem Konfliktpotenzial.

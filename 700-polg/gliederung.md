@@ -4,6 +4,7 @@
 ### 2bis.1 Öffentliche Ordnung
 ### 2bis.2 Ordnungsbussen im Strassenverkehr
 ### 2bis.3 Gemeindepolizei
+## 2ter Ordnungsbussen, Kompetenzordnung
 ## 3 Dienstrechtliche Bestimmungen
 ## 4 Grundsätze des polizeilichen Handelns
 ## 5 Legitimation, polizeiliche Massnahmen, polizeilicher Zwang und Rechtsschutz
@@ -12,7 +13,7 @@
 ### 5.3 Polizeilicher Zwang
 ### 5.4 Rechtsschutz
 ## 6 Videoüberwachung und Datenabgleich
-## 7 Vermisstensuche
+## 7 Überwachung des Fernmeldeverkehrs (Vermisstensuche, Fahndung nach verurteilten Personen)
 ## 8 Präventiver Bundesstaatsschutz
 ## 9 Polizeiliche Kompetenzen ausserhalb der Polizei Basel-Landschaft
 ## 9a Bedrohungsmanagement

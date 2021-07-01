@@ -1,8 +1,8 @@
 # § 51b Bewilligungspflicht
-1 Eine Bewilligung der Polizei Basel-Landschaft ist erforderlich für:
-a. Sicherheitsangestellte;
-b. das Führen eines Sicherheitsunternehmens oder einer Zweigniederlassung;
-c. den Betrieb eines Sicherheitsunternehmens oder einer Zweigniederlassung;
-d. den Einsatz von Diensthunden.
-2 Personen, die selbständig Sicherheitsdienstleistungen für Dritte anbieten und erbringen, bedürfen Bewilligungen nach Absatz 1 Buchstaben a und c.
-3 Der Regierungsrat kann die Bewilligungspflicht ausschliessen für Sicherheitsangestellte, die Sicherheitsdienstleistungen nicht für Dritte, sondern ausschliesslich für das sie beschäftigende Unternehmen oder die sie beschäftigende Privatperson erbringen.
+1 Natürliche und juristische Personen, die gewerbsmässig Sicherheitsdienstleistungen erbringen (Sicherheitsunternehmen), benötigen eine Betriebsbewilligung des Kantons.
+a. …
+b. …
+c. …
+d. …
+2 Sicherheitsunternehmen, die über eine Bewilligung eines anderen Kantons verfügen, sind von der Bewilligungspflicht ausgenommen.
+3 Ausländische Sicherheitsunternehmen, die sich auf das Freizügigkeitsabkommen mit der EU berufen können, sind von der Bewilligungspflicht ausgenommen.

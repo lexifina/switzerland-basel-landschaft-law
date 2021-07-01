@@ -1,8 +1,9 @@
 # § 21a Polizeiliche Anhaltung aus weiteren Gründen
-1 Die Polizei Basel-Landschaft kann zur Abwendung einer Gefahr, zur Durchsetzung der Rechtsordnung oder – unter den Voraussetzungen von § 3 Absatz 2 – zum Schutz privater Rechte eine Person anhalten und, wenn nötig, auf den Polizeiposten bringen, um:
+1 Die Polizei Basel-Landschaft kann zur Abwendung einer Gefahr, zur Durchsetzung der Rechtsordnung oder – unter den Voraussetzungen von § 3 Abs. 2 – zum Schutz privater Rechte eine Person anhalten, um:
 a. ihre Identität festzustellen;
 b. sie kurz zu befragen;
 c. abzuklären, ob nach ihr oder nach Gegenständen, die sich in ihrem Gewahrsam befinden, gefahndet wird.
+1bis Die angehaltene Person kann zur Durchführung der Abklärungen auf den Polizeiposten gebracht werden, falls sich dies als erforderlich erweist, insbesondere wenn die Abklärungen nicht vor Ort durchgeführt werden können.
 2 Sie kann die angehaltene Person verpflichten:
 a. ihre Personalien anzugeben;
 b. Ausweispapiere vorzulegen;

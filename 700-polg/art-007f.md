@@ -3,6 +3,7 @@
 2 Die Gemeindepolizei ist zuständig für:
 a. die Wahrung der öffentlichen Ordnung gemäss § 6;
 b. das Ordnungsbussenwesen gemäss §§ 7-7e;
-c. Kontrolle des fahrenden Verkehrs hinsichtlich der Übertretung von Strassenverkehrsvorschriften, die im Ordnungsbussenverfahren geahndet werden:
+c. die Kontrolle des fahrenden Verkehrs hinsichtlich der Widerhandlung gegen Strassenverkehrsvorschriften, die im Ordnungsbussenverfahren geahndet werden:
 1. auf Gemeindestrassen mit oder ohne Einsatz technischer Geräte;
-2. innerorts auf Kantonsstrassen ohne Einsatz technischer Geräte.
+2. innerorts auf Kantonsstrassen ohne Einsatz technischer Geräte;
+d. die Ahndung des unbefugten Konsums von Betäubungsmitteln des Wirkungstyps Cannabis im Ordnungsbussenverfahren (Ziff. 8001 der Bussenliste 2 der Ordnungsbussenverordnung ).

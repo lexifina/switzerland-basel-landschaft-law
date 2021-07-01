@@ -1,5 +1,5 @@
 # § 7i Polizeiliche Kompetenzen
-1 Zur Kontrolle des fahrenden Verkehrs im Ordnungsbussenverfahren sowie zur Durchsetzung der öffentlichen Ordnung (§ 7f Absatz 2 Buchstaben a und c) kann die Gemeindepolizei folgende polizeilichen Massnahmen ergreifen:
+1 Zur Durchführung des Ordnungsbussenverfahrens sowie zur Durchsetzung der öffentlichen Ordnung (§ 7f Abs. 2) kann die Gemeindepolizei folgende polizeilichen Massnahmen ergreifen:
 a. Anhaltungen (§ 21a);
 b. Identitätsfeststellungen (§ 21a);
 c. Befragungen (§ 22);
