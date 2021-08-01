@@ -1,10 +1,10 @@
 ## 1 Allgemeine Bestimmungen
 ## 2 Klassen- und Kursbildung
-## 3 Spezielle Förderung
-### 3.1 Abklärung
-### 3.2 Kleinklassen, Integrative Schulungsform
-### 3.3 Förderunterricht
-### 3.4 Integration von fremdsprachigen Schülerinnen und Schülern
+## 3 Massnahmen zur kulturellen Identität
+### 3.1 …
+### 3.2 …
+### 3.3 …
+### 3.4 …
 ## 4 Aufgaben der Schulen
 ### 4.1 Schulprogramm
 ### 4.2 Interne Evaluation

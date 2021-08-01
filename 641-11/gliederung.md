@@ -9,11 +9,11 @@
 ### 5.1 Allgemeine Bestimmungen
 ### 5.2 Kindergarten
 ### 5.3 Primarschule
-## 6 Spezielle Förderung
-### 6.1 Abklärung
-### 6.2 Kleinklassen, Integrative Schulungsform
-### 6.3 Förderunterricht
-### 6.4 Integration von fremdsprachigen Schülerinnen und Schülern
+## 6 Massnahmen zur kulturellen Identität
+### 6.1 …
+### 6.2 …
+### 6.3 …
+### 6.4 …
 ## 7 Aufgaben der Schulen
 ### 7.1 Schulprogramm
 ### 7.2 Interne Evaluation

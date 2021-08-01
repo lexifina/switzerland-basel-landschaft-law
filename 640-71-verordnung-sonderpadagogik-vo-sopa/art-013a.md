@@ -1,4 +1,0 @@
-# § 13a Gesuche für Psychomotoriktherapie ausserhalb der Sonderschulen und der stationären Einrichtungen
-1 Die Psychomotoriktherapie erfolgt auf Grund einer Indikation durch Kinderärztinnen und Kinderärzte, Kinderpsychiaterinnen und Kinderpsychiater, Kinderneurologinnen und Kinderneurologen oder durch den Schulpsychologischen Dienst nach einer psychomotorischen Abklärung beim Fachzentrum für Psychomotorik.
-2 Gesuche für Psychomotoriktherapie sind vor Beginn der Massnahme durch die Erziehungsberechtigten mit einer Empfehlung des zuständigen Fachzentrums für Psychomotorik an das Amt für Volksschulen einzureichen.
-3 Können in Folge der Pensenbegrenzung Schülerinnen und Schüler nicht sofort in die Therapie aufgenommen werden, entscheidet das Fachzentrum über den Zeitpunkt der Aufnahme der Therapie nach dem Kriterium der behinderungsbedingten Dringlichkeit.
