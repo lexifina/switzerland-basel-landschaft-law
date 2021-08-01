@@ -16,6 +16,7 @@
 ### 2.6 Gymnasium
 ### 2.7 Spezielle Förderung
 ### 2.8 Sonderschulung
+### 2.8a Heilpädagogische Früherziehung
 ### 2.9 Musikschule
 ### 2.10 Tertiärstufe
 ### 2.11 Erwachsenenbildung
