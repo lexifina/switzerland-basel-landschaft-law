@@ -1,0 +1,33 @@
+# Pflichtenheft für die Aufgaben des Amts für Orts- und Regionalplanung im Rahmen der Schulplanung
+Vom 17.12.1996
+Der Regierungsrat des Kantons Basel-Landschaft,
+gestützt auf § 126 Abs. 4 des Schulgesetzes vom 26. April 1979,
+beschliesst:
+§ 1 Geltungsbereich
+1 Dieses Pflichtenheft bezieht sich auf Schulplanungsaufgaben, welche die Volksschulen, ausgenommen die IV-Sonderschulen, die weiterführenden Schulen sowie die Berufsfachschulen betreffen. *
+2 Die Kursbildungen der aufgezählten Schulen sind davon ausgenommen.
+§ 2 * Zweck
+1 Mit seinen planerischen und statistischen Kenntnissen erarbeitet das Amt für Orts- und Regionalplanung Grundlagen, Prognosen der Schülerinnen und Schüler und Klassen sowie Vorschläge zur Schulraumplanung und -bewirtschaftung, die es der Bildungs-, Kultur- und Sportdirektion ermöglichen, ihre finanziellen Mittel und den Schulraum effizient auszunützen.
+§ 3 * Organisation
+1 Partner des Amts für Orts- und Regionalplanung sind für diese Aufgaben die Abteilungen Bildung und Personal des Generalsekretariats der Bildungs-, Kultur- und Sportdirektion, das Amt für Volksschulen, die Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH), das Amt für Daten und Statistik sowie das Hochbauamt. *
+2 Die Klassenbildungspläne werden mit dem Visum und einem allfälligen Mitbericht des Amtes für Orts- und Regionalplanung an die Bildungs-, Kultur- und Sportdirektion zur Genehmigung weitergeleitet.
+§ 4 Aufgaben
+1 Allgemeines:
+1. Allgemeines:
+a. jährliche Auswertung der Schülerstatistik nach Wohnort und Schulort;
+b. Mitarbeit in der Koordinationsgruppe «Schulraumplanung und -bewirtschaftung» und in der «Schulbaukommission»;
+2. Volksschulen (ausgenommen IV-Sonderschulen):
+a. jährliche Ausarbeitung der Schülerprognosen;
+b. jährliche Begutachtung der Klassenbildungspläne;
+c. alle 2 Jahre: Ausarbeitung der Klassenprognosen;
+3. * weiterführende Schulen:
+a. jährliche Ausarbeitung der Schüler- und Klassenprognosen unter Einbezug des ausserkantonalen Einzugsbereiches der Gymnasien;
+b. jährliche Begutachtung der Klassenbildungspläne;
+c. Errechnen der Schulwegzeiten (Isochronen) für geplante Umteilungen von Schülerinnen und Schülern;
+4. Berufsschulen:
+a. auf Anfrage: Ausarbeitung von Schüler- und Klassenprognosen;
+5. Aufgaben nach Absprache:
+a. zusätzliche Aufgaben werden speziell vereinbart.
+§ 5 Schlussbestimmung
+1 Dieses Pflichtenheft tritt am 1. Januar 1997 in Kraft.
+GS 32.737
