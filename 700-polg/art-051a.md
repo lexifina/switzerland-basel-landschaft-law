@@ -1,6 +1,6 @@
 # § 51a Begriffe
 1 In diesem Gesetz gelten als
-a. Sicherheitsdienstleistungen folgende Tätigkeiten, unter Vorbehalt von Absatz 2:
+a. Sicherheitsdienstleistungen folgende Tätigkeiten, unter Vorbehalt von Abs. 2:
 1. Türsteherdienste;
 2. …
 3. Bewachungs- und Überwachungsdienste;
