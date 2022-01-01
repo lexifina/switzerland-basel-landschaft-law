@@ -10,7 +10,7 @@
 ### 5.2 Vollstreckungshilfe
 ## 6 Heime
 ## 7 Jugendhilfe
-### 7.1 Heime, Pflegefamilien und Einrichtungen
+### 7.1 Angebote
 ### 7.2 Beiträge
 ## 8 Besondere Vollzugsbestimmungen
 ## 9 Allgemeine Bestimmungen
