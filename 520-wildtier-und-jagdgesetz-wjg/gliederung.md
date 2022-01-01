@@ -1,8 +1,20 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Jagdreviere
-## 3 Jagdberechtigung
-## 4 Hege und Jagdausübung
-## 5 Schutz des Wildes
-## 6 Wildschaden
-## 7 Strafbestimmungen
-## 8 Schlussbestimmungen
+### 1.1 Grundsätze
+### 1.2 Organisation
+## 2 Wildtiere
+### 2.1 Allgemeines
+### 2.2 Lebensräume
+### 2.3 Schutz
+## 3 Jagd
+### 3.1 Allgemeines
+### 3.2 Jagdreviere
+### 3.3 Jagdpacht
+### 3.4 Jagdberechtigung
+### 3.5 Jagdprüfung
+### 3.6 Jagdgesellschaft
+### 3.7 Jagdaufsicht
+## 4 Wildschäden
+### 4.1 Massnahmen
+### 4.2 Vergütung
+## 5 Strafbestimmungen
+## 6 Schlussbestimmungen
