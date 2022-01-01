@@ -1,10 +1,19 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Jagdbetrieb
-## 3 Jagdaufsicht
-## 4 Schutz des Wildes vor Störung
-## 5 Wildschadenverhütungsmassnahmen im Wald und landwirtschaftlichen Kulturen
-## 6 Selbsthilfemassnahmen
-## 7 Vergütung von Wildschäden
-## 8 Fehlabschüsse
-## 9 Gebühren
-## 10 Schlussbestimmungen
+### 1.1 Organisation
+## 2 Wildtiere
+### 2.1 Lebensräume
+### 2.2 Schutz
+## 3 Jagd
+### 3.1 Allgemeines
+### 3.2 Jagdberechtigung
+### 3.3 Jagdprüfung
+### 3.4 Jagdbetrieb
+### 3.5 Jagdaufsicht
+### 3.6 Fehlabschüsse
+## 4 Wildschäden
+### 4.1 Massnahmen
+### 4.2 Beiträge
+### 4.3 Vergütung
+### 4.4 Selbsthilfe
+## 5 Abgaben
+## 6 Schlussbestimmungen
