@@ -1,0 +1,2 @@
+# § 38a Übergangsbestimmung zur Änderung vom 14. September 2021
+1 Zur Einführung der Bestimmungen der ambulanten erzieherischen Hilfen bzw. zur Erreichung einer Verlagerung von stationären zu ambulanten Hilfen oder zu Unterbringungen in Pflegefamilien kann das Amt Dritte beauftragen, für Mitarbeitende anordnender oder indizierender Stellen bis Ende 2024 Weiterbildungen anzubieten und Arbeitsmaterialien zu entwickeln.
