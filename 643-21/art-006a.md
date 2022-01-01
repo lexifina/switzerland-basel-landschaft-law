@@ -1,6 +1,6 @@
 # § 6a Ressortgruppen und Ressortleitung
 1 Die Schulleitungskonferenz setzt für jedes Fach, das an der Maturität schriftlich geprüft wird, ausser für die Ergänzungsfächer und für das Schwerpunktfach Russisch, eine Ressortgruppe ein.
 2 Die Ressortgruppe setzt sich aus einer Ressortleitung und aus je einer bzw. einem Fachschaftsdelegierten pro basellandschaftlichem Gymnasium zusammen.
-3 Die Fachschaftsdelegierten werden auf Vorschlag der Fachschaften von der Schulleitung in der Regel auf zwei Jahre ernannt.
-4 Die Ressortleitung obliegt einer Fachperson des entsprechenden Schulfachs, welche über einen Hochschulabschluss sowie über Unterrichts- und Maturitätserfahrung im entsprechenden Fach verfügt und nicht an einem basellandschaftlichen Gymnasium tätig ist. Sie wird von der Schulleitungskonferenz für eine Amtsperiode von vier Jahren ernannt.
+3 Die Fachschaftsdelegierten werden auf Vorschlag der Fachschaften von der Schulleitung in der Regel auf 2 Jahre ernannt.
+4 Die Ressortleitung obliegt einer Fachperson des entsprechenden Schulfachs, welche über einen Hochschulabschluss sowie über Unterrichts- und Maturitätserfahrung im entsprechenden Fach verfügt und nicht an einem basellandschaftlichen Gymnasium tätig ist. Sie wird von der Schulleitungskonferenz für eine Amtsperiode von 4 Jahren ernannt.
 5 Die Ressortleitung beruft die Sitzungen der Ressortgruppe ein, leitet sie und organisiert die Arbeit der Ressortgruppe und erstattet nach Abschluss der Prüfungen der Schulleitungskonferenz Bericht.
