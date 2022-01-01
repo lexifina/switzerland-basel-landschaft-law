@@ -3,7 +3,7 @@
 a. Gemeinderat:
 1. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
 2. die Leiterin oder der Leiter der Stabsstelle Gemeinden,
-3. die Vorsteherin oder der Vorsteher des Statistischen Amts,
+3. die Vorsteherin oder der Vorsteher des Amts für Daten und Statistik,
 4. die Leiterin oder der Leiter der Abteilung Gemeinderechnungswesen;
 b. Schulräte der Volksschulen:
 1. die Generalsekretärin oder der Generalsekretär der Bildungs-, Kultur- und Sportdirektion,
@@ -20,7 +20,7 @@ e. Baubewilligungsbehörde:
 3. die Leiterinnen und Leiter der Bauabteilungen;
 f. Rechnungsprüfungskommission:
 1. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
-2. die Vorsteherin oder der Vorsteher des Statistischen Amts,
+2. die Vorsteherin oder der Vorsteher des Amts für Daten und Statistik,
 3. die Leiterin oder der Leiter der Abteilung Gemeinderechnungswesen;
 g. Geschäftsprüfungskommission:
 1. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,

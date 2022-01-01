@@ -1,5 +1,5 @@
 # § 48b Zugangsverfahren
-1 Die Anmeldung für den Besuch eines Brückenangebots im schulischen oder kombinierten Profil erfolgt schriftlich in Form einer Bewerbung an das Amt für Berufsbildung und Berufsberatung, Koordinationsstelle Brückenangebote, bis zum Anmeldedatum für das darauffolgende Schuljahr.
+1 Die Anmeldung für den Besuch eines Brückenangebots im schulischen oder kombinierten Profil erfolgt schriftlich in Form einer Bewerbung an die Hauptabteilung Berufsbildung der Dienststelle BMH, Koordinationsstelle Brückenangebote, bis zum Anmeldedatum für das darauffolgende Schuljahr.
 2 Die Anmeldung für den Besuch eines Brückenangebots im integrativen Profil ist jederzeit und schriftlich in Form einer Bewerbung an die Koordinationsstelle Brückenangebote möglich.
 3 Die Koordinationsstelle Brückenangebote bewilligt nach Rücksprache mit der Schulleitung der Brückenangebote die Aufnahme ins Brückenangebot.
 4 Sie kann für die Entscheidungsfindung kantonale Beratungsstellen wie den Schulpsychologischen Dienst oder die Kinder- und Jugendpsychiatrie beiziehen.

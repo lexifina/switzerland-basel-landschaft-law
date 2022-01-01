@@ -1,5 +1,5 @@
 # § 55a Übertritt aus den Brückenangeboten
-1 Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Durchlaufen der Sekundarstufe I und das Vorliegen eines vom Amt für Berufsbildung und Berufsberatung genehmigten Lehrvertrags voraus.
+1 Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Durchlaufen der Sekundarstufe I und das Vorliegen eines von der Hauptabteilung Berufsbildung der Dienststelle BMH genehmigten Lehrvertrags voraus.
 2 Der Übertritt in die weiterführenden Schulen richtet sich nach den Übertrittsvoraussetzungen für den Übertritt aus der Sekundarstufe I, namentlich für Absolventinnen und Absolventen des Leistungszugs E nach § 51. Sind diese nicht erfüllt, kann auf Empfehlung des Klassenkonvents und für die Aufnahme in die Fachmittel- und Wirtschaftsmittelschule nach Absolvieren einer von der Bildungs-, Kultur- und Sportdirektion angebotenen, berufs- und schulwahlbezogenen Neigungs- und Eignungsabklärung eine Aufnahme im Einzelfall nach Ermessen durch die Schulleitung der aufnehmenden Schule erfolgen.
 3 Lehnt die Schulleitung die Aufnahme in die weiterführende Schule gemäss Abs. 2 ab, kann sich die Schülerin oder der Schüler zur Übertrittsprüfung anmelden.
 4 Der Übertritt in ein reguläres Bildungsangebot der Sekundarstufe II aus dem integrativen Profil erfolgt im Einzelfall nach Ermessen.
