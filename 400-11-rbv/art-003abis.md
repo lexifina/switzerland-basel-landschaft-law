@@ -1,0 +1,2 @@
+# § 3abis Laufende und geplante Änderungen öffentlich-rechtlicher Eigentumsbeschränkungen
+1 Das Amt für Raumplanung integriert die eingereichten Geobasisdaten gemäss § 3a Abs. 6 als laufende oder geplante Änderungen der öffentlich-rechtlichen Eigentumsbeschränkungen in die kantonale Geodatenbank und informiert das Amt für Geoinformation, dass es sich um Zusatzinformationen gemäss Art. 8b Abs. 1 Bst. a. der Verordnung des Bundes über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREBKV) handelt.
