@@ -1,6 +1,6 @@
 # § 43a Verkehrsstaus
 1 Die kantonalen Behörden leiten unverzüglich die nachfolgenden Massnahmen ein, um im Interesse der betroffenen Anwohner und Verkehrsteilnehmer Verkehrsstaus zu verhindern bzw. solche unverzüglich abzubauen:
-a. Planung und Umsetzung von Verkehrsleit-Massnahmen unter umfassender Berücksichtigung der möglichen Szenarien, insbesondere von vorhersehbaren Szenarien wie Grossveranstaltungen, Ferienverkehr usw.;
+a. Planung und Umsetzung von Verkehrsleitmassnahmen unter umfassender Berücksichtigung der möglichen Szenarien, insbesondere von vorhersehbaren Szenarien wie Grossveranstaltungen, Ferienverkehr usw.;
 b. Erarbeiten von vorsorglichen Massnahmen- und Einsatzplänen für unvorhersehbare Verkehrsengpässe und -blockaden bei Unfällen, Elementarereignissen usw.;
 c. Sicherstellung der Zusammenarbeit der zuständigen kantonalen Behörden sowie der Zusammenarbeit mit zuständigen ausserkantonalen Stellen;
 d. die Bereitstellung und den Einsatz von ausreichendem Fachpersonal und technischen Mitteln.
