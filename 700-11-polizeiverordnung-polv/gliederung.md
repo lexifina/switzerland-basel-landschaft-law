@@ -5,6 +5,6 @@
 ## 5 Diensthundewesen
 ## 6 Polizeivereine
 ## 7 Datenschutz
-## 8 Private Sicherheitsdienstleistungen
+## 8 …
 ## 9 Schlussbestimmungen
 ### 10 Anhänge I und II

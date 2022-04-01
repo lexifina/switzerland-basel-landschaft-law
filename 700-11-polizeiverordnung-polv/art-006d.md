@@ -1,2 +1,2 @@
 # § 6d Uniformierung bei der Bussenerhebung auf der Strasse
-1 Für die Kontrolle des ruhenden Verkehrs können die Gemeinden im Sinne von Art. 4 Abs. 2 des Ordnungsbussengesetzes während des Dienstes auf das Tragen einer Dienstuniform verzichten.
+1 Für die Kontrolle des ruhenden Verkehrs können die Gemeinden auf das Tragen einer Dienstuniform verzichten.
