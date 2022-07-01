@@ -1,5 +1,7 @@
-# Gesetz über den Bevölkerungsschutz und den Zivilschutz im Kanton Basel-Landschaft
-Vom 05.02.2004
+# Gesetz über den Bevölkerungsschutz im Kanton Basel-Landschaft
+(Bevölkerungsschutzgesetz BL, BSG BL)
+Vom 20.05.2021
 Der Landrat,
-gestützt auf die §§ 63 und 93 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984,
+gestützt auf §§ 63 und 93 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984,
 beschliesst:
+1 Allgemeine Bestimmungen
