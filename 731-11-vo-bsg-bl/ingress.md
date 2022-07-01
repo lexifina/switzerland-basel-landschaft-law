@@ -1,5 +1,6 @@
-# Verordnung zum Gesetz über den Bevölkerungsschutz und den Zivilschutz im Kanton Basel-Landschaft
-Vom 24.08.2004
+# Verordnung zum Bevölkerungsschutzgesetz im Kanton Basel-Landschaft
+(Vo BSG BL)
+Vom 31.05.2022
 Der Regierungsrat des Kantons Basel-Landschaft,
-gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984,
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984 und das Gesetz über den Bevölkerungsschutz im Kanton Basel-Landschaft vom 20. Mai 2021,
 beschliesst:
