@@ -1,3 +1,3 @@
-# § 94a Meldepflicht für Solaranlagen
-1 Solaranlagen in Bau- und in Landwirtschaftszonen, die keiner Baubewilligung bedürfen, sind meldepflichtig.
-2 Die Meldung hat mindestens 30 Tage vor Baubeginn schriftlich an das Bauinspektorat zu erfolgen, bei welchem das Formular «Meldung Solaranlage» bezogen oder vom Internet unter www.bauinspektorat.bl.ch heruntergeladen werden kann.
+# § 94a Meldepflicht für Solaranlagen und Wärmepumpen
+1 Solaranlagen und Wärmepumpen gemäss § 94 Abs. 1 Bst. e und j unterstehen einer vorgängigen Meldepflicht bei der zuständigen Baubewilligungsbehörde gemäss § 118 Abs. 1 und 3 RBG. Im Rahmen der Meldepflicht ist bei Wärmepumpen zudem ein Lärmschutznachweis zu erbringen.
+2 Die Meldung hat mindestens 30 Tage vor Baubeginn schriftlich an die zuständige Baubewilligungsbehörde zu erfolgen mittels Meldung im Internet unter www.bauinspektorat.bl.ch oder mit den Formularen «Meldung Solaranlagen» bzw. «Meldung Wärmepumpen», welche bei der Baubewilligungsbehörde bezogen oder vom Internet heruntergeladen werden können.
