@@ -1,4 +1,4 @@
-# § 72a Massnahmen des Schulrates
+# § 72a Massnahmen des Schulrats
 1 Der Schulrat kann auf Antrag der Schulleitung für Schülerinnen und Schüler der Primarschule einen befristeten Schulausschluss von bis zu 8 Wochen anordnen. Dabei gilt:
 a. Der befristete Schulausschluss mittels Besuch von TimeOut bedarf der vorgängigen Kostengutsprache durch den Gemeinderat der Wohngemeinde der Schülerin oder des Schülers.
 b. Die Tagespauschale von TimeOut zulasten der Gemeinde beträgt CHF 160.–. Sie wird gemäss Rechenlegung zweier Jahre periodisch überprüft.
