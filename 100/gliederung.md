@@ -22,7 +22,7 @@
 ### 5.2 Landrat
 ### 5.3 Regierungsrat und Verwaltung
 ### 5.4 Gerichte
-### 5.5 Ombudsman
+### 5.5 Ombudsperson
 ## 6 Öffentliche Aufgaben
 ### 6.1 Grundsätze
 ### 6.2 Öffentliche Sicherheit und Katastrophenvorsorge
