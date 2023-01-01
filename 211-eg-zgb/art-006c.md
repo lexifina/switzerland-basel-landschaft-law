@@ -1,5 +1,5 @@
 # § 6c Zuständigkeit für Beglaubigungen
-1 Zuständig für die Beglaubigung von Handzeichen und Unterschriften sowie von Abschriften und Auszügen sind
+1 Zuständig für die Beglaubigung von Handzeichen und Unterschriften sowie von Abschriften und Auszügen sind:
 a. die Basellandschaftlichen Notarinnen und Notare;
 b. Mitarbeitende der Zivilrechtsverwaltung, denen die Befugnis von der Sicherheitsdirektion übertragen wurde;
 c. die Landeskanzlei für Beglaubigungen, Überbeglaubigungen und Apostillen;

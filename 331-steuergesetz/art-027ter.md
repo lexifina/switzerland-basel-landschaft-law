@@ -1,5 +1,6 @@
 # § 27ter 8. Mietwert selbst genutzter Liegenschaften (Eigenmietwert)
-1 Der Eigenmietwert leitet sich von dem gemäss dem Sachversicherungsgesetz vom 12. Januar 1981 geschätzten einfachen Brandlagerwert einer Liegenschaft ab, welcher mit einem gemeindespezifischen Korrekturfaktor, einem Korrekturfaktor nach Alter der Liegenschaft und einem Korrekturfaktor für Stockwerkeigentum multipliziert wird, was den steuerlichen Brandlagerwert ergibt.
+1 Der Eigenmietwert leitet sich vom einfachen Brandlagerwert einer Liegenschaft ab, welcher mit einem gemeindespezifischen Korrekturfaktor, einem Korrekturfaktor nach Alter der Liegenschaft und einem Korrekturfaktor für Stockwerkeigentum multipliziert wird, was den steuerlichen Brandlagerwert ergibt.
+1bis Als einfacher Brandlagerwert gilt der Zeitwert gemäss der Gebäudeversicherungsgesetzgebung, zurückgerechnet auf den Basiswert 1939 von 100 Indexpunkten.
 2 Die gemeindespezifischen Korrekturfaktoren werden vom Regierungsrat festgelegt.
 3 Die Korrekturfaktoren nach Alter der Liegenschaft betragen:
 a. Alter der Liegenschaft 25 Jahre und jünger Korrekturfaktor –;
