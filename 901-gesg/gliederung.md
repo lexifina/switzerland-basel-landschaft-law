@@ -1,8 +1,8 @@
 ## 1 Allgemeine Bestimmungen
 ## 2 Gesundheitsbehörden
-## 3 Berufe im Gesundheitswesen
+## 3 Medizinal- und Gesundheitsberufe
 ## 3.1 Bewilligungs- und meldepflichtige Tätigkeiten
-## 3.2 Erteilung, Verfall, Entzug und Einschränkung der Bewilligung
+## 3.2 Erteilung, Entzug und Einschränkung der Bewilligung
 ## 3.3 Disziplinarmassnahmen
 ## 3.4 Amtshilfe und Register
 ## 3.5 Berufsausübung und Berufspflichten
