@@ -1,3 +1,4 @@
-## 1 Allgemeines
-## 2 Festsetzung der Zuschläge zu Prämien und Präventions- und Interventionsbeiträgen
-## 3 Schlussbestimmungen
+## 1 Allgemeine Bestimmungen
+## 2 Gesamtabgabe
+## 3 Versicherungsprämie und Zuschläge
+## 4 Schadenabwicklung
