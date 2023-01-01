@@ -5,3 +5,4 @@
 ## 3 Lastenabgeltung
 ## 4 Kompensationsleistungen
 ## 5 Schlussbestimmungen
+## 6 Übergangsbestimmungen

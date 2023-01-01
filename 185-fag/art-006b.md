@@ -1,3 +1,4 @@
-# § 6b Zusatz, Reduktion, Ausgleichsfonds
-1 Der zusätzliche Beitrag beträgt pro Einwohner höchstens die Differenz bis zum Ausgleichsniveau und ist zudem bei demjenigen Wert begrenzt, der einem Abschöpfungssatz von 17 % entsprechen würde. Er wird einem Fonds («Ausgleichsfonds») entnommen.
-2 Die Reduktion des Beitrags pro Einwohner entspricht der Differenz bis zum Ausgleichsniveau. Sie wird in den Ausgleichsfonds eingelegt.
+# § 6b Ausgleichsfonds und Anpassung des Ausgleichsniveaus
+1 Leisten die Gebergemeinden höhere Beiträge als dass die Empfängergemeinden erhalten, wird die Differenz in den Ausgleichsfonds eingelegt.
+2 Leisten die Gebergemeinden geringere Beiträge als dass die Empfängergemeinden erhalten, wird die Differenz dem Ausgleichsfonds entnommen.
+3 Das Ausgleichsniveau wird im Finanzausgleichsjahr angepasst, wenn der Ausgleichsfonds ansonsten eine gewisse Grenze unter- oder überschreiten würde. Der Regierungsrat regelt die Einzelheiten in der Verordnung.
