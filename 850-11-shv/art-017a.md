@@ -8,6 +8,7 @@ e. im Falle unabtretbarer Forderungen die Schuldnerin oder den Schuldner zur Aus
 f. sich um den Erhalt der Arbeitsstelle zu bemühen;
 g. sich um eine Erwerbstätigkeit zu bemühen;
 h. eine zumutbare Arbeitsstelle anzunehmen;
-i. an angeordneten Förderungsprogrammen teilzunehmen oder angeordnete Beschäftigungen auszuüben;
+i. an angeordneten Förderungsprogrammen, Sprachförderungsprogrammen und Grundkompetenzkursen teilzunehmen oder angeordnete Beschäftigungen auszuüben;
+ibis an angeordneten Massnahmen der sozialen Integration und Massnahmen der früher Sprachförderung teilzunehmen;
 j. ihre Einkünfte sowie die ausgerichtete Unterstützung bestimmungsgemäss zu verwenden;
 k. die Nummernschilder des Motorfahrzeuges zu deponieren.
