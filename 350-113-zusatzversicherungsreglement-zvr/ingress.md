@@ -1,5 +1,6 @@
-# Reglement für die Gebäudeeinschätzung
-Vom 02.12.1988
-Die Verwaltungskommission der Basellandschaftlichen Gebäudeversicherung (BGV),
-gestützt auf § 6 Absatz 3 Buchstabe k des Sachversicherungsgesetzes vom 12. Januar 1981 und § 2 Absatz 3 der Regierungsratsverordnung vom 1. Dezember 1981 zum Sachversicherungsgesetz,
+# Reglement über die freiwilligen Zusatzversicherungen
+(Zusatzversicherungsreglement, ZVR)
+Vom 21.09.2022
+Der Verwaltungsrat der Basellandschaftlichen Gebäudeversicherung (BGV),
+gestützt auf das Gebäudeversicherungsgesetz Basel-Landschaft (GVG BL) vom 24. März 2022, das Dekret zum Gebäudeversicherungsgesetz Basel-Landschaft (GVD BL) vom 24. März 2022 und die Verordnung zum Gebäudeversicherungsgesetz Basel-Landschaft (GVV BL) vom 10. Januar 2023,
 beschliesst:
