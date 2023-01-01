@@ -1,7 +1,11 @@
-# § 15a Leistung der Einwohnergemeinden
-1 Zur Kompensation der Aufgabenverschiebungen «Realschulbautenübernahme», «Kindes- und Erwachsenenschutzbehörde» und «Ambulante Kinder- und Jugendhilfe» leisten die Einwohnergemeinden dem Kanton jährlich CHF 8'550'000.–.
+# § 15a Leistung der Einwohnergemeinden, vergangene Aufgabenverschiebungen
+1 Zur Kompensation vergangener Aufgabenverschiebungen leisten die Einwohnergemeinden dem Kanton:
 a. …
 b. …
 c. …
+d. im Jahr 2023 CHF 6'650'000.–,
+e. im Jahr 2024 CHF 4'750'000.–,
+f. im Jahr 2025 CHF 2'850'000.–,
+g. im Jahr 2026 CHF 950'000.–.
 1bis …
 2 Der einzelne Gemeindeanteil richtet sich nach der Einwohnerzahl.
