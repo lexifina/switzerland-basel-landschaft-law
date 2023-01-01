@@ -1,9 +1,11 @@
-## 1 Gebäudeversicherung
-### 1.1 Versicherungspflicht, Versicherungswerte
-### 1.2 Einschränkung der versicherten Gefahren
-### 1.3 Berechnung der Entschädigung
-### 1.4 Freiwillige Versicherung
-## 2 Grundstückversicherung
-## 3 Allgemeine Versicherungsbestimmungen
-## 4 Versicherung der Fahrhabe
-## 5 Schlussbestimmungen
+## 1 Allgemeine Bestimmungen
+## 2 Versicherungsgrundsätze
+## 3 Versicherte Schäden
+## 4 Versicherungsdeckung
+## 5 Gesamtabgabe
+## 6 Grundsätze der BGV-Leistungen
+## 7 Leistungen bei Gebäudeschäden
+## 8 Leistungen bei Grundstückschäden
+## 9 Meldungen
+## 10 Basellandschaftliche Gebäudeversicherung
+## 11 Schlussbestimmung
