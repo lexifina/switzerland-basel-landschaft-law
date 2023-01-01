@@ -14,4 +14,4 @@
 ### 7.2 Beiträge
 ## 8 Besondere Vollzugsbestimmungen
 ## 9 Allgemeine Bestimmungen
-## 10 Schlussbestimmungen
+## 10 Übergangs- und Schlussbestimmungen
