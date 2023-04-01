@@ -1,0 +1,2 @@
+# § 17c Übergangsbestimmung betreffend Mehrkosten in der Pflege infolge der Covid-19-Epidemie
+1 Bei der erstmaligen Festlegung der anrechenbaren Kosten der Pflegeleistungen gemäss § 15cbis berücksichtigen die Versorgungsregionen die Mehrkosten, die den einzelnen stationären Pflegeeinrichtungen in den Jahren 2020 und 2021 infolge der Covid-19-Epidemie entstanden sind. Diese Mehrkosten werden in Form eines zeitlich befristeten Zuschlags zu den anrechenbaren Kosten abgegolten.

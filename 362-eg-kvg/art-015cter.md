@@ -1,0 +1,3 @@
+# § 15cter Finanzierung von Pflegeleistungen in ausserkantonalen Pflegeheimen
+1 Bei einem Aufenthalt in einem ausserkantonalen Pflegeheim leistet die Gemeinde einen Beitrag gemäss § 15a nach der Regelung des Standortkantons des Pflegeheims, jedoch höchstens zu demjenigen Betrag, den sie bei einem Aufenthalt im Pflegeheim mit den höchsten anrechenbaren Kosten im Kanton übernehmen würde.
+2 Sofern die Gemeinde der versicherten Person zum Zeitpunkt des Heimeintritts keinen Pflegeheimplatz im Kanton zur Verfügung stellen kann, leistet sie einen Beitrag gemäss § 15a nach der Regelung des Standortkantons des Pflegeheims.
