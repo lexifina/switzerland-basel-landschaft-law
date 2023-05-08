@@ -6,3 +6,4 @@
 5 Die Dienststellenleiterin oder der Dienststellenleiter kann die ihr bzw. ihm gemäss Abs. 3 und 4 zustehende Zeichnungsbefugnis weiterdelegieren.
 6 Die Delegation gemäss Abs. 5 erfordert die Genehmigung durch die Direktionsvorsteherin oder den Direktionsvorsteher und wird in Anhang I dieses Reglements festgehalten.
 7 Ausserdem gilt das Reglement vom 24. Januar 2018 über die Zuständigkeit für Ausgabenbewilligungen in der Volkswirtschafts- und Gesundheitsdirektion.
+4 …

@@ -1,6 +1,0 @@
-## 1 Führung
-## 2 Zeichnungsbefugnisse
-## 3 …
-## 4 …
-## 5 Vertretungen
-## 6 Dokumentation
