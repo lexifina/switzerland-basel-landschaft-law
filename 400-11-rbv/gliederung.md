@@ -7,6 +7,7 @@
 #### 2.4.1 Zonenvorschriften
 #### 2.4.2 Schutzzonen und schützenswerte Einzelobjekte
 #### 2.4.3 Erschliessungsplanung
+#### 2.4.3a Sondernutzungsplanungen
 #### 2.4.4 Gebiete für neue Verkaufseinheiten
 ## 3 Baulandumlegung und Grenzmutationen
 ### 3.1 Einleitung des Umlegungsverfahrens und Festlegung des Perimeters
