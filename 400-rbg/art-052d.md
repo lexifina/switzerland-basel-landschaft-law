@@ -1,0 +1,4 @@
+# § 52d Erweiterung von Arbeitszonen über Siedlungsgebiet hinaus
+1 Für projektbezogene, betriebsnotwendige Erweiterungen von bestehenden Gewerbe- und Industriebetrieben können Gewerbe- oder Industriezonen auch über das im Kantonalen Richtplan begrenzte Siedlungsgebiet hinaus erweitert werden.
+2 Erfolgt eine Neueinzonung im Sinne von Abs. 1, so ist das Projekt beförderlich voranzutreiben und zu realisieren. Das Baugesuch muss innert 2 Jahren ab Rechtskraft der Nutzungsplanung eingereicht werden.
+3 Werden die Bedingungen gemäss Abs. 2 nicht eingehalten, wird das Baugesuch rechtskräftig abgewiesen oder erlischt die Baubewilligung, so fällt das neu eingezonte Land ohne Zonenplanrevision automatisch in die frühere Zone zurück, ohne dass irgendwelche Entschädigungsansprüche gegenüber dem Gemeinwesen geltend gemacht werden können. Der Rückfall in die frühere Zone ist vom Gemeinderat gegenüber der betroffenen Grundeigentümerschaft durch Feststellung zu verfügen.
