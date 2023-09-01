@@ -43,8 +43,8 @@
 ### 5.3 Bauten und Anlagen ausserhalb der Bauzone
 ## 6 Baupolizei- und Baubewilligungswesen
 ### 6.1 Organisation
-### 6.2 Baubewilligung
-### 6.3 Baubewilligungsverfahren
+### 6.2 Bau- und Rückbaubewilligung
+### 6.3 Bau- und Rückbaubewilligungsverfahren
 ### 6.4 Beschwerdeverfahren
 ### 6.5 Gebühren, Strafen und Verwaltungsmassnahmen
 ## 7 Übergangs- und Schlussbestimmungen
