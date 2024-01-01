@@ -1,0 +1,2 @@
+# § 9a Unterzeichnung für schreibunfähige Stimmberechtigte
+1 Stimmberechtigte, die eine Initiative oder ein Referendum für andere, schreibunfähige Stimmberechtigte unterzeichnen, tragen deren Personalien vollständig in die Unterschriftenliste ein. In der Rubrik «eigenhändige Unterschrift» tragen sie in Blockschrift samt dem Hinweis «im Auftrag / i. A.» ihre eigenen Namen und Vornamen ein und fügen ihre eigene Unterschrift bei.
