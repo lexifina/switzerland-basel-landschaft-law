@@ -12,5 +12,6 @@ e. Einsprachen gegen kommunale und kantonale Nutzungspläne gemäss §§ 13 Abs.
 f. Beschwerden gegen den Umlegungsperimeter gemäss § 59 Abs. 3 des Raumplanungs- und Baugesetzes (RBG) vom 8. Januar 1998;
 g. Beschwerden gegen den Neuzuteilungsplan gemäss § 69 Abs. 4 des Raumplanungs- und Baugesetzes (RBG) vom 8. Januar 1998;
 h. Beschwerden gegen den Perimeter gemäss § 28 Abs. 2 des Landwirtschaftsgesetzes Basel-Landschaft (LG BL) vom 8. Januar 1998;
-i. Beschwerden gegen Einsprachen gemäss § 29a Abs. 5 des Landwirtschaftsgesetzes Basel-Landschaft (LG BL) vom 8. Januar 1998.
+i. Beschwerden gegen Einsprachen gemäss § 29a Abs. 5 des Landwirtschaftsgesetzes Basel-Landschaft (LG BL) vom 8. Januar 1998;
+j. Beschwerden wegen Verletzung der Rechte von Menschen mit Behinderungen.
 6 Wenn nichts anderes bestimmt wird, haben mehrere Personen die ihnen gemeinsam auferlegten Verfahrenskosten zu gleichen Teilen und in solidarischer Haftung zu tragen.

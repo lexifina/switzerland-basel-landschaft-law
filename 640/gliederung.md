@@ -15,6 +15,8 @@
 ### 2.5 Fachmittelschule
 ### 2.6 Gymnasium
 ### 2.7 Spezielle Förderung
+#### 2.7.1 Volksschule
+#### 2.7.2 Sekundarstufe II
 ### 2.8 Sonderschulung
 ### 2.8a Heilpädagogische Früherziehung
 ### 2.9 Musikschule
