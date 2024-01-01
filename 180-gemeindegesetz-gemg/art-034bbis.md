@@ -5,7 +5,7 @@ a. die Organisation und den Amtssitz der Kindes- und Erwachsenenschutzbehörde s
 b. das Personalrecht inklusive des Disziplinarrechts;
 c. die eigene Rechnungs- und Geschäftsprüfung;
 d. die Bereitstellung der berufsmässigen Führung von Mandaten;
-e. die Kontrolle der Buchhaltung der Berufsbeistandschaft;
+e. …
 f. die Kostenverteilung unter den Gemeinden insbesondere für:
 1. die Kindes- und Erwachsenenschutzbehörde sowie von betroffenen Personen nicht bezahlbarer Entschädigungen und Spesenersatz für die Mandatsführung;
 2. Rückgriffsforderungen in Haftungsfällen;
