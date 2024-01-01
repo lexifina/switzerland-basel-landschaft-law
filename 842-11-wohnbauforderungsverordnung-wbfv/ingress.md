@@ -1,3 +1,6 @@
-# Verordnung über die Wohnbau- und Eigentumsförderung
-Vom 30.10.1990
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 14 des Gesetzes vom 29. Januar 1990 über die Wohnbau- und Eigentumsförderung (kurz: Gesetz), beschliesst:
+# Verordnung über die Wohnbauförderung
+(Wohnbauförderungsverordnung, WBFV)
+Vom 19.12.2023
+Der Regierungsrat des Kantons Basel-Landschaft,
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984 und das Gesetz über die Wohnbauförderung (WBFG) vom 30. März 2023,
+beschliesst:
