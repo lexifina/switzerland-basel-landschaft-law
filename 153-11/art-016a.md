@@ -1,4 +1,4 @@
-# § 16a Absenzen infolge Krankheit, Unfalls, Ferien, öffentlicher Dienstleistung oder bezahlten Urlaubs für Pilotanwender SAP Zeitwirtschaft
+# § 16a Absenzen infolge Krankheit, Unfalls, Ferien, öffentlicher Dienstleistung oder bezahlten Urlaubs im Rahmen der SAP Zeitwirtschaft
 1 Absenzen infolge Krankheit, Unfalls, Ferien, öffentlicher Dienstleistung oder bezahlten Urlaubs werden für die Zeiterfassung wie Arbeitszeit behandelt.
 2 Für Vollzeitarbeitende gilt in jedem Fall die Sollarbeitszeit des jeweiligen Tages.
 3 Teilzeitarbeitenden im Gleitzeitmodell wird bei Absenzen infolge Krankheit, Unfalls, Ferien, öffentlicher Dienstleistung oder bezahlten Kurzurlaubs die ihrem vertraglichen Beschäftigungsgrad entsprechende tägliche Sollarbeitszeit der Arbeitszeit angerechnet.
