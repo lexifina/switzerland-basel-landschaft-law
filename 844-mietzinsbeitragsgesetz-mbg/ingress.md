@@ -1,3 +1,6 @@
 # Gesetz über die Ausrichtung von Mietzinsbeiträgen
-Vom 20.03.1997
-Der Landrat des Kantons Basel-Landschaft, gestützt auf § 106 Absatz 1 der Kantonsverfassung vom 17. Mai 1984, beschliesst:
+(Mietzinsbeitragsgesetz, MBG)
+Vom 01.12.2022
+Der Landrat das Kantons Basel-Landschaft,
+gestützt auf § 106 Abs. 1 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984,
+beschliesst:
