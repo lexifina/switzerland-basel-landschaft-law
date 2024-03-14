@@ -1,4 +1,5 @@
 ## 1. Zuständigkeiten
-## 2. Aufbau und Betrieb der Online-Service-Plattform
+## 2. …
 ## 3 Elektronische Geschäftsabwicklung und Kommunikation
-## 4 Datenschutz
+## 4 Online-Service-Plattform
+## 5 Elektronisches Benutzerkonto und Benutzeridentifikation
