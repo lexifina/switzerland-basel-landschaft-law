@@ -4,3 +4,4 @@ a. mündliche Ermahnung;
 b. schriftliche Ermahnung zuhanden der Erziehungsberechtigten, der Sportverantwortlichen und Schulbeteiligten;
 c. schriftliche Verwarnung zuhanden der Erziehungsberechtigten, der Sportverantwortlichen und der Schulbeteiligten;
 d. Ausschluss aus der Leistungssportförderung, was einen Übertritt in eine Regelschulklasse zur Folge hat.
+2 Gegen Entscheide gemäss Abs. 1 Bst. d kann Beschwerde beim Regierungsrat erhoben werden.

@@ -1,9 +1,10 @@
 # § 3a Organisation, Zusammensetzung, Konstituierung bei kantonalen Schulen
-1 Die kantonalen Schulen werden entweder in einem Schulleitungsmodell mit oder ohne Rektorat geführt.
-2 Auf der Sekundarstufe II gilt das Schulleitungsmodell mit Rektorat.
-3 Auf der Sekundarstufe I entscheidet sich der Schulrat in Rücksprache mit dem Amt für Volksschulen für ein Schulleitungsmodell mit oder ohne Rektorat.
-4 Bei Schulleitungsmodellen mit Rektorat legt die Rektorin oder der Rektor die Organisation der Schulleitung fest und unterbreitet sie dem Schulrat zur Genehmigung. Sie ist vorgängig den weiteren Schulleitungsmitgliedern und dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen. Co-Rektorate auf der Sekundarstufe I sind möglich.
-5 Bei Schulleitungsmodellen ohne Rektorat auf der Sekundarstufe I legt die Schulleitung ihre Organisation gemeinsam fest. Im Übrigen gelten die Vorgaben gemäss Abs. 4.
+1 …
+2 …
+3 …
+4 Die Organisation der Schulleitung wird durch die Rektorin oder den Rektor festgelegt. Sie oder er unterbreitet diese auf der Sekundarstufe I dem Amt für Volksschulen und auf der Sekundarstufe II der Hauptabteilung Berufs- und Mittelschulen der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH) zur Genehmigung. Die Organisation ist vorgängig den weiteren Schulleitungsmitgliedern und dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen.
+5 Bei Co-Rektoraten legen die Co-Rektorinnen bzw. Co-Rektoren die Organisation der Schulleitung gemeinsam fest und bestimmen eine Ansprechperson für die zuständige Stelle der Bildungs-, Kultur- und Sportdirektion (BKSD). Im Übrigen gelten die Bestimmungen gemäss Abs. 4.
+5bis Bei Schulleitungen mit zwei Schulleitungsmitgliedern kann die zuständige Dienststelle auf Antrag der Schulleitungsmitglieder entscheiden, dass keine Hierarchisierung erfolgt. Wird die Schulleitung nicht hierarchisiert, legen die beiden Schulleitungsmitglieder die Organisation der Schulleitung gemeinsam fest und bestimmen eine Ansprechperson für die zuständige Stelle der BKSD. Im Übrigen gelten die Bestimmungen gemäss Abs. 4.
 6 Die Organisation soll in jedem Fall so gewählt werden, dass die Aufgaben einer Schulleitung optimal erledigt, die Stellvertretung ohne Ressourcenerweiterung sichergestellt und die fachlichen Anforderungen erfüllt werden können.
-7 Bei mehrköpfigen Schulleitungen ohne Rektorat bestimmt der Schulrat deren Vorsitz.
+7 …
 8 Im Übrigen konstituiert sich die Schulleitung selbst.

@@ -9,7 +9,7 @@
 ## 5 Unterrichtsbesuche
 ## 6 Mitarbeiterinnen- und Mitarbeitergespräch
 ### 6.1 Durchführung
-### 6.2 Mitarbeiterinnen- und Mitarbeitergespräch mit Lehrerinnen und Lehrern
-### 6.3 Konfliktfälle
+### 6.2 …
+### 6.3 …
 ## 7 Schulsekretariate
 ## 8 Schlussbestimmungen

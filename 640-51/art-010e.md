@@ -1,3 +1,3 @@
 # § 10e Disziplinarordnung
 1 Die Kommission Leistungssportförderung sorgt in Absprache mit den Schulen, an welchen Sportklassen geführt werden, für eine einheitliche Disziplinarpraxis gegenüber Schülern und Schülerinnen der Leistungssportförderung Baselland.
-2 Bei Disziplinarverstössen von Schülerinnen und Schülern mit einer Individuallösung sind die Lehrerinnen und Lehrer, die Schulleitung sowie der Schulrat der entsprechenden Schule für die Ergreifung von Massnahmen zuständig.
+2 Bei Disziplinarverstössen von Schülerinnen und Schülern mit einer Individuallösung sind die Lehrerinnen und Lehrer, die Schulleitung sowie bei kommunalen Schulen der Schulrat oder, sofern sich die Gemeinde für die Schulführung durch den Gemeinderat entscheidet, der Gemeinderat der entsprechenden Schule für die Ergreifung von Massnahmen zuständig.

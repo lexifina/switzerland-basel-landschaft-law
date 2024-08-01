@@ -1,4 +1,4 @@
-# § 32a Primarstufe
-1 Der Schulrat setzt auf Antrag der Schulleitung an den Schulen der Primarstufe Sekretäre und Sekretärinnen ein.
+# § 32a Kommunale Schulen
+1 Die Schulleitung stellt an den kommunalen Schulen die Mitarbeitenden des Schulsekretariats ein, sofern das Sekretariat nicht von der Gemeindeverwaltung angestellt wird. In diesem Fall bezieht die Gemeindeverwaltung die Schulleitung in den Anstellungsprozess ein.
 2 Die Lohnzahlung erfolgt durch die Gemeinde.
-3 Das Sekretariat kann auf der Gemeindeverwaltung geführt werden.
+3 …

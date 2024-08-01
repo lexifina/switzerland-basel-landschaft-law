@@ -1,2 +1,3 @@
 # § 1a Führungsmodell
+1 Entscheidet sich die Gemeinde für die Schulführung durch den Gemeinderat, ist dieser an Stelle des Schulrats zuständig.
 2 Die Gemeinden informieren das Amt für Volksschulen und die Abteilung Recht der Bildungs-, Kultur- und Sportdirektion umgehend über die Entscheide zum Führungsmodell ihrer Primarstufe sowie die allenfalls damit verbundenen Änderungen ihrer Gemeindeordnungen, erstmals bis zum 15. Januar 2024. Ausgenommen sind Gemeinden, die ihre Primarstufe bei Inkrafttreten dieser Bestimmung bereits als Kreisschule gemeinsam mit einer oder mehreren anderen Gemeinden führen.
