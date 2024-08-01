@@ -1,2 +1,4 @@
 # § 62a Bildungsmonitoring
-1 Die Entwicklungen und Leistungen der obligatorischen Schule werden regelmässig im Rahmen eines Bildungsmonitoring über das gesamte schweizerische Bildungssystem gemäss Art. 10 der Interkantonalen Vereinbarung über die Harmonisierung der obligatorischen Schule evaluiert.
+1 Die Entwicklungen und Leistungen des gesamten Bildungswesens werden kontinuierlich mit einem Bildungsmonitoring datengestützt beobachtet, analysiert und die Ergebnisse der Öffentlichkeit vermittelt.
+2 Das Bildungsmonitoring beinhaltet namentlich auch die Auswertung und Analyse der Laufbahndaten der Schülerinnen und Schüler vom Kindergarten bis zum Abschluss der Sekundarstufe II und der Tertiärstufe sowie die Leistungsmessungen über das Erreichen von Bildungszielen.
+3 Das Nähere regelt die Verordnung.
