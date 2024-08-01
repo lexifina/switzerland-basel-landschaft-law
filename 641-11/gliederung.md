@@ -16,13 +16,16 @@
 ### 6.4 …
 ## 7 Aufgaben der Schulen
 ### 7.1 Schulprogramm
-### 7.2 Interne Evaluation
-### 7.3 Externe Evaluation
+### 7.2 Qualität und Aufsicht
+#### 7.2.1. Qualitätsentwicklung und -sicherung
+#### 7.2.2. Aufsicht
+### 7.3 …
+## 7a Schulpool
 ## 8 Schulbeteiligte
 ### 8.1 Schülerinnen und Schüler
 ### 8.2 Erziehungsberechtigte
 ### 8.3 Lehrerinnen und Lehrer
-## 9 Leitung und Aufsicht
+## 9 Leitung
 ### 9.1 Schulleitung
 ### 9.2 Schulrat
 ### 9.3 Amt für Volksschulen

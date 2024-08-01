@@ -7,14 +7,18 @@
 ### 3.4 …
 ## 4 Aufgaben der Schulen
 ### 4.1 Schulprogramm
-### 4.2 Interne Evaluation
-### 4.3 Externe Evaluation
+### 4.2 Qualität und Aufsicht
+#### 4.2.1 Qualitätsentwicklung und -sicherung
+#### 4.2.2 Aufsicht
+### 4.3 …
+## 4a Schulpool
 ## 5 Schulbeteiligte
 ### 5.1 Schülerinnen und Schüler
 ### 5.2 Erziehungsberechtigte
 ### 5.3 Lehrerinnen und Lehrer
-## 6 Leitung und Aufsicht
+## 6 Leitung
 ### 6.1 Schulleitung
+### 6.1a Schulleitungskonferenz
 ### 6.2 Schulrat
 ### 6.3 Amt für Volksschulen
 ## 7 Disziplinarwesen
