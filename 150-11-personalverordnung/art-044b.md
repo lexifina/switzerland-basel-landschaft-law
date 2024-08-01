@@ -1,4 +1,4 @@
 # § 44b Rückzahlungsverpflichtung
 1 Vorzeitige Kündigung durch die Mitarbeiterin oder den Mitarbeiter sowie die Auflösung des Arbeitsverhältnisses durch die Anstellungsbehörde aus Gründen, die bei der Mitarbeiterin oder dem Mitarbeiter liegen, wie insbesondere gemäss § 19 Abs. 3 Bst. c, d und e oder § 20 des Personalgesetzes bewirken eine Rückzahlungspflicht, wenn es sich nicht um einen direkten kantonsinternen Wechsel handelt.
 2 Der rückzahlbare Betrag ermittelt sich aus dem gesamten Unterstützungsbetrag, welcher für die Weiterbildung zur Verfügung gestellt worden ist, abzüglich eines allfälligen pro-rata-Anteils für jeden abgeschlossenen Monat der Verpflichtungszeit.
-3 In Härtefällen kann die Anstellungsbehörde, bei Lehrpersonen die Bildungs-,Kultur- und Sportdirektion, auf eine Rückforderung ganz oder teilweise verzichten.
+3 In Härtefällen kann die Anstellungsbehörde, bei Lehrpersonen und Mitarbeitenden im pädagogischen Bereich die Bildungs-, Kultur- und Sportdirektion für die von ihr getragenen Personalentwicklungsmassnahmen, auf eine Rückforderung ganz oder teilweise verzichten.

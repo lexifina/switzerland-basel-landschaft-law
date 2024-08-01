@@ -5,9 +5,9 @@ a. Gemeinderat:
 2. die Leiterin oder der Leiter der Stabsstelle Gemeinden,
 3. die Vorsteherin oder der Vorsteher des Amts für Daten und Statistik,
 4. die Leiterin oder der Leiter der Abteilung Gemeinderechnungswesen;
-b. Schulräte der Volksschulen:
+b. Schulräte der kommunalen Schulen:
 1. die Generalsekretärin oder der Generalsekretär der Bildungs-, Kultur- und Sportdirektion,
-2. die Mitglieder der Dienststellenleitung und der Bereichsleitungen des Amtes für Volksschulen;
+2. die Mitglieder der Dienststellenleitung und der Hauptabteilungsleitungen des Amts für Volksschulen;
 c. Sozialhilfebehörde:
 1. die Vorsteherin oder der Vorsteher des Kantonalen Sozialamts,
 2. die Leiterin oder der Leiter der Abteilung Unterstützungen;

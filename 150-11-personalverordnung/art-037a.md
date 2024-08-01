@@ -8,4 +8,4 @@ d: Erweiterung des Tätigkeitsfelds durch Job Enrichment, Job Enlargement oder J
 e. interne Stages;
 f. E-Learning und Blended Learning.
 3 Die Auswahl und Zuteilung der Teilnehmerinnen und Teilnehmer wird von den Anstellungsbehörden vorgenommen.
-4 Die Anstellungsbehörden, für Lehrpersonen die Bildungs-, Kultur- und Sportdirektion, budgetieren die Kosten der von ihnen bereitgestellten Personalentwicklungsmassnahmen.
+4 Die Anstellungsbehörden, für Mitarbeitende der öffentlichen Schulen des Kantons die Bildungs-, Kultur- und Sportdirektion, budgetieren die Kosten der von ihnen bereitgestellten Personalentwicklungsmassnahmen. Für Lehrpersonen der öffentlichen Schulen der Gemeinden budgetiert die Bildungs-, Kultur- und Sportdirektion die von ihr angeordneten Personalentwicklungsmassnahmen.
