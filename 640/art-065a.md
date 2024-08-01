@@ -1,0 +1,6 @@
+# § 65a Ordnungswidriges Verhalten von Schülerinnen und Schülern
+1 Versäumen Schülerinnen und Schüler unentschuldigt den Unterricht oder verstossen sie vorsätzlich oder fahrlässig gegen Ordnung und Disziplin, ergreifen die Lehrerinnen und Lehrer, bei schweren Verstössen die Schulleitung, Massnahmen.
+2 Bei den kommunalen Schulen kann der Schulrat auf Antrag der Schulleitung Schülerinnen und Schüler, die in schwerer Weise gegen Ordnung und Disziplin verstossen haben, aus der Schule ausschliessen.
+3 Bei den kantonalen Schulen kann die Schulleitung in Absprache mit der Bildungs-, Kultur- und Sportdirektion Schülerinnen und Schüler, die in schwerer Weise gegen Ordnung und Disziplin verstossen haben, aus der Schule ausschliessen.
+4 Bei den kommunalen Schulen hört der Schulrat bzw. bei den kantonalen Schulen die Schulleitung die Erziehungsberechtigten an, wenn er oder sie den Ausschluss von Schülerinnen und Schülern erwägt. Während der obligatorischen Schulpflicht müssen zudem die Bildungs-, Kultur- und Sportdirektion sowie vor einem unbefristeten Ausschluss die Kindes- und Erwachsenenschutzbehörde angehört werden. Der Ausschluss hebt die Schulpflicht nicht auf.
+5 Das Nähere regelt die Verordnung.

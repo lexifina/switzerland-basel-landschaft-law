@@ -26,16 +26,29 @@
 ## 3 Schulen des Kantons und der Einwohnergemeinden
 ### 3.1 Auftrag
 ### 3.1bis Schuladministrationslösung
-### 3.2 Qualitätssicherung
+### 3.2 Qualität, Aufsicht und Monitoring
+#### 3.2.1 Qualitätsentwicklung und -sicherung
+#### 3.2.2 Aufsicht
+#### 3.2.3 Bildungsmonitoring und Berichterstattung
 ### 3.3 Schulbeteiligte
 #### 3.3.1 Schülerinnen und Schüler
 #### 3.3.2 Erziehungsberechtigte
 #### 3.3.3 Lehrerinnen und Lehrer
-### 3.4 Leitung und Aufsicht
-#### 3.4.1 Schulleitung
-#### 3.4.2 Schulrat
+### 3.4 Leitung
+#### 3.4.1 Leitung kommunaler Schulen
+##### 3.4.1.1 Schulleitung
+##### 3.4.1.1a Schulleitungskonferenz
+#### 3.4.2 …
+##### 3.4.1.2 Schulrat
+##### 3.4.1.3 Führungsmodelle
+#### 3.4.3 Leitung kantonaler Schulen
+##### 3.4.3.1 Schulleitung
+##### 3.4.3.2 Schulleitungskonferenz
+##### 3.4.3.3 Schulrat
+##### 3.4.3.4 Bildungs-, Kultur- und Sportdirektion
+#### 3.4.4 Konferenz der Schulratspräsidien bzw. der für die Bildung zuständigen Gemeinderäte
 ## 4 Kantonale Behörden
-## 5 Disziplinar- und Beschwerdewesen
+## 5 Beschwerdewesen
 ## 6 Schullasten
 ### 6.1 Kostentragung
 ### 6.2 Beiträge des Kantons

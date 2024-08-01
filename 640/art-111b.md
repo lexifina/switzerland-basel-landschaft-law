@@ -1,2 +1,7 @@
 # § 111b Schulführung der kommunalen Schulen gemäss Änderung des Bildungsgesetzes vom 15. September 2022 [LRV 2021/568]
 1 Die Einwohnergemeinden müssen den Entscheid der Gemeindeversammlung über das künftige Führungsmodell der Primarstufe gemäss § 185b Gemeindegesetz bis spätestens am 31. Juli 2025 mit den gegebenenfalls notwendigen Erlassanpassungen umsetzen.
+2 Bis zum Inkrafttreten des neuen Führungsmodells gelten die Bestimmungen des Bildungsgesetzes in der Fassung vom 15. September 2022 (GS 2023.016 [LRV 2021/567]).
+3 Für Einwohnergemeinden mit einem bestehenden Kreisschulvertrag sowie für die Musikschulen gelten die Bestimmungen des neuen Führungsmodells ab Inkrafttreten dieser Änderung des Bildungsgesetzes.
+4 Entscheidet sich die Gemeindeversammlung gemäss § 185b Gemeindegesetz für ihre Primarstufe für das Führungsmodell Gemeinderat oder das Führungsmodell mit beratender Kommission, verlängert sich die Amtsdauer der Schulräte bis zum Inkrafttreten des neuen Führungsmodells, längstens bis zum 31. Juli 2025.
+5 Entscheidet sich die Einwohnergemeinde für ein Führungsmodell ohne Schulrat, tritt der Gemeinderat bei hängigen Beschwerden an oder gegen den Schulrat ab dem Zeitpunkt des Inkrafttretens des neuen Führungsmodells an dessen Stelle.
+6 Die Arbeitsverhältnisse mit vom Schulrat angestellten Mitarbeitenden werden mit Inkrafttreten des neuen Führungsmodells grundsätzlich von der neuen Anstellungsbehörde weitergeführt. Vorbehalten bleiben reguläre Austritte.

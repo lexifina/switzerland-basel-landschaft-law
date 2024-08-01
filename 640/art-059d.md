@@ -2,7 +2,7 @@
 1 Die berechtigten Stellen dürfen diejenigen Daten in der SAL abfragen oder sich systematisch melden lassen bzw. selber bearbeiten, für deren Bearbeitung die Voraussetzungen von § 9 des Informations- und Datenschutzgesetzes vom 10. Februar 2011 erfüllt sind.
 2 Als berechtigte Stellen gelten:
 a. die Mitarbeiterinnen und Mitarbeiter der kantonalen Schulen und der kommunalen Schulen;
-b. die Mitglieder von Schulräten der kantonalen und der kommunalen Schulen;
+b. die Schulräte bzw. bei den kommunalen Schulen die Gemeinderäte, sofern diese für die Schulführung eingesetzt werden;
 c. die Mitarbeiterinnen und Mitarbeiter von Bildungseinrichtungen, die durch den Kanton oder die Gemeinden mit unterrichtsbezogenen Aufgaben an öffentlichen Schulen beauftragt sind;
 d. die Mitarbeiterinnen und Mitarbeiter des Kantons und der Gemeinden mit Aufgaben an den Schulen;
 e. die Dienststellen der Bildungs-, Kultur- und Sportdirektion;
