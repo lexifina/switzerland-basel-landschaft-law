@@ -1,0 +1,4 @@
+# § 35b Beschränkung der Anzahl Ärztinnen und Ärzte, die im ambulanten Bereich Leistungen erbringen
+1 Der Regierungsrat legt in einem oder mehreren medizinischen Fachgebieten oder in bestimmten Regionen Höchstzahlen für Ärztinnen und Ärzte fest, die im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung Leistungen erbringen. Dabei strebt er eine bedarfsgerechte und wirtschaftliche Versorgung der Bevölkerung an und beachtet die Vorgaben des Bundesrechts.
+2 Er kann die Möglichkeit vorsehen, dass die Direktion in Einzelfällen aufgrund der Versorgungssituation in einem Fachgebiet oder einer Region von den Höchstzahlen abweichen kann.
+3 Er kann einen sofortigen Zulassungsstopp in einem bestimmten Fachgebiet anordnen, sofern die Voraussetzungen gemäss Art. 55a Abs. 6 KVG erfüllt sind.

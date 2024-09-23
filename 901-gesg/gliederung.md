@@ -7,6 +7,7 @@
 ## 3.4 Amtshilfe und Register
 ## 3.5 Berufsausübung und Berufspflichten
 ## 3.6 Fachliche Bewilligungsvoraussetzungen
+### 3.7 Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
 ## 4 Institutionen im Gesundheitsbereich
 ## 5 Rechte und Pflichten der Patientinnen und Patienten
 ## 6 Heilmittel
