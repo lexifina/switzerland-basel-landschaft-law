@@ -1,5 +1,7 @@
 # Reglement über Beiträge an freiwillige Schutzmassnahmen
+(Beitragsreglement, BR)
 Vom 20.09.2017
-Die Verwaltungskommission der Basellandschaftlichen Gebäudeversicherung,
-gestützt auf § 18 Absatz 3 des Gesetzes vom 12. Januar 2017 über die Prävention vor Schäden durch Brand- und gravitative Naturgefahren (Brand- und Naturgefahrenpräventionsgesetz, BNPG),
+Der Verwaltungsrat der Basellandschaftlichen Gebäudeversicherung,
+gestützt auf § 18 Abs. 3 des Gesetzes über die Prävention vor Schäden durch Brand- und gravitative Naturgefahren (Brand- und Naturgefahrenpräventionsgesetz, BNPG) vom 12. Januar 2017,
 beschliesst:
+1 Allgemeine Bestimmungen
