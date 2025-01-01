@@ -9,4 +9,4 @@ e. Massnahmen der sozialen Integration CHF 200.–;
 f. Massnahmen der frühen Sprachförderung CHF 200.–.
 3 Der Kanton entrichtet den Gemeinden die Aufwendungen quartalsweise.
 4 Die Abrechnung ist spätestens 3 Monate nach Quartalsende dem Kanton inklusive aller notwendigen Unterlagen einzureichen. Als notwendige Unterlagen gelten die Verfügungen und die Rechnungsbelege der Leistungserbringenden. Zu vergüten sind die Leistungen, deren Rechnungsdatum in das abzurechnende Quartal fällt.
-5 Bei nicht fristgemässer Einreichung verwirkt der Anspruch.
+5 …
