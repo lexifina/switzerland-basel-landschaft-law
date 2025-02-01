@@ -1,2 +1,2 @@
 # § 10b Grundsatz
-1 Beiträge an Projekte zur regionalen Entwicklung, Vermarktung und Verarbeitung werden gemäss eidgenössischem Recht gewährt.
+1 Der Einsatz der Mittel an Projekte zur regionalen Entwicklung, an gewerbliche Kleinbetriebe sowie an Verarbeitung, Lagerung und Vermarktung erfolgt gemäss eidgenössischem Recht.
