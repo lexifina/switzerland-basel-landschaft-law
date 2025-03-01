@@ -1,0 +1,2 @@
+# § 14a Ausnahmen von der Pflicht zur Nutzung der Sonnenenergie bei Gebäuden nach Art. 45a Energiegesetz
+1 Ist die Erstellung einer Solaranlage gemäss Art. 45a Energiegesetz des Bundes nicht mit den Vorschriften über den Denkmal- oder Ortsbildschutz vereinbar, technisch nicht möglich oder mit unverhältnismässig hohen Kosten verbunden, erteilt das Amt für Umweltschutz und Energie auf begründetes Gesuch hin eine Ausnahmebewilligung.
