@@ -5,6 +5,6 @@
 ## 5 Standorte für Energiegewinnungsanlagen aus übergeordnetem Interesse
 ## 6 Gewinnung von Energie aus dem Untergrund
 ## 7 Verteilung von Elektrizität
-## 8 Verteilung von leitungsgebundenem Gas
+## 8 Verteilung von leitungsgebundenem Gas und thermischer Energie
 ## 9 Förderbeiträge
 ## 10 Vollzug und Rechtspflege
