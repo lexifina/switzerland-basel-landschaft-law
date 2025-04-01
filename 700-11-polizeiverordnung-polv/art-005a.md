@@ -1,5 +1,5 @@
-# § 5a Sicherheitsassistenten und Sicherheitsassistentinnen
-1 Sicherheitsassistenten und Sicherheitsassistentinnen erfüllen insbesondere folgende Aufgaben:
+# § 5a Sicherheitsassistentinnen und Sicherheitsassistenten
+1 Sicherheitsassistentinnen und Sicherheitsassistenten erfüllen insbesondere folgende Aufgaben:
 a. Betreuung, Überwachung, Durchsuchung, Begleitung, Transport und Vorführung von angehaltenen, festgenommenen und inhaftierten Personen;
 b. Durchsetzung sitzungspolizeilicher Massnahmen bei Verhandlungen vor Gericht, Strafverfolgungsbehörden und anderen amtlichen Stellen, namentlich Zutrittskontrollen, Durchsuchungen und Wegweisungen;
 c. Anhaltung und Zuführung von Personen im Auftrag von Behörden, gestützt auf deren Anordnungen;
