@@ -1,2 +1,2 @@
-# § 4a Einzelheiten der Statistischen Erhebungen
-1 Die Einzelheiten der Statistischen Erhebungen gemäss § 4 sind im Anhang 1 aufgeführt.
+# § 4a Einzelheiten der statistischen Erhebungen
+1 Die Einzelheiten der statistischen Erhebungen gemäss § 4 sind im Anhang 2 aufgeführt.
