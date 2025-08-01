@@ -12,3 +12,4 @@ b. über einen Sprachstand in Deutsch von mindestens A2 gemäss GER verfügen;
 c. über schulische Grundlagen, insbesondere in Mathematik, die den Einstieg in ein Brückenangebot oder in eine berufliche Grundbildung ermöglichen, verfügen;
 d. Lern- und Leistungsbereitschaft sowie Arbeitsmotivation mitbringen und sie nicht mehr in die Volksschule eintreten können.
 3 In begründeten Fällen sind Ausnahmen möglich. Zur Klärung des Sachverhalts können der Schulpsychologische Dienst oder die Kinder- und Jugendpsychiatrie beigezogen werden.
+4 Die Jugendlichen müssen über einen geregelten Aufenthaltsstatus verfügen.
