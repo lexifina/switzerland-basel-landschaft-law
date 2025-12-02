@@ -1,3 +1,5 @@
 # Verordnung über das Naturschutzgebiet «Rütihard-Rothallen», Muttenz
-Vom 15.12.1998
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991 betreffend den Natur- und Landschaftsschutz, beschliesst:
+Vom 11.11.2025
+Der Regierungsrat des Kantons Basel-Landschaft,
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984 und das Gesetz über den Natur- und Landschaftsschutz vom 20. November 1991,
+beschliesst:
