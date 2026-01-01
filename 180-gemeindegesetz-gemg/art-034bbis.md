@@ -17,3 +17,4 @@ b. unterstehen der Verschwiegenheitspflicht gemäss Art. 451 Absatz 1 ZGB;
 c. unterstehen nicht den §§ 21, 30, 31 Absatz 1, 32 und 32a.
 5 Mitarbeitende der kommunalen Sozialdienste dürfen in der Regel in Fällen, in denen sie von der Kindes- und Erwachsenenschutzbehörde mit Abklärungen im Sinne von § 62 Absatz 3 Gesetz über die Einführung des Zivilgesetzbuches beauftragt wurden, nicht als Mandatsträger bzw. Mandatsträgerin ernannt werden.
 6 Ist die Berufsbeistandschaft in der Kindes- und Erwachsenenbehörde eingegliedert, besteht die Aufgabe der Mitarbeitenden der Berufsbeistandschaft ausschliesslich in der Führung von Mandaten.
+2.4.2 Zweckverbände
