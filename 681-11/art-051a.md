@@ -13,3 +13,4 @@ g. die Sicherstellung der Information der Öffentlichkeit über den Lernort Beru
 h. der Erlass verbindlicher Weisungen;
 i. der Erlass einer Geschäftsordnung.
 4 Sie kann bei Bedarf Fachgruppen einsetzen.
+4.2 Schulrat

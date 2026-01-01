@@ -9,3 +9,4 @@ b. die schulische Grundbildung,
 c. die berufsfeldbezogene Bildung,
 d. das Praxislernen.
 3 Die Arbeitsbereiche werden nach dem individuellen Bedarf der Jugendlichen organisiert.
+1ter Berufsintegration

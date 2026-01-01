@@ -8,3 +8,4 @@ e. Klassenstunde;
 f. betreute Hausaufgaben.
 2 Das Angebot des IAV Sek II wird als regulärer Kurs und als Kurs für Jugendliche mit Analphabetismus geführt.
 3 Die Kurse werden nach dem individuellen Bedarf der Jugendlichen organisiert.
+1bis Ausbildung in Brückenangeboten
