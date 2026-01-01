@@ -10,3 +10,5 @@ d. die Vermögensübertragung oder die Übertragung im Rahmen einer Spaltung nac
 5 Die Abklärung der Bewilligungspflicht bei Veräusserungen und diesen gleichgestellten Rechtsgeschäften erfolgt durch den beauftragten Notar, bei Teilungen, vorbehältlich Baurechtsbegründungen, durch den zuständigen Geometer. Mit der nachgewiesenen Einsichtnahme in das kantonale Auskunftssystem, welches Informationen zum Kataster der belasteten Standorte beinhaltet, ist die Abklärungspflicht hinreichend erfüllt.
 6 Das Amt für Umweltschutz und Energie kann die Eintragung im Kataster der belasteten Standorte im Grundbuch anmerken lassen.
 7 Im Bewilligungsverfahren nach dieser Bestimmung kann von der Bewilligungsbehörde für den Entscheid eine aufwandbezogene Verwaltungsgebühr von maximal CHF 200.– erhoben werden. Zahlungspflichtig ist der Eigentümer, dessen Grundstück veräussert oder geteilt werden soll.
+6 Vollzug und Verfahren
+6.1 Forschung und Entwicklung (§ 42 USG BL)
