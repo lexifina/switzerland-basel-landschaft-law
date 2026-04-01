@@ -25,3 +25,4 @@ f. Rechnungsprüfungskommission:
 g. Geschäftsprüfungskommission:
 1. die Generalsekretärin oder der Generalsekretär der Finanz- und Kirchendirektion,
 2. die Leiterin oder der Leiter des Fachbereichs Gemeinden der Finanz- und Kirchendirektion.
+7 …

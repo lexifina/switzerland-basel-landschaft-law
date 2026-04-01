@@ -1,2 +1,3 @@
 # § 8b Schadenersatz
 1 Erleiden Mitarbeiterinnen und Mitarbeiter bei der Erfüllung ihrer Aufgaben einen Personen- oder Sachschaden, der weder von einem Dritten noch vom Arbeitgeber aufgrund einer anderen Regelung ersetzt wird, leistet die Anstellungsbehörde oder eine andere von ihr bestimmte Stelle auf schriftliches Gesuch hin vollumfänglich oder teilweise Ersatz. Der erlittene Schaden darf nicht ausschliesslich auf rechtswidriges sowie vorsätzliches oder grobfahrlässiges Handeln der Mitarbeiterinnen und Mitarbeiter zurückzuführen sein.
+1.2 Mitarbeitendengespräch
