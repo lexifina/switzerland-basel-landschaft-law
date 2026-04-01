@@ -5,3 +5,4 @@
 3 Die Hebammen dürfen für geleistete Bereitschaftsdienste gemäss Abs. 1 und 2 keine weitergehenden Vergütungen abrechnen.
 4 Der Kanton ist nur leistungspflichtig, soweit die Leistung nicht durch die obligatorische Krankenversicherung abgegolten wird.
 5 Der Regierungsrat bestimmt nach Anhörung der Hebammen die Höhe der Inkonvenienzentschädigung.
+7.6 Katastrophen und Notlagen
