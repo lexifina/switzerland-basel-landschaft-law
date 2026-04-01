@@ -7,3 +7,4 @@ d. Fl채chen von unbeheizten Zwischenklimar채umen wie verglaste Balkone, Winterg�
 3 Zur Bruttogeschossfl채che der Hauptbauten (BGFH) werden nicht gerechnet:
 a. mindestens einseitig offene, gedeckte oder ungedeckte Balkone;
 b. mindestens einseitig offene, gedeckte Eingangsbereiche und Sitzpl채tze.
+4.3.1 IVHB Oberirdische Bauten (Bauten und Bauteile, die 체ber dem massgebenden Terrain liegen)

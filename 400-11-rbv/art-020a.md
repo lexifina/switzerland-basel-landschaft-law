@@ -5,3 +5,4 @@ b. darf an einem mittleren Wintertag (8. Februar oder 3. November) in der Zeit v
 2 Die Gemeinden zeigen im Begleitbericht die Auswirkungen auf die längerfristigen Entwicklungsmöglichkeiten der umgebenen Quartiere auf und stimmen diese mit der Quartierplanung ab.
 3 In zu begründenden Ausnahmen, wie insbesondere bei städtebaulich besonderen Lagen, kann von der Schattenwurfregel gemäss Abs. 1 Bst. b abgewichen werden.
 4 Der Gemeinderat beantragt dem Regierungsrat die Genehmigung der Abweichung gemäss Abs. 3 mit dem Genehmigungsantrag zum Quartierplan.
+2.4.4 Gebiete für neue Verkaufseinheiten

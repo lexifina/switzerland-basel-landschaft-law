@@ -1,3 +1,5 @@
 # § 70a Hindernisfreies Bauen
 1 Die Begriffsdefinitionen sowie die Beurteilung der Verhältnismässigkeit richten sich nach den entsprechenden Bestimmungen des Bundesgesetzes über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsgesetz, BehiG) vom 13. Dezember 2002, der Verordnung über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen (Behindertengleichstellungsverordnung, BehiV) vom 19. November 2003 sowie des Gesetzes über die Rechte von Menschen mit Behinderungen (Behindertenrechtegesetz BL, BRG BL) vom 26. Januar 2023.
 2 Die erforderlichen baulichen Massnahmen richten sich nach den Richtlinien «Hindernisfreie Bauten» des Schweizerischen Ingenieur- und Architektenvereins (SIA).
+5 Baupolizeivorschriften
+5.1 Allgemeine Vorschriften

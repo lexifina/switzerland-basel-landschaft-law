@@ -9,3 +9,4 @@ d. die Fassadenhöhe der gegen die Hauptbaute oder den Nachbarn gerichteten Geb�
 4 Stimmt ein Nachbar einer Klein- oder Anbaute mit geringerem Grenzabstand zu, erhält er gleichzeitig das Recht, eine vergleichbare Baute mit demselben Grenzabstand an der gegenüberliegenden Stelle auf seiner Parzelle zu errichten.
 5 Für Klein- oder Anbauten im Sinne dieser Bestimmung, die nachweislich während mindestens 3 Jahren ohne Zustimmung des Nachbarn unbeanstandet bestehen, gilt die Zustimmung als stillschweigend erteilt. Dies gilt auch für andere, zustimmungsbedürftige, bauliche Vorkehrungen wie Stützmauern, Fundamente, Abgrabungen und Aufschüttungen (§ 92 Abs. 1 und 2, § 93 Abs. 1 RBG).
 6 Der Grenzabstand von Schwimmbassins darf ohne schriftliche Zustimmung der Nachbarschaft nicht weniger als 2 m betragen.
+4.3.2 IVHB Unterirdische Bauten
