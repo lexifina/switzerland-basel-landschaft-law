@@ -1,0 +1,3 @@
+# § 73b Meldepflichten und Melderechte
+1 Haben die für die Anstellung zuständigen Behörden und Organe ernsthafte und konkrete Hinweise, die Anlass zur Überprüfung der Unterrichtsberechtigung geben können, sind sie verpflichtet, der Bildungs-, Kultur- und Sportdirektion Bericht zu erstatten. Andere kommunale und kantonale Behörden sind zur Meldung berechtigt, unter Vorbehalt der Bestimmungen über das Berufsgeheimnis.
+2 Die Bildungs-, Kultur- und Sportdirektion meldet den Entzug der Unterrichtsberechtigung sowie dessen Aufhebung der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) zur Erfassung und Löschung in der interkantonalen Liste über Lehrkräfte ohne Unterrichtsberechtigung.
