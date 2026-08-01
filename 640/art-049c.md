@@ -3,3 +3,4 @@
 2 Die Bildungs-, Kultur- und Sportdirektion entscheidet über die Aufnahme der Förderung und des Transports auf Antrag der Erziehungsberechtigten.
 3 Die Verordnung legt für die Angebote der heilpädagogischen Früherziehung einen Ressourcen-Pool im Verhältnis zur Anzahl Kinder im Alter von 0 bis 4 Jahren mit Wohnsitz im Kanton Basel-Landschaft fest.
 4 Das Nähere regelt die Verordnung.
+2.9 Musikschule

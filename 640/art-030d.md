@@ -5,3 +5,4 @@
 4 Der Zugang zur Anlauf- und Aufnahmestelle ist jederzeit möglich.
 5 Über die Aufnahme und Dauer bei den weiteren Angeboten entscheidet die Bildungs-, Kultur- und Sportdirektion gegebenenfalls unter Beizug einer kantonalen Fachstelle.
 6 Das Nähere regelt die Verordnung.
+2.4 Berufliche Grundbildung

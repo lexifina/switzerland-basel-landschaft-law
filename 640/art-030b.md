@@ -4,3 +4,4 @@
 3 Es kann in der Regel nur 1 Brückenangebot besucht werden. In begründeten Fällen kann ein 2. Brückenangebot bewilligt werden.
 4 Über die Aufnahme und die Verlängerung entscheidet die Bildungs-, Kultur- und Sportdirektion gegebenenfalls unter Beizug einer kantonalen Fachstelle.
 5 Das Nähere regelt die Verordnung.
+2.3b Berufsintegration

@@ -10,3 +10,4 @@ g. Sie genehmigt das Budget und die Rechnung hinsichtlich der Übereinstimmung m
 h. Sie führt mit der Schulleitung jeder Schule jährliche Betriebsgespräche.
 i. Sie beschliesst Massnahmen zur Umsetzung der Evaluationsergebnisse und der Erkenntnisse aus den Aufsichtsprozessen.
 2 Das Nähere regelt die Verordnung.
+3.4.4 Konferenz der Schulratspräsidien bzw. der für die Bildung zuständigen Gemeinderäte

@@ -9,3 +9,4 @@ f. Er wirkt bei der Erarbeitung des Schulprogramms mit und genehmigt dieses unte
 g. Er nimmt das Budget hinsichtlich der Übereinstimmung mit den Vorgaben des Schulprogramms zur Kenntnis.
 h. Er berät die Evaluationsergebnisse und die Erkenntnisse aus den Aufsichtsprozessen, erarbeitet gemeinsam mit der Schulleitung die daraus abgeleiteten Massnahmen und genehmigt die Massnahmen aus der internen Evaluation.
 2 Der Schulrat kann zur Erfüllung seiner Aufgaben in Absprache mit der Schulleitung und den Lehrpersonen Unterrichtsbesuche machen.
+3.4.3.4 Bildungs-, Kultur- und Sportdirektion

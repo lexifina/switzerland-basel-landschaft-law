@@ -1,1 +1,3 @@
 # § 62b …
+3.3 Schulbeteiligte
+3.3.1 Schülerinnen und Schüler

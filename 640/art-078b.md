@@ -10,3 +10,5 @@ f. Die Schulleitungskonferenz der Primarstufe pflegt den Kontakt zu den aufnehme
 3 Die Schulleitungskonferenzen werden von einem Vorstand geleitet und von der Bildungs-, Kultur- und Sportdirektion fachlich unterstützt. Diese ist im Vorstand mit beratender Stimme vertreten.
 4 Die Vorstände werden hälftig von der Trägerschaft und der Bildungs-, Kultur- und Sportdirektion ressourciert. Die übrigen Kosten der Schulleitungskonferenzen gehen zulasten des Kantons.
 5 Das Nähere regelt die Verordnung.
+3.4.2 …
+3.4.1.2 Schulrat

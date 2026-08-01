@@ -15,3 +15,5 @@ Das Weitere regelt die Verordnung.
 5 Schülerinnen und Schüler bzw. Berufslernende sowie die Erziehungsberechtigten von minderjährigen Schülerinnen und Schülern bzw. Berufslernenden haben Zugang zu den in der SAL vorhandenen eigenen Daten.
 6 Die Schülerinnen und Schüler ab der Sekundarstufe I bzw. die Berufslernenden haben überdies einen persönlichen elektronischen Zugriff auf die in der SAL für sie freigegebenen eigenen Daten. Den Erziehungsberechtigten von minderjährigen Schülerinnen und Schülern bzw. Berufslernenden steht der Zugriff über deren Login zur Verfügung.
 7 In den kommunalen Schulen entscheiden die Schulleitungen über den elektronischen Zugriff auf die in der SAL für die Schülerinnen und Schüler freigegebenen eigenen Daten. Den Erziehungsberechtigten von Schülerinnen und Schülern steht der Zugriff über deren Login zur Verfügung.
+3.2 Qualität, Aufsicht und Monitoring
+3.2.1 Qualitätsentwicklung und -sicherung

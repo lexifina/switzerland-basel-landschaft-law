@@ -4,3 +4,5 @@ a. Zuweisung in eine Klasse oder Wechsel einer Klasse innerhalb des Schulstandor
 b. Disziplinarmassnahmen im Zuständigkeitsbereich der Lehrerinnen und Lehrer;
 c. Ergebnis einer Beurteilung, darunter auch die Benotung mit der tiefsten Note, und Absenzeinträge, sofern diese keinen Einfluss auf das weitere schulische oder berufliche Fortkommen haben;
 d. Ermahnungen gegenüber Erziehungsberechtigten.
+6 Schullasten
+6.1 Kostentragung

@@ -9,3 +9,4 @@ e. Sie nehmen zuhanden der Bildungs-, Kultur- und Sportdirektion zu allen die je
 f. Sie pflegen den Kontakt zu den abgebenden und aufnehmenden Schulen bzw. Bildungsinstitutionen und beziehen ihre Anliegen ein.
 3 Die Schulleitungskonferenzen unterstehen der Bildungs-, Kultur- und Sportdirektion.
 4 Das Nähere regelt die Verordnung.
+3.4.3.3 Schulrat
