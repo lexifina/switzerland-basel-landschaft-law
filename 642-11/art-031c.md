@@ -4,3 +4,4 @@ a. zu Schul- und Personalführung;
 b. zum Schulprogramm, inklusive Schulentwicklungsplanung;
 c. zur Qualitätsentwicklung und -sicherung.
 2 Es gibt den Schulen eine schriftliche Rückmeldung, gegebenenfalls verbunden mit Handlungsempfehlungen.
+4.3 …
