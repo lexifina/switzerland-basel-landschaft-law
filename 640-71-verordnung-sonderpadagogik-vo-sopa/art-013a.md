@@ -7,3 +7,4 @@ c. integrierte betriebliche Grundbildung;
 d. stationäre Berufsbildung und Berufsintegration in Kombination mit einer stationären Unterbringung;
 e. Beschulung an einer dem besonderen Bildungsbedarf entsprechend qualifizierten Privatschule.
 3 Individuelle Unterstützungsangebote vermitteln keinen Anspruch auf einen bestimmten Bildungsabschluss auf der Sekundarstufe II oder die Erhöhung der Qualifikationsstufe.
+2.3 Ressourcen
