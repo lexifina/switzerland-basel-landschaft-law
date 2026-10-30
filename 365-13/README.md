@@ -1,0 +1,7 @@
+# Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen
+
+Stipendien-Konkordat · 1 versions, from 2013-03-01 (latest in force: 2013-03-01) · <https://bl.clex.ch/app/de/texts_of_law/365.13>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Current text | [text.md](text.md) | 0 |  |

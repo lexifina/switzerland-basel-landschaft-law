@@ -5,7 +5,7 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-basel-landschaft-law",
-  "build": "built: constitution, cantonal laws and Verordnungen (608 acts, 1675 versions) from the SGS",
+  "build": "built: 854 acts, 1921 versions from the Basel-Landschaft systematic collection; current-text additions await earlier versions",
   "language": "de",
   "sources": 1
 }

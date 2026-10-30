@@ -14914,6 +14914,3450 @@
      "sha256": "d6923f0e9db0974c665428065666f1e4c31339775a7913b57ec5b7e3aceb4455"
     }
    ]
+  },
+  {
+   "slug": "454-1",
+   "short": "454.1",
+   "title": "Dekret über die Gebühren für Gewässernutzungen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/454.1",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/454.1",
+     "sha256": "988a888bca2763db2dd88c686ef7eb7c3db8a3da803e73f007255bd59fcb0af4"
+    }
+   ]
+  },
+  {
+   "slug": "456",
+   "short": "456",
+   "title": "Landratsbeschluss betreffend die Fortleitung von Frischwasser aus der Hard (erste Etappe) Genehmigung des generellen Projektes",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/456",
+   "versions": [
+    {
+     "from": "1961-05-18",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/456",
+     "sha256": "4fedef6553cde219c1c84eb193dcc4975dedfe0075436f8cc45f0b9e06fbb595"
+    }
+   ]
+  },
+  {
+   "slug": "250",
+   "short": "EG StPO",
+   "title": "Einführungsgesetz zur Schweizerischen Strafprozessordnung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/250",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/250",
+     "sha256": "ba6ed741e24cb710314bbe7a1dd47e4422abb0df5f124403499ee4052a150adc"
+    }
+   ]
+  },
+  {
+   "slug": "250-1",
+   "short": "Dekret EG StPO",
+   "title": "Dekret zum Einführungsgesetz zur Schweizerischen Strafprozessordnung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/250.1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/250.1",
+     "sha256": "b2fa598415972ec46303178703f29363066a2e400291ee39d54f327cec5386a8"
+    }
+   ]
+  },
+  {
+   "slug": "252-111",
+   "short": "252.111",
+   "title": "Vertrag über die Opferberatungsstellen beider Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/252.111",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/252.111",
+     "sha256": "84d051c02d2a309b7f17dc5354e6b658281709aea7288ebd35442d33b63407ec"
+    }
+   ]
+  },
+  {
+   "slug": "719-1",
+   "short": "719.1",
+   "title": "Vereinbarung über die Polizeitätigkeit auf der Autobahn N 2",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/719.1",
+   "versions": [
+    {
+     "from": "1986-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/719.1",
+     "sha256": "06dbec47a7bac7b058783f10b7d1f26d2551488211019dd7bd9c392873f1c0e5"
+    }
+   ]
+  },
+  {
+   "slug": "719-21",
+   "short": "719.21",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Landschaft und Aargau über die Polizeitätigkeit auf den Autobahnen A2 und A3",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/719.21",
+   "versions": [
+    {
+     "from": "1996-11-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/719.21",
+     "sha256": "dc7ed9c138f6778d195ef0f374f22be88dc554c02dc77a0d8d247ff6f930a4f7"
+    }
+   ]
+  },
+  {
+   "slug": "719-31",
+   "short": "719.31",
+   "title": "Vereinbarung über die grenzüberschreitende polizeiliche Zusammenarbeit in den Kantonen Basel-Stadt und Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/719.31",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/719.31",
+     "sha256": "ff347da97ef22eaecb01271fb6342526eadf962548bdbf9daf8ad7961b69b4ee"
+    }
+   ]
+  },
+  {
+   "slug": "719-411",
+   "short": "719.411",
+   "title": "Vereinbarung über die Bikantonale Geschäftsstelle Eventverkehr St. Jakob",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/719.411",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/719.411",
+     "sha256": "daba7d15c79f83564423694498c97b455acda63d4b387db8122a2f4aaf9713e7"
+    }
+   ]
+  },
+  {
+   "slug": "915-111",
+   "short": "915.111",
+   "title": "Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft bei der Gewährung von Ausbildungsbeiträgen im Pflegebereich",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/915.111",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/915.111",
+     "sha256": "8e494c7b0175e28c941b0b71d4884f6d7e1d9cb5f5fff785a310e61f326fa787"
+    }
+   ]
+  },
+  {
+   "slug": "683-21",
+   "short": "683.21",
+   "title": "Vertrag zwischen dem Kaufmännischen Verband Baselland und dem Kanton Basel-Landschaft über die Führung der Schulen des Kaufmännischen Verbands Baselland",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/683.21",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/683.21",
+     "sha256": "dfc0f02b8b943adf63f9e6b719d3279e608bf05ceefd5dfc2c1e7974879ef00d"
+    }
+   ]
+  },
+  {
+   "slug": "111-11",
+   "short": "ARV",
+   "title": "Anmeldungs- und Registerverordnung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/111.11",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/111.11",
+     "sha256": "b5c594d959c3edffdc3d4dd9a8a5d702e47aeed9f70c6d197ff2d4bcda0423c0"
+    }
+   ]
+  },
+  {
+   "slug": "113-112",
+   "short": "Vereinbarung Biometrisierung BS–BL",
+   "title": "Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft bei der Erfassung von biometrischen Daten für Schweizerpässe",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/113.112",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/113.112",
+     "sha256": "e4064bcbebd569d4aa9613cad8946faba0c5f45eb5e9c2a02a287a42c2babf72"
+    }
+   ]
+  },
+  {
+   "slug": "664-1",
+   "short": "664.1",
+   "title": "Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/664.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/664.1",
+     "sha256": "53a8529f148689842a5a56c411194f053cd15e91e4c73b54c9944ddc087e4665"
+    }
+   ]
+  },
+  {
+   "slug": "664-12",
+   "short": "664.12",
+   "title": "Vereinbarung über das Immobilienwesen der Universität Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/664.12",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/664.12",
+     "sha256": "bdaf2de8481f1e2f4b873911ffc8ae98782dbc209201b4025638b0dfa8806073"
+    }
+   ]
+  },
+  {
+   "slug": "664-155",
+   "short": "664.155",
+   "title": "Stiftungsstatut der Stiftung Volkshochschule und Senioren-Universität beider Basel (VHS BB)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/664.155",
+   "versions": [
+    {
+     "from": "2002-09-25",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/664.155",
+     "sha256": "d7b032a9623ce29bf8dd01b57c5d561ba6e081e1e18dee26233b9f95f05e3af4"
+    }
+   ]
+  },
+  {
+   "slug": "664-3",
+   "short": "Interkantonale Universitätsvereinbarung, IUV",
+   "title": "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/664.3",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/664.3",
+     "sha256": "d6cc8a87a9905680bd90ed5e29a8a3bb104ad189bce050276c6cf6055bedc733"
+    }
+   ]
+  },
+  {
+   "slug": "361-12",
+   "short": "361.12",
+   "title": "Vereinbarung über Beiträge an das Ausbildungszentrum für das Strafvollzugspersonal",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/361.12",
+   "versions": [
+    {
+     "from": "1980-12-18",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/361.12",
+     "sha256": "58161d547c048b1c91e951489c55db25d881920b1c9d32056fb3961241cc5963"
+    }
+   ]
+  },
+  {
+   "slug": "362-1",
+   "short": "362.1",
+   "title": "Dekret über die Einkommensobergrenzen und den Prozentanteil in der Prämienverbilligung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/362.1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/362.1",
+     "sha256": "5b6b6ea77dafd095fcf7bcc0f46445c8e902ee8505904f9059974bc86bc3fb25"
+    }
+   ]
+  },
+  {
+   "slug": "365-13",
+   "short": "Stipendien-Konkordat",
+   "title": "Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/365.13",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/365.13",
+     "sha256": "d526ccf3edb478ddb5d02b4442f6969d0f2891ba183953966a5f4f379726ce58"
+    }
+   ]
+  },
+  {
+   "slug": "365-511",
+   "short": "365.511",
+   "title": "Weisung über die Staatsbeiträge an die Fortbildungskurse für Lehrer an den basellandschaftlichen Volksschulen und Kindergärten",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/365.511",
+   "versions": [
+    {
+     "from": "1987-02-10",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/365.511",
+     "sha256": "6205a4137a2eab33130e82dd78438d2cf4f125563581e57172940c12b7f2e7b1"
+    }
+   ]
+  },
+  {
+   "slug": "365-515",
+   "short": "365.515",
+   "title": "Vereinbarung über die Abgeltung der unterrichtsbezogenen Dienst­leistungen zugunsten der Schulen des Kantons Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/365.515",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/365.515",
+     "sha256": "6286979b5a5bd6e2aed70b43c42e766166ac3108d516a5fdd9344f34c2527a76"
+    }
+   ]
+  },
+  {
+   "slug": "366-15",
+   "short": "Kulturvertrag",
+   "title": "Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung kultureller Zentrumsleistungen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/366.15",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/366.15",
+     "sha256": "45588e1a74284b12f4d842a048d90708b7144b6353952e0a59d8df4de9972089"
+    }
+   ]
+  },
+  {
+   "slug": "490-1",
+   "short": "490.1",
+   "title": "Dekret zum Energiegesetz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/490.1",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/490.1",
+     "sha256": "2cca3e879a821478f581af3a7850d36b9d8a40752f37bb774706076ed0f9635c"
+    }
+   ]
+  },
+  {
+   "slug": "493",
+   "short": "493",
+   "title": "Verleihung für die Errichtung einer Wasserkraftanlage im Rhein bei Birsfelden",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/493",
+   "versions": [
+    {
+     "from": "1951-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/493",
+     "sha256": "6c6f0a1388663173f09c0968d6687e113bad7bf5d35283b0eff20dd666aa325d"
+    }
+   ]
+  },
+  {
+   "slug": "493-1",
+   "short": "493.1",
+   "title": "Verleihung für die Erweiterung der Wassernutzung des Rheins beim Kraftwerk Birsfelden",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/493.1",
+   "versions": [
+    {
+     "from": "1963-05-15",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/493.1",
+     "sha256": "8556fde34eaf298a8a142f91884f8a4fdc80bacb06c1f545bf836bb0677fe9c1"
+    }
+   ]
+  },
+  {
+   "slug": "493-21",
+   "short": "493.21",
+   "title": "Vertrag zwischen dem Kanton Basel-Landschaft und dem Kanton Basel-Stadt betreffend Gründung einer Aktiengesellschaft zum Bau und Betrieb einer Wasserkraftanlage bei Birsfelden",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/493.21",
+   "versions": [
+    {
+     "from": "1950-09-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/493.21",
+     "sha256": "cb29ed36df9f2435f0184cf186c7284093b10758922e9638108fc15d81f4be0d"
+    }
+   ]
+  },
+  {
+   "slug": "494",
+   "short": "494",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Landschaft (BL) und Basel-Stadt (BS) betreffend die Berechnung des Wasserzinses des Kraftwerkes Augst an den Kanton BL und des Wasserzinses des Kraftwerks Birsfelden an die Kantone BS und BL",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/494",
+   "versions": [
+    {
+     "from": "1973-10-16",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/494",
+     "sha256": "6bd7834f59caaa86d70098b7f9f050de9e13a70f62fb97ee12df5ef1a12dc102"
+    }
+   ]
+  },
+  {
+   "slug": "495",
+   "short": "495",
+   "title": "Regierungsratsbeschluss betreffend Vollzug des Artikels 44 des Bundesgesetzes betreffend die elektrischen Schwach- und Starkstromanlagen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/495",
+   "versions": [
+    {
+     "from": "1903-02-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/495",
+     "sha256": "bf14d3b8aac89f6edca3f0d64aa66488b39c6533606b09669ffe671a1137776a"
+    }
+   ]
+  },
+  {
+   "slug": "371-1",
+   "short": "371.1",
+   "title": "Dekret über die Festsetzung des Zertifikats- und Dotationskapitals der Basellandschaftlichen Kantonalbank",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/371.1",
+   "versions": [
+    {
+     "from": "2008-11-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/371.1",
+     "sha256": "59f8ecb6502c42a329e7c2908acf5a7fa61461d53cfa3d566a9247ae9861519d"
+    }
+   ]
+  },
+  {
+   "slug": "141-11",
+   "short": "141.11",
+   "title": "Geschäftsordnung des Regierungsrates",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/141.11",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/141.11",
+     "sha256": "8a377932b96b751078b7d09486e10ebf5d5437d200c3681e27ce7aa0f70211e6"
+    }
+   ]
+  },
+  {
+   "slug": "242",
+   "short": "EG JStPO",
+   "title": "Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/242",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/242",
+     "sha256": "a0da0db778f60ec80f47fa38482898ad95239095b1a8463d6cbf8ea3d912c6a9"
+    }
+   ]
+  },
+  {
+   "slug": "212-31",
+   "short": "NAV LW",
+   "title": "Normalarbeitsvertrag für landwirtschaftliche Arbeitsverhältnisse im Kanton Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/212.31",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/212.31",
+     "sha256": "03764cd8df4a2494852eb3b84ec912eb258739bbacf2d20de25b540b23e07644"
+    }
+   ]
+  },
+  {
+   "slug": "212-35",
+   "short": "NAV wohngemeinschaftliche Betreuung",
+   "title": "Normalarbeitsvertrag für die wohngemeinschaftliche Betreuung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/212.35",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/212.35",
+     "sha256": "2308f7717f26ec80d0d27f742bbd51ffbfd4408a6671112db6017d6dbba8ef4f"
+    }
+   ]
+  },
+  {
+   "slug": "516-34",
+   "short": "516.34",
+   "title": "Vereinbarung über die Zusammenarbeit zwischen dem Kanton Solothurn und dem Kanton Basel-Landschaft betreffend den Vollzug von Massnahmen im Rebbau",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/516.34",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/516.34",
+     "sha256": "8255d5f318631bf71a79e887fb528e094dac24d975071432a99bb10e01da570b"
+    }
+   ]
+  },
+  {
+   "slug": "791-21",
+   "short": "791.21",
+   "title": "Regierungsratsbeschluss betreffend die Anlegung und Inventarisierung von lokalen Sammlun­gen von Altertümern durch Gemeinden, öffent­lich-rechtliche Korpora­tio­nen, wissen­schaftliche Vereini­gungen und private Personen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/791.21",
+   "versions": [
+    {
+     "from": "1937-10-02",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/791.21",
+     "sha256": "87e7a48cd425fb8ae8f289d4ac3021b43adcee5f7c7cd253a2e06dce268806a6"
+    }
+   ]
+  },
+  {
+   "slug": "615-111",
+   "short": "615.111",
+   "title": "Vereinbarung über eine gemeinsame Tierversuchskommission der Kantone Basel-Stadt, Basel-Landschaft und Aargau",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/615.111",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/615.111",
+     "sha256": "35778f1b54d5e0d281c12871292b6de093ae61da575f7ebf7750ac6cb57ffcd6"
+    }
+   ]
+  },
+  {
+   "slug": "480-1",
+   "short": "480.1",
+   "title": "Vereinbarung über die Basler Verkehrs-Betriebe und die BLT Baselland Transport AG",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/480.1",
+   "versions": [
+    {
+     "from": "1995-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/480.1",
+     "sha256": "a560b3fa70d1d92b471b5f2ee013800e2b108182870f4796288c9bbf14aa4299"
+    }
+   ]
+  },
+  {
+   "slug": "480-111",
+   "short": "480.111",
+   "title": "Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/480.111",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/480.111",
+     "sha256": "360ebcf504f415a1b63f98af9f86de67bcf734d485a1653f119bb7fa2bec74f3"
+    }
+   ]
+  },
+  {
+   "slug": "481-5",
+   "short": "481.5",
+   "title": "Vereinbarung betreffend die Motorfahrzeugprüfstation beider Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/481.5",
+   "versions": [
+    {
+     "from": "1979-01-09",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/481.5",
+     "sha256": "951b46ba49e742665aa4a8f669a7c78a6b4e113fea651ca75257b6a37e94eef0"
+    }
+   ]
+  },
+  {
+   "slug": "481-51",
+   "short": "481.51",
+   "title": "Vereinbarung über die Gebühren der Motorfahrzeugprüfstation beider Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/481.51",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/481.51",
+     "sha256": "f999897c5dd8b1904a8242f7e58f82c22fb574ed47d4927c66a3bc72fc876385"
+    }
+   ]
+  },
+  {
+   "slug": "481-52",
+   "short": "481.52",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau über die Durchführung der amtlichen Nachkontrollen von Fahrzeugen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/481.52",
+   "versions": [
+    {
+     "from": "1997-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/481.52",
+     "sha256": "b6bbf5a2c8695db78924240080b85e01d2cb214048d9793782a00c7c6c4ea882"
+    }
+   ]
+  },
+  {
+   "slug": "483-1",
+   "short": "Angebotsdekret",
+   "title": "Dekret über das Angebot im regionalen Personenverkehr",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/483.1",
+   "versions": [
+    {
+     "from": "2020-10-02",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/483.1",
+     "sha256": "3ec691e8e727740a766c440849f1a8381570fc7b88fa5e0964f584299df2e662"
+    }
+   ]
+  },
+  {
+   "slug": "486-1",
+   "short": "486.1",
+   "title": "Dekret betreffend die kantonale Zuständigkeitsordnung zum Eidg. Luftfahrtgesetz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/486.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/486.1",
+     "sha256": "6c5cec0c62db36176ba2c7a70b6a3cf1d22ca73433e3833e421b7c4c5ecc39ed"
+    }
+   ]
+  },
+  {
+   "slug": "486-21",
+   "short": "Zusammenarbeits-Vereinbarung",
+   "title": "Vereinbarung betreffend Zusammenarbeit bei der Wahrung der schweizerischen Interessen auf dem binationalen Flughafen Basel-Mülhausen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/486.21",
+   "versions": [
+    {
+     "from": "1998-06-11",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/486.21",
+     "sha256": "230d85e830b0ceb35ea74f613f2c0ff1658685c9e1f39d2a645effe109b272c2"
+    }
+   ]
+  },
+  {
+   "slug": "486-31",
+   "short": "486.31",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Fluglärmkommission und die Ombudsstelle für Fluglärmklagen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/486.31",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/486.31",
+     "sha256": "419f92f41c9a98f7e810eb0a3c6312100ad7d4312a2587cc66af75e3f9d17c12"
+    }
+   ]
+  },
+  {
+   "slug": "487",
+   "short": "487",
+   "title": "Interkantonale Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau in Rheinschiffahrts- und Hafenangelegenheiten",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/487",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/487",
+     "sha256": "28d0cd5ad91052c27a55b10db623935347408fe841275f30f1bb7812feae508c"
+    }
+   ]
+  },
+  {
+   "slug": "157-31",
+   "short": "157.31",
+   "title": "Weisung zur Gleichstellung von Frau und Mann in der kantonalen Verwaltung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/157.31",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/157.31",
+     "sha256": "5e06d014dd1070862c3e47d6bd1ac64631affbb7bae7c7a3562355ab750766f8"
+    }
+   ]
+  },
+  {
+   "slug": "980-112",
+   "short": "Vereinbarung Seuchenwehr",
+   "title": "Vereinbarung betreffend den Einsatz der Seuchenwehr des Kantons Basel-Landschaft zur Ereignisbewältigung bei Tierseuchen auf dem Gebiet des Kantons Basel-Stadt",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/980.112",
+   "versions": [
+    {
+     "from": "2013-05-21",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/980.112",
+     "sha256": "d911c17f65877e4a4113acd0b82e3b119e15949357ce9c98b3576cc3a22efedb"
+    }
+   ]
+  },
+  {
+   "slug": "921-91",
+   "short": "921.91",
+   "title": "Vertrag zwischen der Rennbahnklinik in Muttenz und dem Ver­band Basellandschaftlicher Krankenkassen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/921.91",
+   "versions": [
+    {
+     "from": "1981-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/921.91",
+     "sha256": "445687b732cadc714e1b7c7de855401d34fba8cb08c7561b2766c546c9ea34e6"
+    }
+   ]
+  },
+  {
+   "slug": "923",
+   "short": "923",
+   "title": "Regierungsratsbeschluss betreffend die Tarife der ärzt­lichen Leistungen und der Arzneien für die Behandlung der bei der Schweizerischen Unfallversicherungs­anstalt Versicherten",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/923",
+   "versions": [
+    {
+     "from": "1916-09-14",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/923",
+     "sha256": "800cd2eeaea19a097cb1cc90645e8a77fa273a5caa9abe9d35e123fb89353b38"
+    }
+   ]
+  },
+  {
+   "slug": "923-11",
+   "short": "Ärztetarif",
+   "title": "Vereinbarung über den Taxpunktwert",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/923.11",
+   "versions": [
+    {
+     "from": "1982-10-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/923.11",
+     "sha256": "b1716e5e0e190fc2cf9fcc5cb95e83490fe5000beac68e3a3bd421ce5ae9a985"
+    }
+   ]
+  },
+  {
+   "slug": "926-21",
+   "short": "926.21",
+   "title": "Vereinbarung über den Taxpunktwert",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/926.21",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/926.21",
+     "sha256": "08db504b34dcca4890ab3dabeb7bf1f1c304b6b0b83386f8f95b2bd7ae20e944"
+    }
+   ]
+  },
+  {
+   "slug": "928-11",
+   "short": "928.11",
+   "title": "Vertrag zwischen der Schweizerischen Zahnärzte-Gesellschaft und der Union Schweizerischer Krankenkassenverbände",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/928.11",
+   "versions": [
+    {
+     "from": "1979-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/928.11",
+     "sha256": "16314d2dbb4d877eec98afd99f4ada2fe7a5a5976552c37c4e2987519920312c"
+    }
+   ]
+  },
+  {
+   "slug": "928-13",
+   "short": "928.13",
+   "title": "Vereinbarung zwischen der Schweizerischen Zahnärztegesellschaft (SSO) und dem Konkordat der Schweizerischen Krankenkassen (KSK) über den Taxpunktwert",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/928.13",
+   "versions": [
+    {
+     "from": "1991-05-15",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/928.13",
+     "sha256": "bd23989ed57ed29c1ee74b9ccd94a7ad4547bdf710244bb6c8669964f142dbf7"
+    }
+   ]
+  },
+  {
+   "slug": "145-11",
+   "short": "Do SID",
+   "title": "Dienstordnung der Sicherheitsdirektion",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/145.11",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/145.11",
+     "sha256": "766bf048ae0501bd68ee889c538dbf11484a88be2ec97e2caf58e73530294053"
+    }
+   ]
+  },
+  {
+   "slug": "145-37",
+   "short": "IKAPOL",
+   "title": "Vereinbarung über die interkantonalen Polizeieinsätze",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/145.37",
+   "versions": [
+    {
+     "from": "2006-11-09",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/145.37",
+     "sha256": "630d5194a753c7d90b865e528effbef54e775ef9be8bd53d01b47ee7514a4cad"
+    }
+   ]
+  },
+  {
+   "slug": "837-31",
+   "short": "837.31",
+   "title": "Vereinbarung der Kantone Basel-Landschaft und Solothurn über die Abtretung von Aufgaben aus dem AVIG-Vollzug vom Kanton Solothurn an den Kanton Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/837.31",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/837.31",
+     "sha256": "b6f5a67af1964e3c7fce16658974a54ba97529fe14b9fbd3f95b5c3bfd0967c4"
+    }
+   ]
+  },
+  {
+   "slug": "510-13",
+   "short": "510.13",
+   "title": "Vereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Basel-Stadt betreffend den Vollzug des eidgenössischen Landwirtschaftsrechtes",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/510.13",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/510.13",
+     "sha256": "d76dc54a0df9cea7658a33f8b7e94cac46fe267a42c2b9ec029f94173298331e"
+    }
+   ]
+  },
+  {
+   "slug": "700-12",
+   "short": "700.12",
+   "title": "Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/700.12",
+   "versions": [
+    {
+     "from": "1996-05-15",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/700.12",
+     "sha256": "86224c883eb2ddd6dd83d25d874d3e31d900eaee1b8b3a9ea89f000d639c796d"
+    }
+   ]
+  },
+  {
+   "slug": "700-13",
+   "short": "700.13",
+   "title": "Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/700.13",
+   "versions": [
+    {
+     "from": "2004-12-08",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/700.13",
+     "sha256": "0094630bb30ac3e9dca7c1f0977db6574afcfa92050b090bd7a71adc8625adf8"
+    }
+   ]
+  },
+  {
+   "slug": "700-14",
+   "short": "ViCLAS-Konkordat",
+   "title": "Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/700.14",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/700.14",
+     "sha256": "5d3fe7548a6fabaa781f44af40b91c96cc8a91b6bd5ba8622e8c2eea37fe7d26"
+    }
+   ]
+  },
+  {
+   "slug": "700-15",
+   "short": "HPI",
+   "title": "Vereinbarung zur Harmonisierung der Polizeiinformatik in der Schweiz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/700.15",
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/700.15",
+     "sha256": "41e06c12af8899cd07a3f0d409aef8c59bf9197dad3fca212342a7133a11db04"
+    }
+   ]
+  },
+  {
+   "slug": "700-16",
+   "short": "700.16",
+   "title": "Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/700.16",
+   "versions": [
+    {
+     "from": "2019-12-11",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/700.16",
+     "sha256": "a548bbabc8cce0b51bc79e73ae818a3870e021be21444c85fbf38d5182c6c71a"
+    }
+   ]
+  },
+  {
+   "slug": "700-17",
+   "short": "PTI-Vereinbarung, VPTI",
+   "title": "Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/700.17",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/700.17",
+     "sha256": "2aab90dfe17c9fa7687f5ca7d2f3f3d894019ece3d3d6e34181f324c6ba0f393"
+    }
+   ]
+  },
+  {
+   "slug": "700-18",
+   "short": "VHIS",
+   "title": "Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/700.18",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/700.18",
+     "sha256": "9bb0cd12aa6173591f43c4b3bc214a994d1be9500317c57cc82a4d7ec588d069"
+    }
+   ]
+  },
+  {
+   "slug": "702-14",
+   "short": "702.14",
+   "title": "Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/702.14",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/702.14",
+     "sha256": "59877e85a23b10bc54e3a94842051bba8232806acbac9fc1af0b792382d9ce55"
+    }
+   ]
+  },
+  {
+   "slug": "311-111",
+   "short": "311.111",
+   "title": "Pflichtenheft des Begleitausschusses Finanzkontrolle",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/311.111",
+   "versions": [
+    {
+     "from": "2019-09-25",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/311.111",
+     "sha256": "644c2b3c9deba5964ffc4b93d455588e6aa00194e125b087002e300c58fff119"
+    }
+   ]
+  },
+  {
+   "slug": "822-12",
+   "short": "822.12",
+   "title": "Weisungen betreffend die Beschäftigung von Jugendlichen unter 15 Jahren für Arbeiten im Walde",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/822.12",
+   "versions": [
+    {
+     "from": "1967-09-12",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/822.12",
+     "sha256": "30bb6f206ffbe71505dd7ba969e13d86842209d57b4602cad1c873aa042b230d"
+    }
+   ]
+  },
+  {
+   "slug": "824-1",
+   "short": "824.1",
+   "title": "Dekret zum Bundesgesetz über die Heimarbeit",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/824.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/824.1",
+     "sha256": "466b5f4d1f80830ab010be0cf367e69fdb8645cd26a367107c15f982211a075e"
+    }
+   ]
+  },
+  {
+   "slug": "142-11",
+   "short": "Do FKD",
+   "title": "Dienstordnung der Finanz- und Kirchendirektion",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/142.11",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/142.11",
+     "sha256": "a5d2e41d7ae90ba1c587044d969ccd2ef3e49405070b2fd2b14c545de3f4b128"
+    }
+   ]
+  },
+  {
+   "slug": "261-2",
+   "short": "261.2",
+   "title": "Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/261.2",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/261.2",
+     "sha256": "3744f232a4724d43e8d1edbbfe0ff3cf4ee14e2f3b78807f507d3cd1ec43615c"
+    }
+   ]
+  },
+  {
+   "slug": "265-111",
+   "short": "265.111",
+   "title": "Übereinkunft betreffend die Polizeitransporte",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/265.111",
+   "versions": [
+    {
+     "from": "1980-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/265.111",
+     "sha256": "faf309e3abb5366df5a8a6160eb8cc2a468c38b6c879ccdbb4f35fd212ebe6f1"
+    }
+   ]
+  },
+  {
+   "slug": "782-2",
+   "short": "GEP",
+   "title": "Dekret über den Generellen Entwässerungsplan",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/782.2",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/782.2",
+     "sha256": "e9cace6418dcaff76fa17ca8c52286055590eb8cc1a95a2a564ce9e59a645837"
+    }
+   ]
+  },
+  {
+   "slug": "783-21",
+   "short": "783.21",
+   "title": "Vertrag über die Ableitung der Abwässer des basellandschaftlichen Gebietes von Olsberg, Gemeinde Arisdorf, in die Abwasserreinigungsanlage Olsberg AG",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.21",
+   "versions": [
+    {
+     "from": "1971-12-17",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.21",
+     "sha256": "ab50b2521e8d9898dde73a08cf3c1cd9d1bef76ddb31b452a79a4e6d1fe9688f"
+    }
+   ]
+  },
+  {
+   "slug": "783-22",
+   "short": "783.22",
+   "title": "Vereinbarung über die Durchleitung von Abwässern aus den basellandschaftlichen Gemeinden Arisdorf, Giebenach und Augst durch die aargauische Gemeinde Kaiseraugst sowie die Ableitung der Abwässer der Gemeinde Kaiseraugst in die basellandschaftliche Abwasserreinigungsanlage (ARA) Rhein, Pratteln",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.22",
+   "versions": [
+    {
+     "from": "1988-09-21",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.22",
+     "sha256": "fdfe0945c925392202b5776f7407fe5486380d353f7cb430f8fa9e855fec9a7c"
+    }
+   ]
+  },
+  {
+   "slug": "783-31",
+   "short": "783.31",
+   "title": "Vertrag zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend die gemeinsame Durchführung von Gewässer­schutzmassnahmen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.31",
+   "versions": [
+    {
+     "from": "1975-09-02",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.31",
+     "sha256": "0b9dd526c693668cfbc9f7db25274c454ca17677f3854ec97d07418d3933716c"
+    }
+   ]
+  },
+  {
+   "slug": "783-32",
+   "short": "Konsortialvertrag",
+   "title": "Vertrag zwischen 1. Kanton Basel-Stadt, vertreten durch den Regierungsrat, der Regierungsrat gleichzeitig handelnd für die Einwohnergemeinde der Stadt Basel; 2. Kanton Basel-Landschaft, vertreten durch den Regierungsrat; 3. Ciba-Geigy AG, in Basel; 4. F. Hoffmann-La Roche & Co. AG, in Basel; 5. Sandoz AG, in Basel; betreffend gemeinsame Durchführung von Gewässerschutzmassnahmen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.32",
+   "versions": [
+    {
+     "from": "1980-09-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.32",
+     "sha256": "19d00cde7a46297248058f2c5c9e229a1054444f634e7fe5a9eb13f72adcde21"
+    }
+   ]
+  },
+  {
+   "slug": "783-33",
+   "short": "Konsortialbetriebsvertrag",
+   "title": "Vertrag betreffend den gemeinsamen Betrieb von Abwasserreinigungsanlagen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.33",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.33",
+     "sha256": "7c4c59322294981fffd2ecc95618314eff3c142d8389feed6d6ebadcf7be89a0"
+    }
+   ]
+  },
+  {
+   "slug": "783-51",
+   "short": "783.51",
+   "title": "Vereinbarung über die Ableitung von Abwässern aus den Gemeinden Hofstetten-Flüh, Metzerlen-Mariastein (nur Dorfteil Mariastein), Bättwil und Witterswil des Abwasserverbandes Leimental SO in die neue Abwasserreinigungsanlage Birsig in Therwil.",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.51",
+   "versions": [
+    {
+     "from": "1991-12-03",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.51",
+     "sha256": "d64d957e8145c1ab2e793cb1f605233843ff51e1674614b52c7e43225c27da24"
+    }
+   ]
+  },
+  {
+   "slug": "783-52",
+   "short": "783.52",
+   "title": "Vertrag zwischen dem Kanton Basel-Landschaft, vertreten durch den Regierungsrat, und der Einwohnergemeinde Holderbank (SO), vertreten durch den Gemeinderat, über die gemeinsame Durchführung der Abwassersanierung für Langenbruck (BL) und Holderbank (SO)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.52",
+   "versions": [
+    {
+     "from": "1977-10-17",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.52",
+     "sha256": "af6bac9430f211774431dd6253b655a95fd8d31d26d1bd5c5930d4cc26e37ec1"
+    }
+   ]
+  },
+  {
+   "slug": "783-53",
+   "short": "783.53",
+   "title": "Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Dornach und deren Reinigung in den basellandschaftlichen Abwasserreinigungsanlagen Birs 1 und Birs 2 (ARA Birs 1 und ARA Birs 2)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.53",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.53",
+     "sha256": "b5834d9e8b2a97b073787319cc9b10911cea80c8cecd37f31f3a0f0af65ca86e"
+    }
+   ]
+  },
+  {
+   "slug": "783-54",
+   "short": "783.54",
+   "title": "Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Gempen und deren Reinigung in den basellandschaftlichen Abwasserreinigungsanlagen Birs 1 und Birs 2 (ARA Birs 1 und ARA Birs 2)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.54",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.54",
+     "sha256": "07e98fb5c99bf4a85b7615b767460860663115ca31a1e285392c6988eaa58307"
+    }
+   ]
+  },
+  {
+   "slug": "783-55",
+   "short": "ARA Birs 1 und ARA Birs 2",
+   "title": "Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Hochwald und deren Reinigung in den basellandschaftlichen Abwasserreinigungsanlagen Birs 1 und Birs 2",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.55",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.55",
+     "sha256": "d6fc9170918261148dcb6d5f0076f38c68ba26f85cdfe49bb27ed055f59ac603"
+    }
+   ]
+  },
+  {
+   "slug": "783-56",
+   "short": "783.56",
+   "title": "Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Nuglar-St. Pantaleon (Ortsteile St. Pantaleon, Neu-Nuglar und Orismühle) und deren Reinigung in der basellandschaftlichen Abwasserreinigungsanlage Ergolz 2 (ARA Ergolz 2)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/783.56",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/783.56",
+     "sha256": "97e70ca5faea889867d27b894aabe66fe4be98ae352fda0c738e92a2dbd23753"
+    }
+   ]
+  },
+  {
+   "slug": "784-9",
+   "short": "784.9",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel und der Deponie Elbisgraben",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/784.9",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/784.9",
+     "sha256": "d8c68730b2f17b16d4bcfe290594404cc41c2181ba6c036bfa304c53c19640b7"
+    }
+   ]
+  },
+  {
+   "slug": "786-131",
+   "short": "786.131",
+   "title": "Vereinbarung über die Kontrolle der Industriefeuerungen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/786.131",
+   "versions": [
+    {
+     "from": "1988-02-24",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/786.131",
+     "sha256": "cd9bdfe3128dd00548364a34de2089a51b24dd092b3369420b78218d6f44a9c5"
+    }
+   ]
+  },
+  {
+   "slug": "901-12",
+   "short": "901.12",
+   "title": "Regierungsratsbeschluss betreffend Ruhegehalt der Hebammen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/901.12",
+   "versions": [
+    {
+     "from": "1959-04-07",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/901.12",
+     "sha256": "91966408d094f14df774095b54582af02e37cfc55be76327abb7d6b8290262ca"
+    }
+   ]
+  },
+  {
+   "slug": "902-121",
+   "short": "902.121",
+   "title": "Weisung zu den nicht subventionsberechtigten konservierenden Behandlungen (Negativliste) in der Kinder- und Jugendzahnpflege",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/902.121",
+   "versions": [
+    {
+     "from": "1997-08-11",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/902.121",
+     "sha256": "ff0adaff3c806bb05e917029cfc4bb8f182f43367d04dce295dbc0e0fca69891"
+    }
+   ]
+  },
+  {
+   "slug": "904-12",
+   "short": "904.12",
+   "title": "Vertrag über die Kremation von Leichen aus dem Kanton Basel-Landschaft und die Abdankung im Krematorium der Stadt Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/904.12",
+   "versions": [
+    {
+     "from": "1975-01-28",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/904.12",
+     "sha256": "f09d8560a5d601aff28498ffabdbcd7d6096c93ab3925d7dcf830659c31e78d8"
+    }
+   ]
+  },
+  {
+   "slug": "906-111",
+   "short": "Krebsregistervereinbarung",
+   "title": "Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über das Krebsregister beider Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/906.111",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/906.111",
+     "sha256": "c455bd399f64f7abc2e665dbec435574eb10c0f5c2d54095b7ac0838e04c6acc"
+    }
+   ]
+  },
+  {
+   "slug": "143-12",
+   "short": "143.12",
+   "title": "Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/143.12",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/143.12",
+     "sha256": "620e814d9533075af40012d9b530c47f4d1e51e97b6118b8eec44ffb423d4f25"
+    }
+   ]
+  },
+  {
+   "slug": "523-12",
+   "short": "523.12",
+   "title": "Regierungsratsbeschluss betreffend die Reservationsgebiete in der Gemeinde Augst, Zone Kraftwerk-Stausee und Ergolz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/523.12",
+   "versions": [
+    {
+     "from": "1960-01-12",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/523.12",
+     "sha256": "725f1787f8ca0c5fbc05d736eb1e8ed94eac43768e4ba863bffac8154317601d"
+    }
+   ]
+  },
+  {
+   "slug": "523-13",
+   "short": "523.13",
+   "title": "Regierungsratsbeschluss betreffend Natur-, Jagd- und Vogelschutzreservat im Rutschgebiet unter der Fluh (Parzelle 988 im Büchlihau), Gemeinde Füllinsdorf",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/523.13",
+   "versions": [
+    {
+     "from": "1960-02-16",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/523.13",
+     "sha256": "4446a2744adcb310ab8e5a03e64e4df14010993f16e3d6a14a6a0e6fde3493f5"
+    }
+   ]
+  },
+  {
+   "slug": "523-14",
+   "short": "523.14",
+   "title": "Regierungsratsbeschluss betreffend Schaffung eines Vogelschutzreservates in der Gemeinde Muttenz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/523.14",
+   "versions": [
+    {
+     "from": "1960-03-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/523.14",
+     "sha256": "40f262640cc3759ae8f9b560fd995441e45368bd573903f87e047ad21d34790e"
+    }
+   ]
+  },
+  {
+   "slug": "523-15",
+   "short": "523.15",
+   "title": "Regierungsratsbeschluss betreffend Schaffung eines Naturschutzreservates an der Birs in der Gemeinde Münchenstein",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/523.15",
+   "versions": [
+    {
+     "from": "1960-03-22",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/523.15",
+     "sha256": "87b590ca2bfae89e934738bb1ad86bf915ef92a5566ee15f9f564e999b40d1c5"
+    }
+   ]
+  },
+  {
+   "slug": "761-1",
+   "short": "761.1",
+   "title": "Dekret über die Sorgfaltspflicht bei Feuerungsanlagen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/761.1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/761.1",
+     "sha256": "4155653ade309e6b6434825ac56e72fc38ac9b6d5873bfd90a8560b868666315"
+    }
+   ]
+  },
+  {
+   "slug": "930-001",
+   "short": "930.001",
+   "title": "Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft betreffend Planung, Regulation und Aufsicht in der Gesundheitsversorgung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/930.001",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/930.001",
+     "sha256": "1d9d1544097832f6ab33260f075e6104ae676804be2bf38f4ea1e5b3ffaaf1ed"
+    }
+   ]
+  },
+  {
+   "slug": "930-1",
+   "short": "930.1",
+   "title": "Dekret über die Betriebsstandorte des Kantonsspitals Baselland (KSBL)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/930.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/930.1",
+     "sha256": "fd318ad9cdbf38c86a80eedaf9384a41d67002efe070687c1d77ddcfa3897609"
+    }
+   ]
+  },
+  {
+   "slug": "930-131",
+   "short": "930.131",
+   "title": "Vertrag für halbprivatversicherte Patientinnen und Patienten",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/930.131",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/930.131",
+     "sha256": "28d713fb60b4efc1b232b6bdd1006a4e6a64b4a29e060ac339804dca6c1847a2"
+    }
+   ]
+  },
+  {
+   "slug": "930-132",
+   "short": "Spitaltaxvertrag ambulant",
+   "title": "Vertrag für die ambulante Behandlung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/930.132",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/930.132",
+     "sha256": "23fd6a6ae5bc3f1239dd62b5c5983b06a97f1d996f6fbc8222920db451ccf95a"
+    }
+   ]
+  },
+  {
+   "slug": "930-133",
+   "short": "Spitaltaxvertrag stationär",
+   "title": "Vertrag für die stationäre Behandlung von grundversicherten Patienten",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/930.133",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/930.133",
+     "sha256": "0e0493cfc651c77473a9d921bfceaef7bb02bda1a3f635688d34b80e9ff05c35"
+    }
+   ]
+  },
+  {
+   "slug": "930-134",
+   "short": "930.134",
+   "title": "Vertrag für die Physio- und Ergotherapie, Logopädie und Ernährungsberatung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/930.134",
+   "versions": [
+    {
+     "from": "2002-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/930.134",
+     "sha256": "4bec40b37835450d24ad13afc9429b388d416646154f3925fc56af5cf919cb31"
+    }
+   ]
+  },
+  {
+   "slug": "932-4",
+   "short": "Kinderspitalvertrag",
+   "title": "Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über das Universitäts-Kinderspital beider Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/932.4",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/932.4",
+     "sha256": "2ecbabba689e004ad79e1b1626a752f7666649337faa81a4025a238970ec1932"
+    }
+   ]
+  },
+  {
+   "slug": "932-41",
+   "short": "Spitalstatut UKBB",
+   "title": "Statuten des Universitäts-Kinderspitals beider Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/932.41",
+   "versions": [
+    {
+     "from": "2004-02-06",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/932.41",
+     "sha256": "caba2307b520c33244574f0645fd3b73eefe22ae7b6af7ec3ac932f2ff63a01c"
+    }
+   ]
+  },
+  {
+   "slug": "934-13",
+   "short": "934.13",
+   "title": "Vereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Basel-Stadt über die gegenseitige Benützung von Einrichtungen des koordinierten Sanitätsdienstes",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/934.13",
+   "versions": [
+    {
+     "from": "1978-02-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/934.13",
+     "sha256": "e63752574824b084bb9dd57c4f9d50031f9937c67ba39ca9e92c813f178a764c"
+    }
+   ]
+  },
+  {
+   "slug": "934-400",
+   "short": "Vereinbarung Chrischonaklinik",
+   "title": "Vereinbarung über die Aufnahme von Patientinnen und Patienten aus dem Kanton Basel-Landschaft in die Chrischonaklinik",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/934.400",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/934.400",
+     "sha256": "a7d88886c3d90e6956377eaa2fc63c16ebe05c9d992d013711a8f33d51ba83e8"
+    }
+   ]
+  },
+  {
+   "slug": "792-1",
+   "short": "Römervertrag",
+   "title": "Vertrag über die Römerstadt Augusta Raurica",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/792.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/792.1",
+     "sha256": "9312be225cb21bd0fb4b4804f04758c1594e076f7e7aa0f71c504f9a841cdf29"
+    }
+   ]
+  },
+  {
+   "slug": "681-22",
+   "short": "Berufsfachschulvereinbarung, BFSV",
+   "title": "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/681.22",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/681.22",
+     "sha256": "d5d8e5a3ea541588001cc569de2f5f5eee3033bd9f937c2e2843c60c0cc0e4d5"
+    }
+   ]
+  },
+  {
+   "slug": "131-1",
+   "short": "Geschäftsordnung des Landrats",
+   "title": "Dekret zum Gesetz über die Organisation und die Geschäftsführung des Landrats",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/131.1",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/131.1",
+     "sha256": "22e5b121d3f09e30572a0e2522ff0006090609bcc3d18e2132245c3a83ccbefd"
+    }
+   ]
+  },
+  {
+   "slug": "131-2",
+   "short": "131.2",
+   "title": "Landratsbeschluss betreffend die Ausübung des Begnadigungsrechtes",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/131.2",
+   "versions": [
+    {
+     "from": "1971-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/131.2",
+     "sha256": "a48c81baa199ae29c4d1a45f235569de61ba2da214e6e6ad79ce9bf1e032656c"
+    }
+   ]
+  },
+  {
+   "slug": "131-9",
+   "short": "131.9",
+   "title": "Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/131.9",
+   "versions": [
+    {
+     "from": "2023-02-25",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/131.9",
+     "sha256": "6cfb42ffa69c67a116735aee8c6f357a07da2df348da8c8b82d07efde4cf12b7"
+    }
+   ]
+  },
+  {
+   "slug": "643-12",
+   "short": "643.12",
+   "title": "Vertrag über das Regionale Gymnasium Laufental-Thierstein",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/643.12",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/643.12",
+     "sha256": "33970b8212f2bc865625cab48c18901d196526fe1e1425cd1d20ad4e186c7986"
+    }
+   ]
+  },
+  {
+   "slug": "855-2",
+   "short": "IVSE",
+   "title": "Interkantonale Vereinbarung für soziale Einrichtungen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/855.2",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/855.2",
+     "sha256": "baea1adaa4fc265de5fcc883423cec686af89a1062e32f3170503f7191131dac"
+    }
+   ]
+  },
+  {
+   "slug": "420",
+   "short": "EG IVöB",
+   "title": "Einführungsgesetz zur interkantonalen Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/420",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/420",
+     "sha256": "69f8553dddfa36739863496c8ab42032583efeaea5668a8fba7a172b3aec48c0"
+    }
+   ]
+  },
+  {
+   "slug": "420-001",
+   "short": "420.001",
+   "title": "Pflichtenheft des Beirats für das öffentliche Beschaffungswesen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/420.001",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/420.001",
+     "sha256": "3f23f5d99799d8ed71bc641bd31ad59cf33efff66271a9af4dcd1aa6f4cd318c"
+    }
+   ]
+  },
+  {
+   "slug": "420-12",
+   "short": "IVöB",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/420.12",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/420.12",
+     "sha256": "98a2ea884893b1bd854a7174b98c701b070ffef197bde72f8537d96dae2096b9"
+    }
+   ]
+  },
+  {
+   "slug": "420-121",
+   "short": "IVöB",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/420.121",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/420.121",
+     "sha256": "3bb1c424be6b2b8c20e1e081205bdf1ef0af7c0eb42a944579b1e6b8edd8d6a2"
+    }
+   ]
+  },
+  {
+   "slug": "421-1",
+   "short": "Rheinhafen-Vertrag",
+   "title": "Staatsvertrag über die Zusammenlegung der Rheinschifffahrtsdirektion Basel und der Rheinhäfen des Kantons Basel-Landschaft zu einer Anstalt öffentlichen Rechts mit eigener Rechtspersönlichkeit unter dem Namen «Schweizerische Rheinhäfen» («Ports Rhénans Suisses», «Swiss Rhine Ports»)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/421.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/421.1",
+     "sha256": "9543b48d0871cdaa43bb26ab0b733e6ab41a5b3545ac72fb8944915440c09be1"
+    }
+   ]
+  },
+  {
+   "slug": "421-13",
+   "short": "421.13",
+   "title": "Hafenordnung für die Rheinhäfen beider Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/421.13",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/421.13",
+     "sha256": "933f76b8c0debe2db19635270a643d729b9524ce0bca14948f5676f1eaf468a3"
+    }
+   ]
+  },
+  {
+   "slug": "421-17",
+   "short": "421.17",
+   "title": "Gebührentarif der Schweizerischen Rheinhäfen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/421.17",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/421.17",
+     "sha256": "368ceacc4679e62548ac6bd52c07fd77c6ba1a132fe4e971bef049ae01ef91e1"
+    }
+   ]
+  },
+  {
+   "slug": "402",
+   "short": "402",
+   "title": "Regierungsratsbeschluss betreffend Bauten und Anlagen mit besonders starker Verkehrserzeugung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/402",
+   "versions": [
+    {
+     "from": "1974-03-12",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/402",
+     "sha256": "27017742925a3401be6de4b3b4c965b5e04f9dace1b15c72e0b0db97cbbefdd3"
+    }
+   ]
+  },
+  {
+   "slug": "437",
+   "short": "437",
+   "title": "Regierungsratsbeschluss betreffend Gebührenerhebung für Sondertransporte",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/437",
+   "versions": [
+    {
+     "from": "1976-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/437",
+     "sha256": "85d305cafc65f55e4a44d6e4cc460add2a939b9ee9824decbef3545d8930a0cb"
+    }
+   ]
+  },
+  {
+   "slug": "941-11",
+   "short": "APV",
+   "title": "Altersbetreuungs- und Pflegeverordnung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/941.11",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/941.11",
+     "sha256": "7d14b298917a39387cc4e2accf0b38d0082944ff948e6d64a99f90d19f41dc7e"
+    }
+   ]
+  },
+  {
+   "slug": "941-14",
+   "short": "Pflegeheimtarifvertrag des Kantons Basel-Landschaft",
+   "title": "Vertrag betreffend Leistungen und Tarife bei Aufenthalt im Pflegeheim im Rahmen der obligatorischen Krankenpflegeversicherung KVG",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/941.14",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/941.14",
+     "sha256": "98db6867378241233ebd62931da3cf1b6553654153be3db17c068e483755cb6f"
+    }
+   ]
+  },
+  {
+   "slug": "662-2",
+   "short": "662.2",
+   "title": "Interkantonale Fachhochschulvereinbarung (FHV) ab 2005",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/662.2",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/662.2",
+     "sha256": "a04d73323ea08071e115d997413a35da089831af5aceb4d7e3386224160bf7ac"
+    }
+   ]
+  },
+  {
+   "slug": "662-5",
+   "short": "Fachhochschuldekret",
+   "title": "Dekret über die Arbeitsverhältnisse der Fachhochschulen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/662.5",
+   "versions": [
+    {
+     "from": "2004-02-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/662.5",
+     "sha256": "d051d00522753dc64bb6356543a50c252bda73e12a468d9c1ed965508c8f3484"
+    }
+   ]
+  },
+  {
+   "slug": "834-1",
+   "short": "Pensionskassendekret",
+   "title": "Dekret über die berufliche Vorsorge durch die Basellandschaftliche Pensionskasse",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/834.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/834.1",
+     "sha256": "fdaf1613c961b0f1b8ca93aefbd884ac6053874918ec6cc93a75f028c3252013"
+    }
+   ]
+  },
+  {
+   "slug": "834-3",
+   "short": "834.3",
+   "title": "Dekret über die berufliche Vorsorge für Mitglieder des Regierungsrates und über die Lohnleistungen beim Ausscheiden aus dem Amt",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/834.3",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/834.3",
+     "sha256": "a5f5494bee751514eb2a0d5dd199b0582467d5c04425ce426917671e65468753"
+    }
+   ]
+  },
+  {
+   "slug": "834-400",
+   "short": "834.400",
+   "title": "Ordnung über die berufliche Vorsorge",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/834.400",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/834.400",
+     "sha256": "a902aa8d86111ada4cd4b3411a2ecba6b21b5faaa3f43ac956762e3302bd47c5"
+    }
+   ]
+  },
+  {
+   "slug": "148-11",
+   "short": "Karlsruher Übereinkommen",
+   "title": "Übereinkommen zwischen dem Schweizerischen Bundesrat, der Regierung der Bundesrepublik Deutschland, der Regierung der französischen Republik und der Regierung des Grossherzogtums Luxemburg über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/148.11",
+   "versions": [
+    {
+     "from": "2004-07-02",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/148.11",
+     "sha256": "8c35d2fb7e43037d4b508f21d487806417411606be06b88341197149769e80dd"
+    }
+   ]
+  },
+  {
+   "slug": "148-12",
+   "short": "148.12",
+   "title": "Vereinbarung zur Gründung des Oberrheinrates",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/148.12",
+   "versions": [
+    {
+     "from": "1997-12-16",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/148.12",
+     "sha256": "1429250bfcad1128ddc09cb4bf8d583c0074623e0a2640a57cbda5252157d068"
+    }
+   ]
+  },
+  {
+   "slug": "221",
+   "short": "EG ZPO",
+   "title": "Einführungsgesetz zur Schweizerischen Zivilprozessordnung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/221",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/221",
+     "sha256": "42aa721a91e81ee9959ffe5cd7015c34819bed71510ba8a9e409c037a74df16a"
+    }
+   ]
+  },
+  {
+   "slug": "221-2",
+   "short": "221.2",
+   "title": "Dekret zum Bundesgesetz betreffend die Arbeit in den Fabriken vom 18. Juni 1914",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/221.2",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/221.2",
+     "sha256": "4516887aa17ca0e64cf33a37d4632c30ab58ccc679f2d4d57837031cd2ba63ba"
+    }
+   ]
+  },
+  {
+   "slug": "649-1",
+   "short": "Schulkonkordat",
+   "title": "Konkordat über die Schulkoordination",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.1",
+   "versions": [
+    {
+     "from": "1970-12-14",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.1",
+     "sha256": "014cbc8c9b05d201da8200595ac63da9088f2ee64d319cd03567915c5a26fa8b"
+    }
+   ]
+  },
+  {
+   "slug": "649-11",
+   "short": "HarmoS-Konkordat",
+   "title": "Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.11",
+   "versions": [
+    {
+     "from": "2010-09-26",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.11",
+     "sha256": "e344ab38bfce2abf859f503ad6da5316f99d387d7c81c141370f49a5031b9c91"
+    }
+   ]
+  },
+  {
+   "slug": "649-12",
+   "short": "Sonderpädagogik-Konkordat",
+   "title": "Interkantonale Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.12",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.12",
+     "sha256": "37f6c34c996ffebb8cbf118226e63bc6cea75719ff3d7927c5832b0d6d36f53a"
+    }
+   ]
+  },
+  {
+   "slug": "649-2",
+   "short": "RSA 2009",
+   "title": "Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.2",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.2",
+     "sha256": "49c74a9568363ce8d135be269732796f7c7b44a31105717fd1972d721367ee00"
+    }
+   ]
+  },
+  {
+   "slug": "649-22",
+   "short": "649.22",
+   "title": "Vertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.22",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.22",
+     "sha256": "a3833289de99a4006958ff0e24e20054bb1fdc031e5c5fdffb0f4b8d7af86b76"
+    }
+   ]
+  },
+  {
+   "slug": "649-222",
+   "short": "649.222",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Trennung der bikantonalen Verantwortung für die Rentnerinnen und Rentner der ehemaligen Fachhochschule beider Basel (FHBB) und der ehemaligen Hochschule für Pädagogik und Soziale Arbeit beider Basel (HPSA-BB) im Rahmen der Anschlussverhältnisse zur Basellandschaftlichen Pensionskasse (BLPK) und der Anschlussverträge zur Pensionskasse Basel-Stadt (PKBS)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.222",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.222",
+     "sha256": "a3e94c704961094ecf42c38b63e3bbce7da1f53447afc1971b63f025e6ded13f"
+    }
+   ]
+  },
+  {
+   "slug": "649-6",
+   "short": "Fachschulvereinbarung",
+   "title": "Interregionale Vereinbarung über Beiträge an ausseruniversitäre Bildungsanstalten im tertiären Bereich",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.6",
+   "versions": [
+    {
+     "from": "1994-08-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.6",
+     "sha256": "1d4b893937fa0821f271642a210c67373bb7e42ff11acae67f719de696a1be35"
+    }
+   ]
+  },
+  {
+   "slug": "649-611",
+   "short": "FSV",
+   "title": "Interkantonale Fachschulvereinbarung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.611",
+   "versions": [
+    {
+     "from": "2000-08-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.611",
+     "sha256": "836e00bb0bc8bbbc1248ca444c62b39e02160b3b7efdb6ef5d9f300b1f5a9fe7"
+    }
+   ]
+  },
+  {
+   "slug": "649-612",
+   "short": "HFSV",
+   "title": "Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.612",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.612",
+     "sha256": "19556369e7a6cd9ba52fcb2c18b1417729b2273b22fb0c4c7274ba91d41ca023"
+    }
+   ]
+  },
+  {
+   "slug": "649-7",
+   "short": "Diplomanerkennungsvereinbarung",
+   "title": "Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.7",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.7",
+     "sha256": "b7ec8b2f054f53b37d599ffb470da42bcdd89da5a53c437c27d4c65690b89b8c"
+    }
+   ]
+  },
+  {
+   "slug": "649-71",
+   "short": "649.71",
+   "title": "Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.71",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.71",
+     "sha256": "acb0b33bb38529a8a5a1b891f613ccda21042189eaa6fd562e4086355bc0a236"
+    }
+   ]
+  },
+  {
+   "slug": "649-711",
+   "short": "649.711",
+   "title": "Anerkennungsreglemente der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.711",
+   "versions": [
+    {
+     "from": "2012-09-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.711",
+     "sha256": "d146e0ec670b8280ca2422d385c5ad99dc3b963a7e817c44f2d5383cf2984522"
+    }
+   ]
+  },
+  {
+   "slug": "649-911",
+   "short": "649.911",
+   "title": "Vereinbarung zwischen der Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft und dem Erziehungsdepartement des Kantons Jura über den Besuch des fremdsprachigen zehnten Schuljahres durch Schülerinnen und Schüler aus den Vereinbarungskantonen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.911",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.911",
+     "sha256": "53ac10417a9da5e9267b68eea96dd48a229d147827adca5d5eaa192d79e987f0"
+    }
+   ]
+  },
+  {
+   "slug": "649-912",
+   "short": "649.912",
+   "title": "Vereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Jura über den gemeinsamen gymnasialen bilingualen Bildungsgang am Regionalen Gymnasium Laufental-Thierstein in Laufen und am Lycée cantonal in Porrentruy",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/649.912",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/649.912",
+     "sha256": "e4602855abcd38ca7367ee04cdf0e79616d4758d8d0fc7ee6c1419d15569758a"
+    }
+   ]
+  },
+  {
+   "slug": "601-115",
+   "short": "601.115",
+   "title": "Tarifordnung Archäologie und Museum Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/601.115",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/601.115",
+     "sha256": "265d799cc5256b0851999dee5383014725628614cf38643cb7cd6e69e51a97c8"
+    }
+   ]
+  },
+  {
+   "slug": "601-116",
+   "short": "601.116",
+   "title": "Tarifordnung Römerstadt Augusta Raurica",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/601.116",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/601.116",
+     "sha256": "c0adb21d01c5ad7fa4d4dfcb7a67d9e860ca89e2604b77d1bfc07eb422544608"
+    }
+   ]
+  },
+  {
+   "slug": "604-111",
+   "short": "604.111",
+   "title": "Tarifordnung für die Kantonsbibliothek Baselland",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/604.111",
+   "versions": [
+    {
+     "from": "2024-10-08",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/604.111",
+     "sha256": "68e046327edbaae9f06c53a29bb5cb28f519f8940ea040d98a510969e70c3ef2"
+    }
+   ]
+  },
+  {
+   "slug": "515-12",
+   "short": "515.12",
+   "title": "Weisungen des Regierungsrates betreffend Schätzungen und Bewertungen sowie Restkostenverteilung bei Felderregulierungen (Gesamtmeliorationen)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/515.12",
+   "versions": [
+    {
+     "from": "2013-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/515.12",
+     "sha256": "b002be42fa50eb7b2447c921bb668279faf72a810153efe1abe651299ef42961"
+    }
+   ]
+  },
+  {
+   "slug": "684-12",
+   "short": "684.12",
+   "title": "Vertrag zwischen aprentas und dem Kanton Basel-Landschaft über die Führung einer Berufsfachschule",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/684.12",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/684.12",
+     "sha256": "3abeaae35f9c79991879920f3f32b32144b3fe95287684dbdbd6c17b4cfb96b4"
+    }
+   ]
+  },
+  {
+   "slug": "665-1",
+   "short": "665.1",
+   "title": "Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft des Schweizerischen Tropen- und Public Health-Instituts",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/665.1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/665.1",
+     "sha256": "f8fbc821c74189ff69879a91c609079e7f79e2a74dfb8532261cad37777f6562"
+    }
+   ]
+  },
+  {
+   "slug": "645-1",
+   "short": "645.1",
+   "title": "Dekret über die Unterstellung der nicht mehr schulpflichtigen Schüler und Lehrlinge unter den gesundheitlichen Dienst",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/645.1",
+   "versions": [
+    {
+     "from": "1997-08-11",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/645.1",
+     "sha256": "1e567d63cf06a48f20222b54d4db0821d84b8656c0e5e353447afc0ecc11d144"
+    }
+   ]
+  },
+  {
+   "slug": "640-111",
+   "short": "640.111",
+   "title": "Lehrpläne der Schulen des Kantons Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/640.111",
+   "versions": [
+    {
+     "from": "2002-09-18",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/640.111",
+     "sha256": "2c792593a74784984e28e37086b78a391287dc414a2938ee4d55913f58cc5586"
+    }
+   ]
+  },
+  {
+   "slug": "191-1",
+   "short": "191.1",
+   "title": "Kirchendekret",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/191.1",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/191.1",
+     "sha256": "89a28728df23b1a63f32690417a800f7afb15797b4f876f7e388f30873e89e63"
+    }
+   ]
+  },
+  {
+   "slug": "191-11",
+   "short": "191.11",
+   "title": "Regierungsratsbeschluss betreffend die Zugehörigkeit der Kantonseinwohner zu den drei Landeskirchen des Kantons Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/191.11",
+   "versions": [
+    {
+     "from": "1950-12-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/191.11",
+     "sha256": "e657987d397f182765e3da0cffd4d930273fa3f2787dade93a1c7680bdeea711"
+    }
+   ]
+  },
+  {
+   "slug": "191-12",
+   "short": "191.12",
+   "title": "Regierungsratsbeschluss betreffend die Wahl der Pfarrer in den drei Landeskirchen des Kantons Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/191.12",
+   "versions": [
+    {
+     "from": "1957-07-23",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/191.12",
+     "sha256": "a3b9465826b496b08b694ec29bba443c97bb17a59a4504ad8051956e4e883819"
+    }
+   ]
+  },
+  {
+   "slug": "191-2",
+   "short": "191.2",
+   "title": "Dekret über die Stiftung Kirchengut",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/191.2",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/191.2",
+     "sha256": "20c5139a9c8fb01ffdfa1d5f8ef20306e18337d9b7199f435427a914ca71a887"
+    }
+   ]
+  },
+  {
+   "slug": "192-111",
+   "short": "192.111",
+   "title": "Vereinbarung zwischen der Evangelisch-reformierten, der Römisch-katholischen und der Christkatholischen Landeskirche des Kantons Basel-Landschaft betreffend die Erhebung der Kirchensteuern bei konfessionell gemischten Familien und eingetragenen Partnerschaften",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/192.111",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/192.111",
+     "sha256": "eea7bc813c493aca05b01ff7a82472f1dc097450bde1b23f0e0cbf578bc09bd6"
+    }
+   ]
+  },
+  {
+   "slug": "194",
+   "short": "Kirchenverfassung, KiV",
+   "title": "Verfassung der Evangelisch-reformierten Kirche des Kantons Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/194",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/194",
+     "sha256": "b292a39aa5d3d214397a5ef010c09ea1f54bf7de3da3da7430ac27eb0878f26c"
+    }
+   ]
+  },
+  {
+   "slug": "194-1",
+   "short": "194.1",
+   "title": "Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/194.1",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/194.1",
+     "sha256": "5f64a1be45273a0621c52bf2fc001959c56680baa0ff9fb61ef128b232a0f924"
+    }
+   ]
+  },
+  {
+   "slug": "195-1",
+   "short": "195.1",
+   "title": "Vereinigungs-Urkunde",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/195.1",
+   "versions": [
+    {
+     "from": "1815-11-07",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/195.1",
+     "sha256": "991bc53037c4993d837f924f2879b208f96604786636dd5222631fe4567040dc"
+    }
+   ]
+  },
+  {
+   "slug": "195-2",
+   "short": "195.2",
+   "title": "Übereinkunft wegen der Wiederherstel­lung und neuen Umschrei­bung des Bist­hums Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/195.2",
+   "versions": [
+    {
+     "from": "1828-03-26",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/195.2",
+     "sha256": "a1155292672128bdc4850d32bd2f17070df8ab4cb0219a6b5cea4f78376ed027"
+    }
+   ]
+  },
+  {
+   "slug": "195-3",
+   "short": "195.3",
+   "title": "Übereinkunft zwischen den hohen Ständen Lucern, Bern, Solothurn und Zug für die Organisation des Bisthums Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/195.3",
+   "versions": [
+    {
+     "from": "1828-03-26",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/195.3",
+     "sha256": "be2c9c2d83a6da298a49e6f68ba1c4f8eb6d6d444ac9b26caff9293f5733fa77"
+    }
+   ]
+  },
+  {
+   "slug": "195-4",
+   "short": "195.4",
+   "title": "Bulle des Papstes Leo XII. \"Inter praecipua\" vom 7. Mai 1828 betreffend Wiederherstellung und Reorganisation des Bistums Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/195.4",
+   "versions": [
+    {
+     "from": "1828-05-07",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/195.4",
+     "sha256": "b2f2a22f2a3c5ba711da1b6433d7fe1b8d4f10d98a0da849674dc017fd558fb5"
+    }
+   ]
+  },
+  {
+   "slug": "195-5",
+   "short": "195.5",
+   "title": "Beitritts-Erklärung zu dem neu organisirten Bisthum Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/195.5",
+   "versions": [
+    {
+     "from": "1829-10-06",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/195.5",
+     "sha256": "09afef6a860e525b65d513135e655296db1588514f874e5830552dad391d6c4d"
+    }
+   ]
+  },
+  {
+   "slug": "195-6",
+   "short": "195.6",
+   "title": "Konkordat betreffend die Verhältnisse und Rechte des Staates in Kirchensachen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/195.6",
+   "versions": [
+    {
+     "from": "1834-05-30",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/195.6",
+     "sha256": "637b2b7a79955803b7794102e2e4ca8321008ea6dd7fbb6c9195974e65a90d34"
+    }
+   ]
+  },
+  {
+   "slug": "196",
+   "short": "196",
+   "title": "Verfassung der Römisch-katholischen Landeskirche des Kantons Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/196",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/196",
+     "sha256": "8c8a9c07100a14ea5dc4c3aa5bbc2f9158177376fcb4441b79bdd3c05b7d3de3"
+    }
+   ]
+  },
+  {
+   "slug": "197",
+   "short": "197",
+   "title": "Verfassung der Christkatholischen Landeskirche des Kantons Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/197",
+   "versions": [
+    {
+     "from": "1984-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/197",
+     "sha256": "c35817f64a687e173e4d797ddf40b39eed2cc8fcfa174de97fbcc3a2b3d1938e"
+    }
+   ]
+  },
+  {
+   "slug": "350-1",
+   "short": "GVD BL",
+   "title": "Dekret zum Gebäudeversicherungsgesetz Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/350.1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/350.1",
+     "sha256": "8577a7d5e0c716bc8c140b6a65199d6836d91f6661a5c9851724f6276cf7cc13"
+    }
+   ]
+  },
+  {
+   "slug": "149-01",
+   "short": "149.01",
+   "title": "Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Zusammenarbeit der Behörden",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.01",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.01",
+     "sha256": "27df9042b30e40a41ab0729853bc9564bd4d0b3877f7d0f28325c7139e64d1d7"
+    }
+   ]
+  },
+  {
+   "slug": "149-10",
+   "short": "Vereinbarung Ethikkommission Nordwest- und Zentralschweiz - EKNZ",
+   "title": "Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.10",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.10",
+     "sha256": "f0f8d9a6f329c86335405e8f4771c1ffee0565cc9f708991c31d59d1e25ebc6d"
+    }
+   ]
+  },
+  {
+   "slug": "149-11",
+   "short": "IVHSM",
+   "title": "Interkantonale Vereinbarung über die hochspezialisierte Medizin",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.11",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.11",
+     "sha256": "aa04a90be69579d349d16e1f4f685d6008ed1de8c9bf1f1db85b3ed838c23fe7"
+    }
+   ]
+  },
+  {
+   "slug": "149-21",
+   "short": "149.21",
+   "title": "Vereinbarung über die Konferenz der Kantonsregierungen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.21",
+   "versions": [
+    {
+     "from": "1993-10-08",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.21",
+     "sha256": "9a97b1b591c4bfaf3015cfb0e75c1a783b27e638aa813ac37247e79f29d1e563"
+    }
+   ]
+  },
+  {
+   "slug": "149-41",
+   "short": "149.41",
+   "title": "Vereinbarung über die Nordwestschweizer Regierungskonferenz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.41",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.41",
+     "sha256": "5e40648ae99834fbffe397f101fc185143b56d0faf09e026e859155e31912323"
+    }
+   ]
+  },
+  {
+   "slug": "149-5",
+   "short": "149.5",
+   "title": "Vereinbarung über die Organisation und die Führung der Regionalplanung beider Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.5",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.5",
+     "sha256": "b8b8718ea594905c700d0e611e9c05c225d705e2490992d07557cfe263576625"
+    }
+   ]
+  },
+  {
+   "slug": "149-61",
+   "short": "149.61",
+   "title": "Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft in der projektorientierten Kunst- und Kulturförderung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.61",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.61",
+     "sha256": "ee9c576722c47ff0f2e5033b78ae0936478609241040970695594f46185f97d7"
+    }
+   ]
+  },
+  {
+   "slug": "149-72",
+   "short": "IVHB",
+   "title": "Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.72",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.72",
+     "sha256": "3b98886cb3a093ba5fcbde55b9d3413d71b2b0e1688105262cd5724d9a4a8e06"
+    }
+   ]
+  },
+  {
+   "slug": "149-91",
+   "short": "Rahmenvereinbarung, IRV",
+   "title": "Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.91",
+   "versions": [
+    {
+     "from": "2007-05-11",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.91",
+     "sha256": "b07653d0e01e4b1bb7f1b2a51671ada3d56aca8c340a881a9b8aff26201cfebf"
+    }
+   ]
+  },
+  {
+   "slug": "149-95",
+   "short": "149.95",
+   "title": "Vereinbarung der Kantone Basel-Landschaft und Bern über den Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/149.95",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/149.95",
+     "sha256": "f113b0e1d2c89f91f00ae18152175da97da58111c5b1fb5b318145d13bcd9db7"
+    }
+   ]
+  },
+  {
+   "slug": "660-1",
+   "short": "Hochschulkonkordat",
+   "title": "Interkantonale Vereinbarung über den schweizerischen Hochschulbereich",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/660.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/660.1",
+     "sha256": "cd1537174432397f975669f0d1cabcb93ed360632e8bd64ac85cc3f04b3f920d"
+    }
+   ]
+  },
+  {
+   "slug": "642-1",
+   "short": "642.1",
+   "title": "Dekret über die Sekundarschulkreise und Sekundarschulstandorte",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/642.1",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/642.1",
+     "sha256": "ee36927c1ddb11452e2511b0417ed2bf41f519e39a9a276e48ca9f7b93f5e8e0"
+    }
+   ]
+  },
+  {
+   "slug": "951-5",
+   "short": "951.5",
+   "title": "Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/951.5",
+   "versions": [
+    {
+     "from": "2003-07-16",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/951.5",
+     "sha256": "6349ac6e1f34a1f0f97517e599931288afa37fe38a87eb37607dfdcbe6e2647e"
+    }
+   ]
+  },
+  {
+   "slug": "953-1",
+   "short": "953.1",
+   "title": "Dekret über die Betäubungsmittel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/953.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/953.1",
+     "sha256": "87ef8e18ae5eef64405bcdf7fce31d57ab93b38bdaf30b1c5e1ef1a4af2d7865"
+    }
+   ]
+  },
+  {
+   "slug": "853-111",
+   "short": "853.111",
+   "title": "Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Nutzung und Abgeltung ambulanter Angebote der Behindertenhilfe und allfälliger Folgekosten",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/853.111",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/853.111",
+     "sha256": "5d0d36f560e56c69b254c32b047debabaca9e704faf2664ab1f892718c6453ed"
+    }
+   ]
+  },
+  {
+   "slug": "562-1",
+   "short": "562.1",
+   "title": "Dekret betreffend das Verfahren bei Gewährleistung im Viehhandel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/562.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/562.1",
+     "sha256": "8c8883c5a8e23c874212d02bed2580b8825ba709ecbc22c9cf924e76d7cc4aaa"
+    }
+   ]
+  },
+  {
+   "slug": "562-3",
+   "short": "IVTH",
+   "title": "Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/562.3",
+   "versions": [
+    {
+     "from": "2003-02-04",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/562.3",
+     "sha256": "8ea928cb74b9689612b4f98ec5737f0a3cb2f9191036c569f9a4cd151139438a"
+    }
+   ]
+  },
+  {
+   "slug": "566-1",
+   "short": "566.1",
+   "title": "Dekret über explosionsgefährliche Stoffe",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/566.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/566.1",
+     "sha256": "c71f1942f7e6f07e787ca7341fc0042ed7549f13ee225c3c7dc16667c726d207"
+    }
+   ]
+  },
+  {
+   "slug": "180-12",
+   "short": "180.12",
+   "title": "Regierungsratsbeschluss betreffend die Wappen der basellandschaftlichen Gemeinden",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/180.12",
+   "versions": [
+    {
+     "from": "1952-11-06",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/180.12",
+     "sha256": "66c79ce63936a1309a9a22b06912ac812d0c30be6f089ad587824fcc2503cbb3"
+    }
+   ]
+  },
+  {
+   "slug": "189-1",
+   "short": "189.1",
+   "title": "Dekret über die Umsetzung NFA und die Lastenverteilung auf Kanton und Gemeinden",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/189.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/189.1",
+     "sha256": "0a0f445c9bc69af8018d46c2da2b6012be224850342ccd5429a2efaa6bc63fa9"
+    }
+   ]
+  },
+  {
+   "slug": "271",
+   "short": "Verwaltungsprozessordnung, VPO",
+   "title": "Gesetz über die Verfassungs- und Verwaltungsprozessordnung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/271",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/271",
+     "sha256": "719da2cc2e362e7f47eda0cbf7e031d0c9b0d158196de0a4c59a5e6061d71e4a"
+    }
+   ]
+  },
+  {
+   "slug": "170-1",
+   "short": "Gerichtsorganisationsdekret, GOD",
+   "title": "Dekret zum Gesetz über die Organisation der Gerichte",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/170.1",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/170.1",
+     "sha256": "42b1ccbc3c56c85a4bfbb5ed4063b437e462aca0ac24561a6f47719ffec3c003"
+    }
+   ]
+  },
+  {
+   "slug": "170-112",
+   "short": "GOR",
+   "title": "Geschäfts- und Organisationsreglement der Gerichte des Kantons Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/170.112",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/170.112",
+     "sha256": "6f4c37ddfe84876fd7716e712fb9299607891768c5f634e4d3398ac97f4b58b5"
+    }
+   ]
+  },
+  {
+   "slug": "178-112",
+   "short": "178.112",
+   "title": "Tarifordnung für die Anwältinnen und Anwälte",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/178.112",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/178.112",
+     "sha256": "b7d53cb4a6aa065fafb88c2b68de097d9322a43194ffbe8fd32cf8aeb8fea46d"
+    }
+   ]
+  },
+  {
+   "slug": "331-1",
+   "short": "331.1",
+   "title": "Dekret zum Steuergesetz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/331.1",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/331.1",
+     "sha256": "939da202645a4847f2934fb1bfc3ade449205a165059ef94dc9d5819c21b3176"
+    }
+   ]
+  },
+  {
+   "slug": "331-15",
+   "short": "331.15",
+   "title": "Regierungsratsbeschluss über die pauschale Steueranrechnung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/331.15",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/331.15",
+     "sha256": "40e5a31927cc8ed51227872357f9e38c721c5fc60ea12796a9812788b104bbd1"
+    }
+   ]
+  },
+  {
+   "slug": "331-19",
+   "short": "331.19",
+   "title": "Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/331.19",
+   "versions": [
+    {
+     "from": "1986-12-18",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/331.19",
+     "sha256": "081bd4cdfb2c26515d0a15d3a86c3625b6a69402f30ee3d54b5caaf8c8d7e827"
+    }
+   ]
+  },
+  {
+   "slug": "331-2",
+   "short": "Steuerfussdekret BL",
+   "title": "Dekret über den Steuerfuss",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/331.2",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/331.2",
+     "sha256": "d116394a073c711337f4fd6155f405f9b1660b3075e02a5fdc78bcac95cd330e"
+    }
+   ]
+  },
+  {
+   "slug": "336-3",
+   "short": "336.3",
+   "title": "Dekret zum Bundesgesetz über die Verrechnungssteuer",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/336.3",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/336.3",
+     "sha256": "2a948a6f37b3c84807527e6006c2fcc6c9638572dbd90163831037f8a2637779"
+    }
+   ]
+  },
+  {
+   "slug": "338-1",
+   "short": "338.1",
+   "title": "Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/338.1",
+   "versions": [
+    {
+     "from": "1949-10-06",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/338.1",
+     "sha256": "c39d3f335a14559b05ee981cdc541922403878ca72d7b599177da76e373a2945"
+    }
+   ]
+  },
+  {
+   "slug": "338-11",
+   "short": "338.11",
+   "title": "Gegenrechtsvereinbarungen über die Steuerbefreiung für Zuwendungen an gemeinnützige und wohltätige Einrichtungen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/338.11",
+   "versions": [
+    {
+     "from": "2008-05-26",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/338.11",
+     "sha256": "ab2fbb5c8fab42b472903edba171adbc25f5679b06284e3b4e906f73afec0a3d"
+    }
+   ]
+  },
+  {
+   "slug": "211-1",
+   "short": "211.1",
+   "title": "Dekret über das Zivilstandswesen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/211.1",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/211.1",
+     "sha256": "fcdcdcea5cdfb67ff7c66ba4639b0fd842a968bcd38316faf93d93c2d2803278"
+    }
+   ]
+  },
+  {
+   "slug": "211-2",
+   "short": "BVG-und Stiftungsaufsichtsvertrag",
+   "title": "Vertrag über die BVG- und Stiftungsaufsicht beider Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/211.2",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/211.2",
+     "sha256": "618430f5fae84c84b169c35df00c40cbb5d1b25e5a255bd121dc7fd8e5430948"
+    }
+   ]
+  },
+  {
+   "slug": "211-201",
+   "short": "211.201",
+   "title": "Ordnung über die Stiftungsaufsicht",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/211.201",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/211.201",
+     "sha256": "0d5153825aea726969a6c8c3e4a03dbbfa21d22839b194f731b3c67fbc440873"
+    }
+   ]
+  },
+  {
+   "slug": "211-5",
+   "short": "211.5",
+   "title": "Dekret über die Kostentragung der amtlichen Vermessung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/211.5",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/211.5",
+     "sha256": "71acad9abc1f3720b915337fc70fcd085ae50d9e80c2da08bd7bae78c0574f6f"
+    }
+   ]
+  },
+  {
+   "slug": "211-501",
+   "short": "211.501",
+   "title": "Vertrag zwischen dem Bund und den Kantonen betreffend der Abgeltung und der Modalitäten des Austauschs von Geobasisdaten des Bundesrechts unter Behörden",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/211.501",
+   "versions": [
+    {
+     "from": "2016-10-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/211.501",
+     "sha256": "69fe160d4634edb72829b365d80f3b8044ca0acb71982ddfd0132ef773f287b1"
+    }
+   ]
+  },
+  {
+   "slug": "543-3",
+   "short": "IKV 2020",
+   "title": "Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/543.3",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/543.3",
+     "sha256": "a20dc16bbd9bc12edaa6cb7318ac31983fd4c35a32e7f9541a1cc33b15976fca"
+    }
+   ]
+  },
+  {
+   "slug": "543-4",
+   "short": "GSK",
+   "title": "Gesamtschweizerisches Geldspielkonkordat",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/543.4",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/543.4",
+     "sha256": "48e2b7fe6876399717b11335b68e9a390f01faa5a6e65bec126b2b7e5f0edeaf"
+    }
+   ]
+  },
+  {
+   "slug": "543-41",
+   "short": "543.41",
+   "title": "Zusatzvereinbarung zur Interkantonalen Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten vom 7.1.2005 (IVLW)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/543.41",
+   "versions": [
+    {
+     "from": "2019-02-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/543.41",
+     "sha256": "fd8c156802045bf37b9fd6539e79b487e3ff62cd7a0e837dc3ad1e3db6d91c3a"
+    }
+   ]
+  },
+  {
+   "slug": "546-112",
+   "short": "546.112",
+   "title": "Taxi-Tarifordnung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/546.112",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/546.112",
+     "sha256": "d9fcb0f82790ee5a39d9e0cfee9decf4a52acc6311b6343ed007465a502ed57e"
+    }
+   ]
+  },
+  {
+   "slug": "150-1",
+   "short": "Personaldekret",
+   "title": "Dekret zum Personalgesetz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/150.1",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/150.1",
+     "sha256": "da524b19264ad7eb0bf4d02e196f018e37559c0fff8d536f90d3b54d71b1324b"
+    }
+   ]
+  },
+  {
+   "slug": "530-5",
+   "short": "530.5",
+   "title": "Übereinkunft betreffend die Ausübung des Fischfanges in den interkantonalen Fischgewässern von Holderbank (Kanton Solothurn) und Langen­bruck (Kanton Basel-Landschaft), dem Augstbach und dem Musbächlein, abgeschlossen zwischen dem Regierungsrat des Kantons Solothurn und dem Regierungsrat des Kan­tons Basel-Land­schaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/530.5",
+   "versions": [
+    {
+     "from": "1963-05-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/530.5",
+     "sha256": "f6ed2aca130739a7a8ac547faab86b49afcb1731f2882365f9ab4138e242d1f7"
+    }
+   ]
+  },
+  {
+   "slug": "570-1",
+   "short": "570.1",
+   "title": "Dekret über die Bewilligung für Veranstaltungen im Wald",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/570.1",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/570.1",
+     "sha256": "1c8edf6783f30c1fbaabc061faceaecd74b576d8025eb998b74c8d6a606aeb37"
+    }
+   ]
+  },
+  {
+   "slug": "571-12",
+   "short": "571.12",
+   "title": "Vereinbarung über das Amt für Wald und Wild beider Basel (AfWW beider Basel)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/571.12",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/571.12",
+     "sha256": "c748c94cf7b70c5e8211e7432dc529de7ddcbce6f2a3cba07f1faf41499ed860"
+    }
+   ]
+  },
+  {
+   "slug": "973-111",
+   "short": "NFUP-Konvention",
+   "title": "Konvention über das nationale Fremdstoffuntersuchungsprogramm",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/973.111",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/973.111",
+     "sha256": "808020e7d4b36721572ff77e525d200f7112378295f8026db263863d5ad09362"
+    }
+   ]
+  },
+  {
+   "slug": "100-1",
+   "short": "100.1",
+   "title": "Beschluss betreffend Bestimmung der basellandschaftlichen Kantonsfarbe",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/100.1",
+   "versions": [
+    {
+     "from": "1836-02-02",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/100.1",
+     "sha256": "429e337280dea795abb7b310f760374f4e9d576501163b904152ecb659bc9616"
+    }
+   ]
+  },
+  {
+   "slug": "100-11",
+   "short": "100.11",
+   "title": "Regierungsratsbeschluss betreffend die Bezeichnung des amtlichen Kantonswappens",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/100.11",
+   "versions": [
+    {
+     "from": "1948-03-09",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/100.11",
+     "sha256": "f5068fd883d91b8eaff5f586df936de38caf82cfe08015d044fd079e6a0127be"
+    }
+   ]
+  },
+  {
+   "slug": "101",
+   "short": "101",
+   "title": "Vertrag über die Aufnahme des bernischen Amtsbezirks Laufen und seiner Gemeinden Blauen, Brislach, Burg im Leimen­tal, Dittingen, Duggin­gen, Grellingen, Laufen, Liesberg, Nenzlingen, Roggenburg, Röschenz, Wah­len, Zwingen in den Kanton Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/101",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/101",
+     "sha256": "47aca60a5166a02c2cd929f87b867524db6dfc83171ca4684ad277ff3e1885d3"
+    }
+   ]
+  },
+  {
+   "slug": "102",
+   "short": "102",
+   "title": "Vereinbarung über die Anpassung des Laufentalvertrages vom 10. Februar 1983",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/102",
+   "versions": [
+    {
+     "from": "1994-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/102",
+     "sha256": "2dfb290a435b90e6e19e6a5fdd0c5383aff98d76f2c524f25f80ce1aeb5b567a"
+    }
+   ]
+  },
+  {
+   "slug": "147-11",
+   "short": "Do LKA",
+   "title": "Dienstordnung der Landeskanzlei",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/147.11",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/147.11",
+     "sha256": "9664435ca282517b5886e58e1f968f7891bb29644b948064b6c7aef416153f32"
+    }
+   ]
+  },
+  {
+   "slug": "146-11",
+   "short": "Do BKSD",
+   "title": "Dienstordnung der Bildungs-, Kultur- und Sportdirektion",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/146.11",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/146.11",
+     "sha256": "d75725d9757973d6b87c854c61bf4518956cc69f4998a3bf1c583f3efc9aa6e1"
+    }
+   ]
+  },
+  {
+   "slug": "836-1",
+   "short": "836.1",
+   "title": "Dekret zum Bundesgesetz über die Unfallversicherung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/836.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/836.1",
+     "sha256": "ac50ec5b2bd2ed75074bdfab644075a9d0324a4418364bb38d9ab4205a0a7be9"
+    }
+   ]
+  },
+  {
+   "slug": "381-2",
+   "short": "Konzessionsvertrag",
+   "title": "Vertrag zwischen dem Kanton Basel-Landschaft und der Schweizer Salinen AG über die Rechte an den Salzlagern und Solen im Kanton Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/381.2",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/381.2",
+     "sha256": "be238e692306d02cbb97aa87b2e32fb4afead02f6e152af6866d8bf77f84ee22"
+    }
+   ]
+  },
+  {
+   "slug": "381-21",
+   "short": "381.21",
+   "title": "Regierungsratsbeschluss betreffend die Verschmelzung der Saline Schweizerhalle mit den Aargauischen Salinen Rheinfelden und Ryburg",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/381.21",
+   "versions": [
+    {
+     "from": "1909-06-16",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/381.21",
+     "sha256": "253ee9f65ceafc8c0995b69c58462b3d93b0eedbb5466cff2d014ced11d73fb0"
+    }
+   ]
+  },
+  {
+   "slug": "381-3",
+   "short": "381.3",
+   "title": "Zusatzprotokoll zum Konzessionsvertrag vom 30. Oktober 1962 / 29. März 1963",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/381.3",
+   "versions": [
+    {
+     "from": "1963-03-29",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/381.3",
+     "sha256": "75b53b843bd9068157d555c448be88410cdea770f997873700766934686735e5"
+    }
+   ]
+  },
+  {
+   "slug": "381-4",
+   "short": "381.4",
+   "title": "Zusatz zum Konzessionsvertrag",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/381.4",
+   "versions": [
+    {
+     "from": "1976-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/381.4",
+     "sha256": "60a35fb12b0a34f4df41925a45e9cb302ae8e02649b8355907f170ca14115c8d"
+    }
+   ]
+  },
+  {
+   "slug": "381-51",
+   "short": "381.51",
+   "title": "Regierungsratsbeschluss betreffend Schürfkonzession",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/381.51",
+   "versions": [
+    {
+     "from": "1974-09-03",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/381.51",
+     "sha256": "916f19916cd3908124b924dc5a732f4e4ca9bed75d98a72148d5fbd56eaedd5b"
+    }
+   ]
+  },
+  {
+   "slug": "381-6",
+   "short": "381.6",
+   "title": "Zusatz zum Konzessionsvertrag",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/381.6",
+   "versions": [
+    {
+     "from": "1989-03-09",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/381.6",
+     "sha256": "7626788d9d55988f81abd308b5ea325436bb23f02b750b0820ef829f46778679"
+    }
+   ]
+  },
+  {
+   "slug": "382-1",
+   "short": "382.1",
+   "title": "Dekret zum Gesetz vom 7. Juni 1971 über das Salzregal",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/382.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/382.1",
+     "sha256": "65746a32bf27b44442fc63cfdec2a391ec2991e9b361d68a750a39c00b99632a"
+    }
+   ]
+  },
+  {
+   "slug": "382-11",
+   "short": "382.11",
+   "title": "Regierungsratsbeschluss betreffend die Festsetzung der Salzverkaufspreise",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/382.11",
+   "versions": [
+    {
+     "from": "1973-05-15",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/382.11",
+     "sha256": "0f1c4ed9963b355ddd4f97f07f6f948dee0db86dc1e5448c2363beb5796529ff"
+    }
+   ]
+  },
+  {
+   "slug": "382-2",
+   "short": "382.2",
+   "title": "Interkantonale Vereinbarung über den Salzverkauf in der Schweiz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/382.2",
+   "versions": [
+    {
+     "from": "1975-10-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/382.2",
+     "sha256": "a7afd21fa38b4a4e21e406e2fb37d4e48dd3741d3ff67798725399435b577b5b"
+    }
+   ]
+  },
+  {
+   "slug": "386-1",
+   "short": "386.1",
+   "title": "Konzession zum Bau und Betrieb einer Eisenbahn von Liestal nach Waldenburg eventuell Langenbruck",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/386.1",
+   "versions": [
+    {
+     "from": "1870-04-19",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/386.1",
+     "sha256": "578a1cc51c1082e0014adb85570114597a8b007856f2e7e6c5b265397b98acd3"
+    }
+   ]
+  },
+  {
+   "slug": "386-2",
+   "short": "386.2",
+   "title": "Landratsbeschluss betreffend die Benützung von Strassenterrain zum Bau und Betrieb einer Birsigtalbahn",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/386.2",
+   "versions": [
+    {
+     "from": "1975-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/386.2",
+     "sha256": "ae6cf80606b7a9ab27767cfeffc68f5649ffb95f2f2923fd02f39924cab23f8d"
+    }
+   ]
+  },
+  {
+   "slug": "386-3",
+   "short": "386.3",
+   "title": "Landratsbeschluss betreffend Erteilung einer Bewilligung zur Benutzung öffentlicher Strassen an die BLT Baselland Transport AG für den Betrieb der Linie 10",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/386.3",
+   "versions": [
+    {
+     "from": "1980-06-29",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/386.3",
+     "sha256": "04ecf36b3ce585e4348a4cba99129c5c47d078370fcdcd209c9d30353c1be44e"
+    }
+   ]
+  },
+  {
+   "slug": "386-4",
+   "short": "386.4",
+   "title": "Landratsbeschluss betreffend Erteilung einer Bewilligung zur Benützung öffentlicher Strassen an die BLT Baselland Transport AG für den Betrieb der Linie 11, Basel – Reinach – Aesch",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/386.4",
+   "versions": [
+    {
+     "from": "1984-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/386.4",
+     "sha256": "6dc79b04bbf43622efad796f59c880905ec9b4d1832f4933c937fe3776d63001"
+    }
+   ]
+  },
+  {
+   "slug": "386-5",
+   "short": "386.5",
+   "title": "Landratsbeschluss betreffend Benützung von Strassenterrain zum Bau und Betrieb der basellandschaftlichen Überlandbahn Strecke St. Jakob–Muttenz",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/386.5",
+   "versions": [
+    {
+     "from": "1975-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/386.5",
+     "sha256": "c4f67dc89c1f553be4d5307e13574100c349ae5ad11ae3d58d14fd941c8fda42"
+    }
+   ]
+  },
+  {
+   "slug": "386-6",
+   "short": "386.6",
+   "title": "Landratsbeschluss betreffend Erteilung der Bewilligung zur Benützung öffentlicher Strassen an den Kanton Basel-Stadt für den Betrieb von Stras­senbah­nen",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/386.6",
+   "versions": [
+    {
+     "from": "1971-07-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/386.6",
+     "sha256": "fa08c0e4b3107399ce975a64c6e6e24a248afed77b6950f759924fc70dc5dd54"
+    }
+   ]
+  },
+  {
+   "slug": "233-1",
+   "short": "233.1",
+   "title": "Konkordat über die Gewährung gegenseitiger Rechtshilfe zur Vollstreckung öffentlichrechtlicher Ansprüche",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/233.1",
+   "versions": [
+    {
+     "from": "1979-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/233.1",
+     "sha256": "e73cf2434c53ff1aed67344aedadc703f9dc98843c318ac4f631f5c013c4bac6"
+    }
+   ]
+  },
+  {
+   "slug": "687-14",
+   "short": "Vertrag Gesundheitsberufe",
+   "title": "Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung der Kosten der nichtakademischen Berufsausbildungen im Gesundheitswesen auf Sekundarstufe II und auf Tertiärstufe",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/687.14",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/687.14",
+     "sha256": "341441d77bf4f695d277559b25fab1c3d58ec593155f218023ba76e732810cb7"
+    }
+   ]
+  },
+  {
+   "slug": "687-20",
+   "short": "687.20",
+   "title": "Regionales Schulabkommen über die Finanzierung der Aus- und Weiterbildung für Gesundheitsberufe",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/687.20",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/687.20",
+     "sha256": "bf2a3cfe757ecee4b75e55ee6a32f60fc2b2742b926ce3f28dae8b26fe0c7627"
+    }
+   ]
+  },
+  {
+   "slug": "144-12",
+   "short": "144.12",
+   "title": "Dienstordnung der Bau- und Umweltschutzdirektion",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/144.12",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/144.12",
+     "sha256": "0d0bf9e020c3f617d0031f833b16b6b1ebfc23e5ef15ba0c7bd6d550e2f413f2"
+    }
+   ]
+  },
+  {
+   "slug": "144-211",
+   "short": "144.211",
+   "title": "Pflichtenheft für die Aufgaben des Amts für Orts- und Regionalplanung im Rahmen der Schulplanung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/144.211",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/144.211",
+     "sha256": "6a145443133ea9645c0b098c04e5f3eeb90b5fcd401cc2be06f324888f6fcdf1"
+    }
+   ]
+  },
+  {
+   "slug": "144-221",
+   "short": "144.221",
+   "title": "Weisung über die Energiesparmassnahmen in der kantonalen Verwaltung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/144.221",
+   "versions": [
+    {
+     "from": "1978-01-01",
+     "units": 2,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/144.221",
+     "sha256": "2968fa00819d3e349b8af37c6ad2024cd03f91544cd0c1749bd8e603184f601e"
+    }
+   ]
+  },
+  {
+   "slug": "963-13",
+   "short": "963.13",
+   "title": "Vertrag zwischen der Sanitätsdirektion des Kantons Basel-Landschaft und dem Erziehungsdepartement des Kantons Basel-Stadt betreffend Überlassung von Leichen an die normal-anatomische Anstalt der Universität Basel",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/963.13",
+   "versions": [
+    {
+     "from": "1948-09-15",
+     "units": 1,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/963.13",
+     "sha256": "8e6230364b6d2a9cf38a0468844d40a668893aff8fe12652fb990cb04545c2c9"
+    }
+   ]
   }
  ]
 }

@@ -8,7 +8,7 @@ The text is in German, the canton's official language, exactly as the canton pub
 
 ## What this repository holds
 
-608 acts with 1675 versions so far: the cantonal constitution, the cantonal laws (Gesetze) in force and 489 Verordnungen and Reglemente in force, in the order of the systematic collection, added in parts. Other decrees and decisions, intercantonal agreements and repealed acts are not included yet.
+854 acts with 1921 versions so far: the cantonal constitution and acts, regulations, decrees, decisions and agreements from the systematic collection. The current-text additions below have one source-dated version each; earlier versions have not yet been reconstructed.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -620,6 +620,257 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `971-11-gebuhrenverordnung-labor-und-inspektorate/` | Verordnung über die Gebühren des Amts für Lebensmittelsicherheit und Veterinärwesen im Bereich Labor und Inspektorate (SGS 971.11) | 2 | as enacted, then each consolidated version: 1 February 2006 to 1 January 2026 |
 | `972-11-lebensmittelverordnung/` | Verordnung über den Vollzug der Bundesgesetzgebung über Lebensmittel und Gebrauchsgegenstände (SGS 972.11) | 1 | one version (the oldest available), 1 July 2004 |
 | `980-11/` | Verordnung über die Tierseuchenbekämpfung (SGS 980.11) | 3 | oldest version available, then each consolidated version: 1 February 2010 to 1 January 2024 |
+
+### Additional current-text acts
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `100-1/` | Beschluss betreffend Bestimmung der basellandschaftlichen Kantonsfarbe (SGS 100.1) | 1 | oldest version available, 1836-02-02 |
+| `100-11/` | Regierungsratsbeschluss betreffend die Bezeichnung des amtlichen Kantonswappens (SGS 100.11) | 1 | oldest version available, 1948-03-09 |
+| `101/` | Vertrag über die Aufnahme des bernischen Amtsbezirks Laufen und seiner Gemeinden Blauen, Brislach, Burg im Leimen­tal, Dittingen, Duggin­gen, Grellingen, Laufen, Liesberg, Nenzlingen, Roggenburg, Röschenz, Wah­len, Zwingen in den Kanton Basel-Landschaft (SGS 101) | 1 | oldest version available, 1994-01-01 |
+| `102/` | Vereinbarung über die Anpassung des Laufentalvertrages vom 10. Februar 1983 (SGS 102) | 1 | oldest version available, 1994-01-01 |
+| `111-11/` | Anmeldungs- und Registerverordnung (SGS 111.11) | 1 | oldest version available, 2026-07-01 |
+| `113-112/` | Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft bei der Erfassung von biometrischen Daten für Schweizerpässe (SGS 113.112) | 1 | oldest version available, 2020-07-01 |
+| `131-1/` | Dekret zum Gesetz über die Organisation und die Geschäftsführung des Landrats (SGS 131.1) | 1 | oldest version available, 2026-01-01 |
+| `131-2/` | Landratsbeschluss betreffend die Ausübung des Begnadigungsrechtes (SGS 131.2) | 1 | oldest version available, 1971-07-01 |
+| `131-9/` | Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz (SGS 131.9) | 1 | oldest version available, 2023-02-25 |
+| `141-11/` | Geschäftsordnung des Regierungsrates (SGS 141.11) | 1 | oldest version available, 2021-07-01 |
+| `142-11/` | Dienstordnung der Finanz- und Kirchendirektion (SGS 142.11) | 1 | oldest version available, 2026-04-01 |
+| `143-12/` | Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion (SGS 143.12) | 1 | oldest version available, 2026-06-01 |
+| `144-12/` | Dienstordnung der Bau- und Umweltschutzdirektion (SGS 144.12) | 1 | oldest version available, 2026-01-01 |
+| `144-211/` | Pflichtenheft für die Aufgaben des Amts für Orts- und Regionalplanung im Rahmen der Schulplanung (SGS 144.211) | 1 | oldest version available, 2022-01-01 |
+| `144-221/` | Weisung über die Energiesparmassnahmen in der kantonalen Verwaltung (SGS 144.221) | 1 | oldest version available, 1978-01-01 |
+| `145-11/` | Dienstordnung der Sicherheitsdirektion (SGS 145.11) | 1 | oldest version available, 2026-07-01 |
+| `145-37/` | Vereinbarung über die interkantonalen Polizeieinsätze (SGS 145.37) | 1 | oldest version available, 2006-11-09 |
+| `146-11/` | Dienstordnung der Bildungs-, Kultur- und Sportdirektion (SGS 146.11) | 1 | oldest version available, 2026-08-01 |
+| `147-11/` | Dienstordnung der Landeskanzlei (SGS 147.11) | 1 | oldest version available, 2024-11-25 |
+| `148-11/` | Übereinkommen zwischen dem Schweizerischen Bundesrat, der Regierung der Bundesrepublik Deutschland, der Regierung der französischen Republik und der Regierung des Grossherzogtums Luxemburg über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen (SGS 148.11) | 1 | oldest version available, 2004-07-02 |
+| `148-12/` | Vereinbarung zur Gründung des Oberrheinrates (SGS 148.12) | 1 | oldest version available, 1997-12-16 |
+| `149-01/` | Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Zusammenarbeit der Behörden (SGS 149.01) | 1 | oldest version available, 2012-01-01 |
+| `149-5/` | Vereinbarung über die Organisation und die Führung der Regionalplanung beider Basel (SGS 149.5) | 1 | oldest version available, 2004-07-01 |
+| `149-10/` | Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz (SGS 149.10) | 1 | oldest version available, 2014-01-01 |
+| `149-11/` | Interkantonale Vereinbarung über die hochspezialisierte Medizin (SGS 149.11) | 1 | oldest version available, 2009-01-01 |
+| `149-21/` | Vereinbarung über die Konferenz der Kantonsregierungen (SGS 149.21) | 1 | oldest version available, 1993-10-08 |
+| `149-41/` | Vereinbarung über die Nordwestschweizer Regierungskonferenz (SGS 149.41) | 1 | oldest version available, 2025-07-01 |
+| `149-61/` | Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft in der projektorientierten Kunst- und Kulturförderung (SGS 149.61) | 1 | oldest version available, 2024-07-01 |
+| `149-72/` | Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe (SGS 149.72) | 1 | oldest version available, 2010-08-02 |
+| `149-91/` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich (SGS 149.91) | 1 | oldest version available, 2007-05-11 |
+| `149-95/` | Vereinbarung der Kantone Basel-Landschaft und Bern über den Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten (SGS 149.95) | 1 | oldest version available, 2014-01-01 |
+| `150-1/` | Dekret zum Personalgesetz (SGS 150.1) | 1 | oldest version available, 2026-08-01 |
+| `157-31/` | Weisung zur Gleichstellung von Frau und Mann in der kantonalen Verwaltung (SGS 157.31) | 1 | oldest version available, 2021-01-01 |
+| `170-1/` | Dekret zum Gesetz über die Organisation der Gerichte (SGS 170.1) | 1 | oldest version available, 2026-04-01 |
+| `170-112/` | Geschäfts- und Organisationsreglement der Gerichte des Kantons Basel-Landschaft (SGS 170.112) | 1 | oldest version available, 2023-02-01 |
+| `178-112/` | Tarifordnung für die Anwältinnen und Anwälte (SGS 178.112) | 1 | oldest version available, 2014-01-01 |
+| `180-12/` | Regierungsratsbeschluss betreffend die Wappen der basellandschaftlichen Gemeinden (SGS 180.12) | 1 | oldest version available, 1952-11-06 |
+| `189-1/` | Dekret über die Umsetzung NFA und die Lastenverteilung auf Kanton und Gemeinden (SGS 189.1) | 1 | oldest version available, 2008-01-01 |
+| `191-1/` | Kirchendekret (SGS 191.1) | 1 | oldest version available, 2007-01-01 |
+| `191-2/` | Dekret über die Stiftung Kirchengut (SGS 191.2) | 1 | oldest version available, 2020-01-01 |
+| `191-11/` | Regierungsratsbeschluss betreffend die Zugehörigkeit der Kantonseinwohner zu den drei Landeskirchen des Kantons Basel-Landschaft (SGS 191.11) | 1 | oldest version available, 1950-12-01 |
+| `191-12/` | Regierungsratsbeschluss betreffend die Wahl der Pfarrer in den drei Landeskirchen des Kantons Basel-Landschaft (SGS 191.12) | 1 | oldest version available, 1957-07-23 |
+| `192-111/` | Vereinbarung zwischen der Evangelisch-reformierten, der Römisch-katholischen und der Christkatholischen Landeskirche des Kantons Basel-Landschaft betreffend die Erhebung der Kirchensteuern bei konfessionell gemischten Familien und eingetragenen Partnerschaften (SGS 192.111) | 1 | oldest version available, 2007-01-01 |
+| `194/` | Verfassung der Evangelisch-reformierten Kirche des Kantons Basel-Landschaft (SGS 194) | 1 | oldest version available, 2022-01-01 |
+| `194-1/` | Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst (SGS 194.1) | 1 | oldest version available, 2004-01-01 |
+| `195-1/` | Vereinigungs-Urkunde (SGS 195.1) | 1 | oldest version available, 1815-11-07 |
+| `195-2/` | Übereinkunft wegen der Wiederherstel­lung und neuen Umschrei­bung des Bist­hums Basel (SGS 195.2) | 1 | oldest version available, 1828-03-26 |
+| `195-3/` | Übereinkunft zwischen den hohen Ständen Lucern, Bern, Solothurn und Zug für die Organisation des Bisthums Basel (SGS 195.3) | 1 | oldest version available, 1828-03-26 |
+| `195-4/` | Bulle des Papstes Leo XII. "Inter praecipua" vom 7. Mai 1828 betreffend Wiederherstellung und Reorganisation des Bistums Basel (SGS 195.4) | 1 | oldest version available, 1828-05-07 |
+| `195-5/` | Beitritts-Erklärung zu dem neu organisirten Bisthum Basel (SGS 195.5) | 1 | oldest version available, 1829-10-06 |
+| `195-6/` | Konkordat betreffend die Verhältnisse und Rechte des Staates in Kirchensachen (SGS 195.6) | 1 | oldest version available, 1834-05-30 |
+| `196/` | Verfassung der Römisch-katholischen Landeskirche des Kantons Basel-Landschaft (SGS 196) | 1 | oldest version available, 2025-01-01 |
+| `197/` | Verfassung der Christkatholischen Landeskirche des Kantons Basel-Landschaft (SGS 197) | 1 | oldest version available, 1984-01-01 |
+| `211-1/` | Dekret über das Zivilstandswesen (SGS 211.1) | 1 | oldest version available, 2018-07-01 |
+| `211-2/` | Vertrag über die BVG- und Stiftungsaufsicht beider Basel (SGS 211.2) | 1 | oldest version available, 2012-01-01 |
+| `211-5/` | Dekret über die Kostentragung der amtlichen Vermessung (SGS 211.5) | 1 | oldest version available, 2013-01-01 |
+| `211-201/` | Ordnung über die Stiftungsaufsicht (SGS 211.201) | 1 | oldest version available, 2023-01-01 |
+| `211-501/` | Vertrag zwischen dem Bund und den Kantonen betreffend der Abgeltung und der Modalitäten des Austauschs von Geobasisdaten des Bundesrechts unter Behörden (SGS 211.501) | 1 | oldest version available, 2016-10-01 |
+| `212-31/` | Normalarbeitsvertrag für landwirtschaftliche Arbeitsverhältnisse im Kanton Basel-Landschaft (SGS 212.31) | 1 | oldest version available, 2020-01-01 |
+| `212-35/` | Normalarbeitsvertrag für die wohngemeinschaftliche Betreuung (SGS 212.35) | 1 | oldest version available, 2025-01-01 |
+| `221/` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung (SGS 221) | 1 | oldest version available, 2025-08-01 |
+| `221-2/` | Dekret zum Bundesgesetz betreffend die Arbeit in den Fabriken vom 18. Juni 1914 (SGS 221.2) | 1 | oldest version available, 2011-01-01 |
+| `233-1/` | Konkordat über die Gewährung gegenseitiger Rechtshilfe zur Vollstreckung öffentlichrechtlicher Ansprüche (SGS 233.1) | 1 | oldest version available, 1979-01-01 |
+| `242/` | Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung (SGS 242) | 1 | oldest version available, 2022-01-01 |
+| `250/` | Einführungsgesetz zur Schweizerischen Strafprozessordnung (SGS 250) | 1 | oldest version available, 2022-01-01 |
+| `250-1/` | Dekret zum Einführungsgesetz zur Schweizerischen Strafprozessordnung (SGS 250.1) | 1 | oldest version available, 2024-01-01 |
+| `252-111/` | Vertrag über die Opferberatungsstellen beider Basel (SGS 252.111) | 1 | oldest version available, 2009-01-01 |
+| `261-2/` | Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen (SGS 261.2) | 1 | oldest version available, 2008-01-01 |
+| `265-111/` | Übereinkunft betreffend die Polizeitransporte (SGS 265.111) | 1 | oldest version available, 1980-01-01 |
+| `271/` | Gesetz über die Verfassungs- und Verwaltungsprozessordnung (SGS 271) | 1 | oldest version available, 2024-01-01 |
+| `311-111/` | Pflichtenheft des Begleitausschusses Finanzkontrolle (SGS 311.111) | 1 | oldest version available, 2019-09-25 |
+| `331-1/` | Dekret zum Steuergesetz (SGS 331.1) | 1 | oldest version available, 2011-04-01 |
+| `331-2/` | Dekret über den Steuerfuss (SGS 331.2) | 1 | oldest version available, 2026-01-01 |
+| `331-15/` | Regierungsratsbeschluss über die pauschale Steueranrechnung (SGS 331.15) | 1 | oldest version available, 2005-01-01 |
+| `331-19/` | Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern (SGS 331.19) | 1 | oldest version available, 1986-12-18 |
+| `336-3/` | Dekret zum Bundesgesetz über die Verrechnungssteuer (SGS 336.3) | 1 | oldest version available, 2011-07-01 |
+| `338-1/` | Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen (SGS 338.1) | 1 | oldest version available, 1949-10-06 |
+| `338-11/` | Gegenrechtsvereinbarungen über die Steuerbefreiung für Zuwendungen an gemeinnützige und wohltätige Einrichtungen (SGS 338.11) | 1 | oldest version available, 2008-05-26 |
+| `350-1/` | Dekret zum Gebäudeversicherungsgesetz Basel-Landschaft (SGS 350.1) | 1 | oldest version available, 2023-01-01 |
+| `361-12/` | Vereinbarung über Beiträge an das Ausbildungszentrum für das Strafvollzugspersonal (SGS 361.12) | 1 | oldest version available, 1980-12-18 |
+| `362-1/` | Dekret über die Einkommensobergrenzen und den Prozentanteil in der Prämienverbilligung (SGS 362.1) | 1 | oldest version available, 2014-01-01 |
+| `365-13/` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen (SGS 365.13) | 1 | oldest version available, 2013-03-01 |
+| `365-511/` | Weisung über die Staatsbeiträge an die Fortbildungskurse für Lehrer an den basellandschaftlichen Volksschulen und Kindergärten (SGS 365.511) | 1 | oldest version available, 1987-02-10 |
+| `365-515/` | Vereinbarung über die Abgeltung der unterrichtsbezogenen Dienst­leistungen zugunsten der Schulen des Kantons Basel-Landschaft (SGS 365.515) | 1 | oldest version available, 1994-01-01 |
+| `366-15/` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung kultureller Zentrumsleistungen (SGS 366.15) | 1 | oldest version available, 2022-01-01 |
+| `371-1/` | Dekret über die Festsetzung des Zertifikats- und Dotationskapitals der Basellandschaftlichen Kantonalbank (SGS 371.1) | 1 | oldest version available, 2008-11-01 |
+| `381-2/` | Vertrag zwischen dem Kanton Basel-Landschaft und der Schweizer Salinen AG über die Rechte an den Salzlagern und Solen im Kanton Basel-Landschaft (SGS 381.2) | 1 | oldest version available, 2026-01-01 |
+| `381-3/` | Zusatzprotokoll zum Konzessionsvertrag vom 30. Oktober 1962 / 29. März 1963 (SGS 381.3) | 1 | oldest version available, 1963-03-29 |
+| `381-4/` | Zusatz zum Konzessionsvertrag (SGS 381.4) | 1 | oldest version available, 1976-01-01 |
+| `381-6/` | Zusatz zum Konzessionsvertrag (SGS 381.6) | 1 | oldest version available, 1989-03-09 |
+| `381-21/` | Regierungsratsbeschluss betreffend die Verschmelzung der Saline Schweizerhalle mit den Aargauischen Salinen Rheinfelden und Ryburg (SGS 381.21) | 1 | oldest version available, 1909-06-16 |
+| `381-51/` | Regierungsratsbeschluss betreffend Schürfkonzession (SGS 381.51) | 1 | oldest version available, 1974-09-03 |
+| `382-1/` | Dekret zum Gesetz vom 7. Juni 1971 über das Salzregal (SGS 382.1) | 1 | oldest version available, 2015-01-01 |
+| `382-2/` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz (SGS 382.2) | 1 | oldest version available, 1975-10-01 |
+| `382-11/` | Regierungsratsbeschluss betreffend die Festsetzung der Salzverkaufspreise (SGS 382.11) | 1 | oldest version available, 1973-05-15 |
+| `386-1/` | Konzession zum Bau und Betrieb einer Eisenbahn von Liestal nach Waldenburg eventuell Langenbruck (SGS 386.1) | 1 | oldest version available, 1870-04-19 |
+| `386-2/` | Landratsbeschluss betreffend die Benützung von Strassenterrain zum Bau und Betrieb einer Birsigtalbahn (SGS 386.2) | 1 | oldest version available, 1975-01-01 |
+| `386-3/` | Landratsbeschluss betreffend Erteilung einer Bewilligung zur Benutzung öffentlicher Strassen an die BLT Baselland Transport AG für den Betrieb der Linie 10 (SGS 386.3) | 1 | oldest version available, 1980-06-29 |
+| `386-4/` | Landratsbeschluss betreffend Erteilung einer Bewilligung zur Benützung öffentlicher Strassen an die BLT Baselland Transport AG für den Betrieb der Linie 11, Basel – Reinach – Aesch (SGS 386.4) | 1 | oldest version available, 1984-01-01 |
+| `386-5/` | Landratsbeschluss betreffend Benützung von Strassenterrain zum Bau und Betrieb der basellandschaftlichen Überlandbahn Strecke St. Jakob–Muttenz (SGS 386.5) | 1 | oldest version available, 1975-01-01 |
+| `386-6/` | Landratsbeschluss betreffend Erteilung der Bewilligung zur Benützung öffentlicher Strassen an den Kanton Basel-Stadt für den Betrieb von Stras­senbah­nen (SGS 386.6) | 1 | oldest version available, 1971-07-01 |
+| `402/` | Regierungsratsbeschluss betreffend Bauten und Anlagen mit besonders starker Verkehrserzeugung (SGS 402) | 1 | oldest version available, 1974-03-12 |
+| `420/` | Einführungsgesetz zur interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (SGS 420) | 1 | oldest version available, 2024-01-01 |
+| `420-001/` | Pflichtenheft des Beirats für das öffentliche Beschaffungswesen (SGS 420.001) | 1 | oldest version available, 2024-01-01 |
+| `420-12/` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (SGS 420.12) | 1 | oldest version available, 2003-01-01 |
+| `420-121/` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (SGS 420.121) | 1 | oldest version available, 2021-07-01 |
+| `421-1/` | Staatsvertrag über die Zusammenlegung der Rheinschifffahrtsdirektion Basel und der Rheinhäfen des Kantons Basel-Landschaft zu einer Anstalt öffentlichen Rechts mit eigener Rechtspersönlichkeit unter dem Namen «Schweizerische Rheinhäfen» («Ports Rhénans Suisses», «Swiss Rhine Ports») (SGS 421.1) | 1 | oldest version available, 2008-01-01 |
+| `421-13/` | Hafenordnung für die Rheinhäfen beider Basel (SGS 421.13) | 1 | oldest version available, 2011-01-01 |
+| `421-17/` | Gebührentarif der Schweizerischen Rheinhäfen (SGS 421.17) | 1 | oldest version available, 2017-01-01 |
+| `437/` | Regierungsratsbeschluss betreffend Gebührenerhebung für Sondertransporte (SGS 437) | 1 | oldest version available, 1976-07-01 |
+| `454-1/` | Dekret über die Gebühren für Gewässernutzungen (SGS 454.1) | 1 | oldest version available, 2005-01-01 |
+| `456/` | Landratsbeschluss betreffend die Fortleitung von Frischwasser aus der Hard (erste Etappe) Genehmigung des generellen Projektes (SGS 456) | 1 | oldest version available, 1961-05-18 |
+| `480-1/` | Vereinbarung über die Basler Verkehrs-Betriebe und die BLT Baselland Transport AG (SGS 480.1) | 1 | oldest version available, 1995-01-01 |
+| `480-111/` | Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen (SGS 480.111) | 1 | oldest version available, 2016-01-01 |
+| `481-5/` | Vereinbarung betreffend die Motorfahrzeugprüfstation beider Basel (SGS 481.5) | 1 | oldest version available, 1979-01-09 |
+| `481-51/` | Vereinbarung über die Gebühren der Motorfahrzeugprüfstation beider Basel (SGS 481.51) | 1 | oldest version available, 2024-10-01 |
+| `481-52/` | Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau über die Durchführung der amtlichen Nachkontrollen von Fahrzeugen (SGS 481.52) | 1 | oldest version available, 1997-07-01 |
+| `483-1/` | Dekret über das Angebot im regionalen Personenverkehr (SGS 483.1) | 1 | oldest version available, 2020-10-02 |
+| `486-1/` | Dekret betreffend die kantonale Zuständigkeitsordnung zum Eidg. Luftfahrtgesetz (SGS 486.1) | 1 | oldest version available, 2015-01-01 |
+| `486-21/` | Vereinbarung betreffend Zusammenarbeit bei der Wahrung der schweizerischen Interessen auf dem binationalen Flughafen Basel-Mülhausen (SGS 486.21) | 1 | oldest version available, 1998-06-11 |
+| `486-31/` | Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Fluglärmkommission und die Ombudsstelle für Fluglärmklagen (SGS 486.31) | 1 | oldest version available, 2011-07-01 |
+| `487/` | Interkantonale Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau in Rheinschiffahrts- und Hafenangelegenheiten (SGS 487) | 1 | oldest version available, 1997-01-01 |
+| `490-1/` | Dekret zum Energiegesetz (SGS 490.1) | 1 | oldest version available, 2024-10-01 |
+| `493/` | Verleihung für die Errichtung einer Wasserkraftanlage im Rhein bei Birsfelden (SGS 493) | 1 | oldest version available, 1951-01-01 |
+| `493-1/` | Verleihung für die Erweiterung der Wassernutzung des Rheins beim Kraftwerk Birsfelden (SGS 493.1) | 1 | oldest version available, 1963-05-15 |
+| `493-21/` | Vertrag zwischen dem Kanton Basel-Landschaft und dem Kanton Basel-Stadt betreffend Gründung einer Aktiengesellschaft zum Bau und Betrieb einer Wasserkraftanlage bei Birsfelden (SGS 493.21) | 1 | oldest version available, 1950-09-01 |
+| `494/` | Vereinbarung zwischen den Kantonen Basel-Landschaft (BL) und Basel-Stadt (BS) betreffend die Berechnung des Wasserzinses des Kraftwerkes Augst an den Kanton BL und des Wasserzinses des Kraftwerks Birsfelden an die Kantone BS und BL (SGS 494) | 1 | oldest version available, 1973-10-16 |
+| `495/` | Regierungsratsbeschluss betreffend Vollzug des Artikels 44 des Bundesgesetzes betreffend die elektrischen Schwach- und Starkstromanlagen (SGS 495) | 1 | oldest version available, 1903-02-01 |
+| `510-13/` | Vereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Basel-Stadt betreffend den Vollzug des eidgenössischen Landwirtschaftsrechtes (SGS 510.13) | 1 | oldest version available, 2020-01-01 |
+| `515-12/` | Weisungen des Regierungsrates betreffend Schätzungen und Bewertungen sowie Restkostenverteilung bei Felderregulierungen (Gesamtmeliorationen) (SGS 515.12) | 1 | oldest version available, 2013-07-01 |
+| `516-34/` | Vereinbarung über die Zusammenarbeit zwischen dem Kanton Solothurn und dem Kanton Basel-Landschaft betreffend den Vollzug von Massnahmen im Rebbau (SGS 516.34) | 1 | oldest version available, 2008-01-01 |
+| `523-12/` | Regierungsratsbeschluss betreffend die Reservationsgebiete in der Gemeinde Augst, Zone Kraftwerk-Stausee und Ergolz (SGS 523.12) | 1 | oldest version available, 1960-01-12 |
+| `523-13/` | Regierungsratsbeschluss betreffend Natur-, Jagd- und Vogelschutzreservat im Rutschgebiet unter der Fluh (Parzelle 988 im Büchlihau), Gemeinde Füllinsdorf (SGS 523.13) | 1 | oldest version available, 1960-02-16 |
+| `523-14/` | Regierungsratsbeschluss betreffend Schaffung eines Vogelschutzreservates in der Gemeinde Muttenz (SGS 523.14) | 1 | oldest version available, 1960-03-01 |
+| `523-15/` | Regierungsratsbeschluss betreffend Schaffung eines Naturschutzreservates an der Birs in der Gemeinde Münchenstein (SGS 523.15) | 1 | oldest version available, 1960-03-22 |
+| `530-5/` | Übereinkunft betreffend die Ausübung des Fischfanges in den interkantonalen Fischgewässern von Holderbank (Kanton Solothurn) und Langen­bruck (Kanton Basel-Landschaft), dem Augstbach und dem Musbächlein, abgeschlossen zwischen dem Regierungsrat des Kantons Solothurn und dem Regierungsrat des Kan­tons Basel-Land­schaft (SGS 530.5) | 1 | oldest version available, 1963-05-01 |
+| `543-3/` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (SGS 543.3) | 1 | oldest version available, 2021-01-01 |
+| `543-4/` | Gesamtschweizerisches Geldspielkonkordat (SGS 543.4) | 1 | oldest version available, 2021-01-01 |
+| `543-41/` | Zusatzvereinbarung zur Interkantonalen Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten vom 7.1.2005 (IVLW) (SGS 543.41) | 1 | oldest version available, 2019-02-01 |
+| `546-112/` | Taxi-Tarifordnung (SGS 546.112) | 1 | oldest version available, 2009-01-01 |
+| `562-1/` | Dekret betreffend das Verfahren bei Gewährleistung im Viehhandel (SGS 562.1) | 1 | oldest version available, 2011-01-01 |
+| `562-3/` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse (SGS 562.3) | 1 | oldest version available, 2003-02-04 |
+| `566-1/` | Dekret über explosionsgefährliche Stoffe (SGS 566.1) | 1 | oldest version available, 2015-01-01 |
+| `570-1/` | Dekret über die Bewilligung für Veranstaltungen im Wald (SGS 570.1) | 1 | oldest version available, 1999-01-01 |
+| `571-12/` | Vereinbarung über das Amt für Wald und Wild beider Basel (AfWW beider Basel) (SGS 571.12) | 1 | oldest version available, 2025-01-01 |
+| `601-115/` | Tarifordnung Archäologie und Museum Basel-Landschaft (SGS 601.115) | 1 | oldest version available, 2013-01-01 |
+| `601-116/` | Tarifordnung Römerstadt Augusta Raurica (SGS 601.116) | 1 | oldest version available, 2013-01-01 |
+| `604-111/` | Tarifordnung für die Kantonsbibliothek Baselland (SGS 604.111) | 1 | oldest version available, 2024-10-08 |
+| `615-111/` | Vereinbarung über eine gemeinsame Tierversuchskommission der Kantone Basel-Stadt, Basel-Landschaft und Aargau (SGS 615.111) | 1 | oldest version available, 1998-01-01 |
+| `640-111/` | Lehrpläne der Schulen des Kantons Basel-Landschaft (SGS 640.111) | 1 | oldest version available, 2002-09-18 |
+| `642-1/` | Dekret über die Sekundarschulkreise und Sekundarschulstandorte (SGS 642.1) | 1 | oldest version available, 2024-08-01 |
+| `643-12/` | Vertrag über das Regionale Gymnasium Laufental-Thierstein (SGS 643.12) | 1 | oldest version available, 2014-08-01 |
+| `645-1/` | Dekret über die Unterstellung der nicht mehr schulpflichtigen Schüler und Lehrlinge unter den gesundheitlichen Dienst (SGS 645.1) | 1 | oldest version available, 1997-08-11 |
+| `649-1/` | Konkordat über die Schulkoordination (SGS 649.1) | 1 | oldest version available, 1970-12-14 |
+| `649-2/` | Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (SGS 649.2) | 1 | oldest version available, 2026-08-01 |
+| `649-6/` | Interregionale Vereinbarung über Beiträge an ausseruniversitäre Bildungsanstalten im tertiären Bereich (SGS 649.6) | 1 | oldest version available, 1994-08-01 |
+| `649-7/` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (SGS 649.7) | 1 | oldest version available, 2014-09-01 |
+| `649-11/` | Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule (SGS 649.11) | 1 | oldest version available, 2010-09-26 |
+| `649-12/` | Interkantonale Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik (SGS 649.12) | 1 | oldest version available, 2011-01-01 |
+| `649-22/` | Vertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) (SGS 649.22) | 1 | oldest version available, 2012-01-01 |
+| `649-71/` | Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK) (SGS 649.71) | 1 | oldest version available, 2009-05-14 |
+| `649-222/` | Vereinbarung zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Trennung der bikantonalen Verantwortung für die Rentnerinnen und Rentner der ehemaligen Fachhochschule beider Basel (FHBB) und der ehemaligen Hochschule für Pädagogik und Soziale Arbeit beider Basel (HPSA-BB) im Rahmen der Anschlussverhältnisse zur Basellandschaftlichen Pensionskasse (BLPK) und der Anschlussverträge zur Pensionskasse Basel-Stadt (PKBS) (SGS 649.222) | 1 | oldest version available, 2011-01-01 |
+| `649-611/` | Interkantonale Fachschulvereinbarung (SGS 649.611) | 1 | oldest version available, 2000-08-01 |
+| `649-612/` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (SGS 649.612) | 1 | oldest version available, 2014-01-01 |
+| `649-711/` | Anerkennungsreglemente der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) (SGS 649.711) | 1 | oldest version available, 2012-09-01 |
+| `649-911/` | Vereinbarung zwischen der Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft und dem Erziehungsdepartement des Kantons Jura über den Besuch des fremdsprachigen zehnten Schuljahres durch Schülerinnen und Schüler aus den Vereinbarungskantonen (SGS 649.911) | 1 | oldest version available, 2001-08-01 |
+| `649-912/` | Vereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Jura über den gemeinsamen gymnasialen bilingualen Bildungsgang am Regionalen Gymnasium Laufental-Thierstein in Laufen und am Lycée cantonal in Porrentruy (SGS 649.912) | 1 | oldest version available, 2017-08-01 |
+| `660-1/` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich (SGS 660.1) | 1 | oldest version available, 2015-01-01 |
+| `662-2/` | Interkantonale Fachhochschulvereinbarung (FHV) ab 2005 (SGS 662.2) | 1 | oldest version available, 2005-10-01 |
+| `662-5/` | Dekret über die Arbeitsverhältnisse der Fachhochschulen (SGS 662.5) | 1 | oldest version available, 2004-02-01 |
+| `664-1/` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel (SGS 664.1) | 1 | oldest version available, 2022-01-01 |
+| `664-3/` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen (SGS 664.3) | 1 | oldest version available, 2022-01-01 |
+| `664-12/` | Vereinbarung über das Immobilienwesen der Universität Basel (SGS 664.12) | 1 | oldest version available, 2022-01-01 |
+| `664-155/` | Stiftungsstatut der Stiftung Volkshochschule und Senioren-Universität beider Basel (VHS BB) (SGS 664.155) | 1 | oldest version available, 2002-09-25 |
+| `665-1/` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft des Schweizerischen Tropen- und Public Health-Instituts (SGS 665.1) | 1 | oldest version available, 2017-01-01 |
+| `681-22/` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (SGS 681.22) | 1 | oldest version available, 2007-08-01 |
+| `683-21/` | Vertrag zwischen dem Kaufmännischen Verband Baselland und dem Kanton Basel-Landschaft über die Führung der Schulen des Kaufmännischen Verbands Baselland (SGS 683.21) | 1 | oldest version available, 2023-01-01 |
+| `684-12/` | Vertrag zwischen aprentas und dem Kanton Basel-Landschaft über die Führung einer Berufsfachschule (SGS 684.12) | 1 | oldest version available, 2014-07-01 |
+| `687-14/` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung der Kosten der nichtakademischen Berufsausbildungen im Gesundheitswesen auf Sekundarstufe II und auf Tertiärstufe (SGS 687.14) | 1 | oldest version available, 2005-01-01 |
+| `687-20/` | Regionales Schulabkommen über die Finanzierung der Aus- und Weiterbildung für Gesundheitsberufe (SGS 687.20) | 1 | oldest version available, 2001-01-01 |
+| `700-12/` | Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz (SGS 700.12) | 1 | oldest version available, 1996-05-15 |
+| `700-13/` | Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch (SGS 700.13) | 1 | oldest version available, 2004-12-08 |
+| `700-14/` | Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten (SGS 700.14) | 1 | oldest version available, 2011-07-01 |
+| `700-15/` | Vereinbarung zur Harmonisierung der Polizeiinformatik in der Schweiz (SGS 700.15) | 1 | oldest version available, 2012-05-31 |
+| `700-16/` | Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität (SGS 700.16) | 1 | oldest version available, 2019-12-11 |
+| `700-17/` | Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz (SGS 700.17) | 1 | oldest version available, 2021-01-01 |
+| `700-18/` | Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz (SGS 700.18) | 1 | oldest version available, 2025-07-01 |
+| `702-14/` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen (SGS 702.14) | 1 | oldest version available, 2010-01-01 |
+| `719-1/` | Vereinbarung über die Polizeitätigkeit auf der Autobahn N 2 (SGS 719.1) | 1 | oldest version available, 1986-01-01 |
+| `719-21/` | Vereinbarung zwischen den Kantonen Basel-Landschaft und Aargau über die Polizeitätigkeit auf den Autobahnen A2 und A3 (SGS 719.21) | 1 | oldest version available, 1996-11-01 |
+| `719-31/` | Vereinbarung über die grenzüberschreitende polizeiliche Zusammenarbeit in den Kantonen Basel-Stadt und Basel-Landschaft (SGS 719.31) | 1 | oldest version available, 2018-01-01 |
+| `719-411/` | Vereinbarung über die Bikantonale Geschäftsstelle Eventverkehr St. Jakob (SGS 719.411) | 1 | oldest version available, 2022-06-14 |
+| `761-1/` | Dekret über die Sorgfaltspflicht bei Feuerungsanlagen (SGS 761.1) | 1 | oldest version available, 2018-01-01 |
+| `782-2/` | Dekret über den Generellen Entwässerungsplan (SGS 782.2) | 1 | oldest version available, 1997-01-01 |
+| `783-21/` | Vertrag über die Ableitung der Abwässer des basellandschaftlichen Gebietes von Olsberg, Gemeinde Arisdorf, in die Abwasserreinigungsanlage Olsberg AG (SGS 783.21) | 1 | oldest version available, 1971-12-17 |
+| `783-22/` | Vereinbarung über die Durchleitung von Abwässern aus den basellandschaftlichen Gemeinden Arisdorf, Giebenach und Augst durch die aargauische Gemeinde Kaiseraugst sowie die Ableitung der Abwässer der Gemeinde Kaiseraugst in die basellandschaftliche Abwasserreinigungsanlage (ARA) Rhein, Pratteln (SGS 783.22) | 1 | oldest version available, 1988-09-21 |
+| `783-31/` | Vertrag zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend die gemeinsame Durchführung von Gewässer­schutzmassnahmen (SGS 783.31) | 1 | oldest version available, 1975-09-02 |
+| `783-32/` | Vertrag zwischen 1. Kanton Basel-Stadt, vertreten durch den Regierungsrat, der Regierungsrat gleichzeitig handelnd für die Einwohnergemeinde der Stadt Basel; 2. Kanton Basel-Landschaft, vertreten durch den Regierungsrat; 3. Ciba-Geigy AG, in Basel; 4. F. Hoffmann-La Roche & Co. AG, in Basel; 5. Sandoz AG, in Basel; betreffend gemeinsame Durchführung von Gewässerschutzmassnahmen (SGS 783.32) | 1 | oldest version available, 1980-09-01 |
+| `783-33/` | Vertrag betreffend den gemeinsamen Betrieb von Abwasserreinigungsanlagen (SGS 783.33) | 1 | oldest version available, 2007-01-01 |
+| `783-51/` | Vereinbarung über die Ableitung von Abwässern aus den Gemeinden Hofstetten-Flüh, Metzerlen-Mariastein (nur Dorfteil Mariastein), Bättwil und Witterswil des Abwasserverbandes Leimental SO in die neue Abwasserreinigungsanlage Birsig in Therwil. (SGS 783.51) | 1 | oldest version available, 1991-12-03 |
+| `783-52/` | Vertrag zwischen dem Kanton Basel-Landschaft, vertreten durch den Regierungsrat, und der Einwohnergemeinde Holderbank (SO), vertreten durch den Gemeinderat, über die gemeinsame Durchführung der Abwassersanierung für Langenbruck (BL) und Holderbank (SO) (SGS 783.52) | 1 | oldest version available, 1977-10-17 |
+| `783-53/` | Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Dornach und deren Reinigung in den basellandschaftlichen Abwasserreinigungsanlagen Birs 1 und Birs 2 (ARA Birs 1 und ARA Birs 2) (SGS 783.53) | 1 | oldest version available, 2004-01-01 |
+| `783-54/` | Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Gempen und deren Reinigung in den basellandschaftlichen Abwasserreinigungsanlagen Birs 1 und Birs 2 (ARA Birs 1 und ARA Birs 2) (SGS 783.54) | 1 | oldest version available, 2004-01-01 |
+| `783-55/` | Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Hochwald und deren Reinigung in den basellandschaftlichen Abwasserreinigungsanlagen Birs 1 und Birs 2 (SGS 783.55) | 1 | oldest version available, 2004-01-01 |
+| `783-56/` | Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Nuglar-St. Pantaleon (Ortsteile St. Pantaleon, Neu-Nuglar und Orismühle) und deren Reinigung in der basellandschaftlichen Abwasserreinigungsanlage Ergolz 2 (ARA Ergolz 2) (SGS 783.56) | 1 | oldest version available, 2006-01-01 |
+| `784-9/` | Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel und der Deponie Elbisgraben (SGS 784.9) | 1 | oldest version available, 2019-10-01 |
+| `786-131/` | Vereinbarung über die Kontrolle der Industriefeuerungen (SGS 786.131) | 1 | oldest version available, 1988-02-24 |
+| `791-21/` | Regierungsratsbeschluss betreffend die Anlegung und Inventarisierung von lokalen Sammlun­gen von Altertümern durch Gemeinden, öffent­lich-rechtliche Korpora­tio­nen, wissen­schaftliche Vereini­gungen und private Personen (SGS 791.21) | 1 | oldest version available, 1937-10-02 |
+| `792-1/` | Vertrag über die Römerstadt Augusta Raurica (SGS 792.1) | 1 | oldest version available, 2026-01-01 |
+| `822-12/` | Weisungen betreffend die Beschäftigung von Jugendlichen unter 15 Jahren für Arbeiten im Walde (SGS 822.12) | 1 | oldest version available, 1967-09-12 |
+| `824-1/` | Dekret zum Bundesgesetz über die Heimarbeit (SGS 824.1) | 1 | oldest version available, 2011-01-01 |
+| `834-1/` | Dekret über die berufliche Vorsorge durch die Basellandschaftliche Pensionskasse (SGS 834.1) | 1 | oldest version available, 2019-01-01 |
+| `834-3/` | Dekret über die berufliche Vorsorge für Mitglieder des Regierungsrates und über die Lohnleistungen beim Ausscheiden aus dem Amt (SGS 834.3) | 1 | oldest version available, 2015-01-01 |
+| `834-400/` | Ordnung über die berufliche Vorsorge (SGS 834.400) | 1 | oldest version available, 2025-07-01 |
+| `836-1/` | Dekret zum Bundesgesetz über die Unfallversicherung (SGS 836.1) | 1 | oldest version available, 2015-01-01 |
+| `837-31/` | Vereinbarung der Kantone Basel-Landschaft und Solothurn über die Abtretung von Aufgaben aus dem AVIG-Vollzug vom Kanton Solothurn an den Kanton Basel-Landschaft (SGS 837.31) | 1 | oldest version available, 2004-01-01 |
+| `853-111/` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Nutzung und Abgeltung ambulanter Angebote der Behindertenhilfe und allfälliger Folgekosten (SGS 853.111) | 1 | oldest version available, 2017-01-01 |
+| `855-2/` | Interkantonale Vereinbarung für soziale Einrichtungen (SGS 855.2) | 1 | oldest version available, 2020-06-01 |
+| `901-12/` | Regierungsratsbeschluss betreffend Ruhegehalt der Hebammen (SGS 901.12) | 1 | oldest version available, 1959-04-07 |
+| `902-121/` | Weisung zu den nicht subventionsberechtigten konservierenden Behandlungen (Negativliste) in der Kinder- und Jugendzahnpflege (SGS 902.121) | 1 | oldest version available, 1997-08-11 |
+| `904-12/` | Vertrag über die Kremation von Leichen aus dem Kanton Basel-Landschaft und die Abdankung im Krematorium der Stadt Basel (SGS 904.12) | 1 | oldest version available, 1975-01-28 |
+| `906-111/` | Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über das Krebsregister beider Basel (SGS 906.111) | 1 | oldest version available, 2019-01-01 |
+| `915-111/` | Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft bei der Gewährung von Ausbildungsbeiträgen im Pflegebereich (SGS 915.111) | 1 | oldest version available, 2024-10-22 |
+| `921-91/` | Vertrag zwischen der Rennbahnklinik in Muttenz und dem Ver­band Basellandschaftlicher Krankenkassen (SGS 921.91) | 1 | oldest version available, 1981-07-01 |
+| `923/` | Regierungsratsbeschluss betreffend die Tarife der ärzt­lichen Leistungen und der Arzneien für die Behandlung der bei der Schweizerischen Unfallversicherungs­anstalt Versicherten (SGS 923) | 1 | oldest version available, 1916-09-14 |
+| `923-11/` | Vereinbarung über den Taxpunktwert (SGS 923.11) | 1 | oldest version available, 1982-10-01 |
+| `926-21/` | Vereinbarung über den Taxpunktwert (SGS 926.21) | 1 | oldest version available, 2000-01-01 |
+| `928-11/` | Vertrag zwischen der Schweizerischen Zahnärzte-Gesellschaft und der Union Schweizerischer Krankenkassenverbände (SGS 928.11) | 1 | oldest version available, 1979-01-01 |
+| `928-13/` | Vereinbarung zwischen der Schweizerischen Zahnärztegesellschaft (SSO) und dem Konkordat der Schweizerischen Krankenkassen (KSK) über den Taxpunktwert (SGS 928.13) | 1 | oldest version available, 1991-05-15 |
+| `930-001/` | Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft betreffend Planung, Regulation und Aufsicht in der Gesundheitsversorgung (SGS 930.001) | 1 | oldest version available, 2019-07-01 |
+| `930-1/` | Dekret über die Betriebsstandorte des Kantonsspitals Baselland (KSBL) (SGS 930.1) | 1 | oldest version available, 2021-01-01 |
+| `930-131/` | Vertrag für halbprivatversicherte Patientinnen und Patienten (SGS 930.131) | 1 | oldest version available, 1998-01-01 |
+| `930-132/` | Vertrag für die ambulante Behandlung (SGS 930.132) | 1 | oldest version available, 2006-01-01 |
+| `930-133/` | Vertrag für die stationäre Behandlung von grundversicherten Patienten (SGS 930.133) | 1 | oldest version available, 2008-01-01 |
+| `930-134/` | Vertrag für die Physio- und Ergotherapie, Logopädie und Ernährungsberatung (SGS 930.134) | 1 | oldest version available, 2002-01-01 |
+| `932-4/` | Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über das Universitäts-Kinderspital beider Basel (SGS 932.4) | 1 | oldest version available, 2013-01-01 |
+| `932-41/` | Statuten des Universitäts-Kinderspitals beider Basel (SGS 932.41) | 1 | oldest version available, 2004-02-06 |
+| `934-13/` | Vereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Basel-Stadt über die gegenseitige Benützung von Einrichtungen des koordinierten Sanitätsdienstes (SGS 934.13) | 1 | oldest version available, 1978-02-01 |
+| `934-400/` | Vereinbarung über die Aufnahme von Patientinnen und Patienten aus dem Kanton Basel-Landschaft in die Chrischonaklinik (SGS 934.400) | 1 | oldest version available, 2009-01-01 |
+| `941-11/` | Altersbetreuungs- und Pflegeverordnung (SGS 941.11) | 1 | oldest version available, 2026-01-01 |
+| `941-14/` | Vertrag betreffend Leistungen und Tarife bei Aufenthalt im Pflegeheim im Rahmen der obligatorischen Krankenpflegeversicherung KVG (SGS 941.14) | 1 | oldest version available, 2008-01-01 |
+| `951-5/` | Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates (SGS 951.5) | 1 | oldest version available, 2003-07-16 |
+| `953-1/` | Dekret über die Betäubungsmittel (SGS 953.1) | 1 | oldest version available, 2015-01-01 |
+| `963-13/` | Vertrag zwischen der Sanitätsdirektion des Kantons Basel-Landschaft und dem Erziehungsdepartement des Kantons Basel-Stadt betreffend Überlassung von Leichen an die normal-anatomische Anstalt der Universität Basel (SGS 963.13) | 1 | oldest version available, 1948-09-15 |
+| `973-111/` | Konvention über das nationale Fremdstoffuntersuchungsprogramm (SGS 973.111) | 1 | oldest version available, 2020-01-01 |
+| `980-112/` | Vereinbarung betreffend den Einsatz der Seuchenwehr des Kantons Basel-Landschaft zur Ereignisbewältigung bei Tierseuchen auf dem Gebiet des Kantons Basel-Stadt (SGS 980.112) | 1 | oldest version available, 2013-05-21 |
 
 ## Source
 

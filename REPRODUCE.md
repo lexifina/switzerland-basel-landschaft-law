@@ -622,20 +622,266 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `971-11-gebuhrenverordnung-labor-und-inspektorate` | Verordnung über die Gebühren des Amts für Lebensmittelsicherheit und Veterinärwesen im Bereich Labor und Inspektorate | 2 | 2006-02-01 to 2026-01-01 |
 | `972-11-lebensmittelverordnung` | Verordnung über den Vollzug der Bundesgesetzgebung über Lebensmittel und Gebrauchsgegenstände | 1 | 2004-07-01 to 2004-07-01 |
 | `980-11` | Verordnung über die Tierseuchenbekämpfung | 3 | 2010-02-01 to 2024-01-01 |
+| `454-1` | Dekret über die Gebühren für Gewässernutzungen | 1 | 2005-01-01 to 2005-01-01 |
+| `456` | Landratsbeschluss betreffend die Fortleitung von Frischwasser aus der Hard (erste Etappe) Genehmigung des generellen Projektes | 1 | 1961-05-18 to 1961-05-18 |
+| `250` | Einführungsgesetz zur Schweizerischen Strafprozessordnung | 1 | 2022-01-01 to 2022-01-01 |
+| `250-1` | Dekret zum Einführungsgesetz zur Schweizerischen Strafprozessordnung | 1 | 2024-01-01 to 2024-01-01 |
+| `252-111` | Vertrag über die Opferberatungsstellen beider Basel | 1 | 2009-01-01 to 2009-01-01 |
+| `719-1` | Vereinbarung über die Polizeitätigkeit auf der Autobahn N 2 | 1 | 1986-01-01 to 1986-01-01 |
+| `719-21` | Vereinbarung zwischen den Kantonen Basel-Landschaft und Aargau über die Polizeitätigkeit auf den Autobahnen A2 und A3 | 1 | 1996-11-01 to 1996-11-01 |
+| `719-31` | Vereinbarung über die grenzüberschreitende polizeiliche Zusammenarbeit in den Kantonen Basel-Stadt und Basel-Landschaft | 1 | 2018-01-01 to 2018-01-01 |
+| `719-411` | Vereinbarung über die Bikantonale Geschäftsstelle Eventverkehr St. Jakob | 1 | 2022-06-14 to 2022-06-14 |
+| `915-111` | Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft bei der Gewährung von Ausbildungsbeiträgen im Pflegebereich | 1 | 2024-10-22 to 2024-10-22 |
+| `683-21` | Vertrag zwischen dem Kaufmännischen Verband Baselland und dem Kanton Basel-Landschaft über die Führung der Schulen des Kaufmännischen Verbands Baselland | 1 | 2023-01-01 to 2023-01-01 |
+| `111-11` | Anmeldungs- und Registerverordnung | 1 | 2026-07-01 to 2026-07-01 |
+| `113-112` | Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft bei der Erfassung von biometrischen Daten für Schweizerpässe | 1 | 2020-07-01 to 2020-07-01 |
+| `664-1` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft der Universität Basel | 1 | 2022-01-01 to 2022-01-01 |
+| `664-12` | Vereinbarung über das Immobilienwesen der Universität Basel | 1 | 2022-01-01 to 2022-01-01 |
+| `664-155` | Stiftungsstatut der Stiftung Volkshochschule und Senioren-Universität beider Basel (VHS BB) | 1 | 2002-09-25 to 2002-09-25 |
+| `664-3` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 1 | 2022-01-01 to 2022-01-01 |
+| `361-12` | Vereinbarung über Beiträge an das Ausbildungszentrum für das Strafvollzugspersonal | 1 | 1980-12-18 to 1980-12-18 |
+| `362-1` | Dekret über die Einkommensobergrenzen und den Prozentanteil in der Prämienverbilligung | 1 | 2014-01-01 to 2014-01-01 |
+| `365-13` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2013-03-01 to 2013-03-01 |
+| `365-511` | Weisung über die Staatsbeiträge an die Fortbildungskurse für Lehrer an den basellandschaftlichen Volksschulen und Kindergärten | 1 | 1987-02-10 to 1987-02-10 |
+| `365-515` | Vereinbarung über die Abgeltung der unterrichtsbezogenen Dienst­leistungen zugunsten der Schulen des Kantons Basel-Landschaft | 1 | 1994-01-01 to 1994-01-01 |
+| `366-15` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung kultureller Zentrumsleistungen | 1 | 2022-01-01 to 2022-01-01 |
+| `490-1` | Dekret zum Energiegesetz | 1 | 2024-10-01 to 2024-10-01 |
+| `493` | Verleihung für die Errichtung einer Wasserkraftanlage im Rhein bei Birsfelden | 1 | 1951-01-01 to 1951-01-01 |
+| `493-1` | Verleihung für die Erweiterung der Wassernutzung des Rheins beim Kraftwerk Birsfelden | 1 | 1963-05-15 to 1963-05-15 |
+| `493-21` | Vertrag zwischen dem Kanton Basel-Landschaft und dem Kanton Basel-Stadt betreffend Gründung einer Aktiengesellschaft zum Bau und Betrieb einer Wasserkraftanlage bei Birsfelden | 1 | 1950-09-01 to 1950-09-01 |
+| `494` | Vereinbarung zwischen den Kantonen Basel-Landschaft (BL) und Basel-Stadt (BS) betreffend die Berechnung des Wasserzinses des Kraftwerkes Augst an den Kanton BL und des Wasserzinses des Kraftwerks Birsfelden an die Kantone BS und BL | 1 | 1973-10-16 to 1973-10-16 |
+| `495` | Regierungsratsbeschluss betreffend Vollzug des Artikels 44 des Bundesgesetzes betreffend die elektrischen Schwach- und Starkstromanlagen | 1 | 1903-02-01 to 1903-02-01 |
+| `371-1` | Dekret über die Festsetzung des Zertifikats- und Dotationskapitals der Basellandschaftlichen Kantonalbank | 1 | 2008-11-01 to 2008-11-01 |
+| `141-11` | Geschäftsordnung des Regierungsrates | 1 | 2021-07-01 to 2021-07-01 |
+| `242` | Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung | 1 | 2022-01-01 to 2022-01-01 |
+| `212-31` | Normalarbeitsvertrag für landwirtschaftliche Arbeitsverhältnisse im Kanton Basel-Landschaft | 1 | 2020-01-01 to 2020-01-01 |
+| `212-35` | Normalarbeitsvertrag für die wohngemeinschaftliche Betreuung | 1 | 2025-01-01 to 2025-01-01 |
+| `516-34` | Vereinbarung über die Zusammenarbeit zwischen dem Kanton Solothurn und dem Kanton Basel-Landschaft betreffend den Vollzug von Massnahmen im Rebbau | 1 | 2008-01-01 to 2008-01-01 |
+| `791-21` | Regierungsratsbeschluss betreffend die Anlegung und Inventarisierung von lokalen Sammlun­gen von Altertümern durch Gemeinden, öffent­lich-rechtliche Korpora­tio­nen, wissen­schaftliche Vereini­gungen und private Personen | 1 | 1937-10-02 to 1937-10-02 |
+| `615-111` | Vereinbarung über eine gemeinsame Tierversuchskommission der Kantone Basel-Stadt, Basel-Landschaft und Aargau | 1 | 1998-01-01 to 1998-01-01 |
+| `480-1` | Vereinbarung über die Basler Verkehrs-Betriebe und die BLT Baselland Transport AG | 1 | 1995-01-01 to 1995-01-01 |
+| `480-111` | Vereinbarung über die Beitragsleistung an Fahrten von mobilitätseingeschränkten Personen | 1 | 2016-01-01 to 2016-01-01 |
+| `481-5` | Vereinbarung betreffend die Motorfahrzeugprüfstation beider Basel | 1 | 1979-01-09 to 1979-01-09 |
+| `481-51` | Vereinbarung über die Gebühren der Motorfahrzeugprüfstation beider Basel | 1 | 2024-10-01 to 2024-10-01 |
+| `481-52` | Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau über die Durchführung der amtlichen Nachkontrollen von Fahrzeugen | 1 | 1997-07-01 to 1997-07-01 |
+| `483-1` | Dekret über das Angebot im regionalen Personenverkehr | 1 | 2020-10-02 to 2020-10-02 |
+| `486-1` | Dekret betreffend die kantonale Zuständigkeitsordnung zum Eidg. Luftfahrtgesetz | 1 | 2015-01-01 to 2015-01-01 |
+| `486-21` | Vereinbarung betreffend Zusammenarbeit bei der Wahrung der schweizerischen Interessen auf dem binationalen Flughafen Basel-Mülhausen | 1 | 1998-06-11 to 1998-06-11 |
+| `486-31` | Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Fluglärmkommission und die Ombudsstelle für Fluglärmklagen | 1 | 2011-07-01 to 2011-07-01 |
+| `487` | Interkantonale Vereinbarung zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau in Rheinschiffahrts- und Hafenangelegenheiten | 1 | 1997-01-01 to 1997-01-01 |
+| `157-31` | Weisung zur Gleichstellung von Frau und Mann in der kantonalen Verwaltung | 1 | 2021-01-01 to 2021-01-01 |
+| `980-112` | Vereinbarung betreffend den Einsatz der Seuchenwehr des Kantons Basel-Landschaft zur Ereignisbewältigung bei Tierseuchen auf dem Gebiet des Kantons Basel-Stadt | 1 | 2013-05-21 to 2013-05-21 |
+| `921-91` | Vertrag zwischen der Rennbahnklinik in Muttenz und dem Ver­band Basellandschaftlicher Krankenkassen | 1 | 1981-07-01 to 1981-07-01 |
+| `923` | Regierungsratsbeschluss betreffend die Tarife der ärzt­lichen Leistungen und der Arzneien für die Behandlung der bei der Schweizerischen Unfallversicherungs­anstalt Versicherten | 1 | 1916-09-14 to 1916-09-14 |
+| `923-11` | Vereinbarung über den Taxpunktwert | 1 | 1982-10-01 to 1982-10-01 |
+| `926-21` | Vereinbarung über den Taxpunktwert | 1 | 2000-01-01 to 2000-01-01 |
+| `928-11` | Vertrag zwischen der Schweizerischen Zahnärzte-Gesellschaft und der Union Schweizerischer Krankenkassenverbände | 1 | 1979-01-01 to 1979-01-01 |
+| `928-13` | Vereinbarung zwischen der Schweizerischen Zahnärztegesellschaft (SSO) und dem Konkordat der Schweizerischen Krankenkassen (KSK) über den Taxpunktwert | 1 | 1991-05-15 to 1991-05-15 |
+| `145-11` | Dienstordnung der Sicherheitsdirektion | 1 | 2026-07-01 to 2026-07-01 |
+| `145-37` | Vereinbarung über die interkantonalen Polizeieinsätze | 1 | 2006-11-09 to 2006-11-09 |
+| `837-31` | Vereinbarung der Kantone Basel-Landschaft und Solothurn über die Abtretung von Aufgaben aus dem AVIG-Vollzug vom Kanton Solothurn an den Kanton Basel-Landschaft | 1 | 2004-01-01 to 2004-01-01 |
+| `510-13` | Vereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Basel-Stadt betreffend den Vollzug des eidgenössischen Landwirtschaftsrechtes | 1 | 2020-01-01 to 2020-01-01 |
+| `700-12` | Konkordat über die polizeiliche Zusammenarbeit in der Nordwestschweiz | 1 | 1996-05-15 to 1996-05-15 |
+| `700-13` | Konkordat über Errichtung und Betrieb einer interkantonalen Polizeischule Hitzkirch | 1 | 2004-12-08 to 2004-12-08 |
+| `700-14` | Interkantonale Vereinbarung (bzw. Konkordat) über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten | 1 | 2011-07-01 to 2011-07-01 |
+| `700-15` | Vereinbarung zur Harmonisierung der Polizeiinformatik in der Schweiz | 1 | 2012-05-31 to 2012-05-31 |
+| `700-16` | Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität | 1 | 2019-12-11 to 2019-12-11 |
+| `700-17` | Vereinbarung zwischen dem Bund und den Kantonen über die Harmonisierung und die gemeinsame Bereitstellung der Polizeitechnik und -informatik in der Schweiz | 1 | 2021-01-01 to 2021-01-01 |
+| `700-18` | Vereinbarung zwischen den Kantonen und dem Bund über die Harmonisierung der Informatik in der Strafjustiz | 1 | 2025-07-01 to 2025-07-01 |
+| `702-14` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2010-01-01 to 2010-01-01 |
+| `311-111` | Pflichtenheft des Begleitausschusses Finanzkontrolle | 1 | 2019-09-25 to 2019-09-25 |
+| `822-12` | Weisungen betreffend die Beschäftigung von Jugendlichen unter 15 Jahren für Arbeiten im Walde | 1 | 1967-09-12 to 1967-09-12 |
+| `824-1` | Dekret zum Bundesgesetz über die Heimarbeit | 1 | 2011-01-01 to 2011-01-01 |
+| `142-11` | Dienstordnung der Finanz- und Kirchendirektion | 1 | 2026-04-01 to 2026-04-01 |
+| `261-2` | Konkordat der Kantone der Nordwest- und Innerschweiz über den Vollzug von Strafen und Massnahmen | 1 | 2008-01-01 to 2008-01-01 |
+| `265-111` | Übereinkunft betreffend die Polizeitransporte | 1 | 1980-01-01 to 1980-01-01 |
+| `782-2` | Dekret über den Generellen Entwässerungsplan | 1 | 1997-01-01 to 1997-01-01 |
+| `783-21` | Vertrag über die Ableitung der Abwässer des basellandschaftlichen Gebietes von Olsberg, Gemeinde Arisdorf, in die Abwasserreinigungsanlage Olsberg AG | 1 | 1971-12-17 to 1971-12-17 |
+| `783-22` | Vereinbarung über die Durchleitung von Abwässern aus den basellandschaftlichen Gemeinden Arisdorf, Giebenach und Augst durch die aargauische Gemeinde Kaiseraugst sowie die Ableitung der Abwässer der Gemeinde Kaiseraugst in die basellandschaftliche Abwasserreinigungsanlage (ARA) Rhein, Pratteln | 1 | 1988-09-21 to 1988-09-21 |
+| `783-31` | Vertrag zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft betreffend die gemeinsame Durchführung von Gewässer­schutzmassnahmen | 1 | 1975-09-02 to 1975-09-02 |
+| `783-32` | Vertrag zwischen 1. Kanton Basel-Stadt, vertreten durch den Regierungsrat, der Regierungsrat gleichzeitig handelnd für die Einwohnergemeinde der Stadt Basel; 2. Kanton Basel-Landschaft, vertreten durch den Regierungsrat; 3. Ciba-Geigy AG, in Basel; 4. F. Hoffmann-La Roche & Co. AG, in Basel; 5. Sandoz AG, in Basel; betreffend gemeinsame Durchführung von Gewässerschutzmassnahmen | 1 | 1980-09-01 to 1980-09-01 |
+| `783-33` | Vertrag betreffend den gemeinsamen Betrieb von Abwasserreinigungsanlagen | 1 | 2007-01-01 to 2007-01-01 |
+| `783-51` | Vereinbarung über die Ableitung von Abwässern aus den Gemeinden Hofstetten-Flüh, Metzerlen-Mariastein (nur Dorfteil Mariastein), Bättwil und Witterswil des Abwasserverbandes Leimental SO in die neue Abwasserreinigungsanlage Birsig in Therwil. | 1 | 1991-12-03 to 1991-12-03 |
+| `783-52` | Vertrag zwischen dem Kanton Basel-Landschaft, vertreten durch den Regierungsrat, und der Einwohnergemeinde Holderbank (SO), vertreten durch den Gemeinderat, über die gemeinsame Durchführung der Abwassersanierung für Langenbruck (BL) und Holderbank (SO) | 1 | 1977-10-17 to 1977-10-17 |
+| `783-53` | Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Dornach und deren Reinigung in den basellandschaftlichen Abwasserreinigungsanlagen Birs 1 und Birs 2 (ARA Birs 1 und ARA Birs 2) | 1 | 2004-01-01 to 2004-01-01 |
+| `783-54` | Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Gempen und deren Reinigung in den basellandschaftlichen Abwasserreinigungsanlagen Birs 1 und Birs 2 (ARA Birs 1 und ARA Birs 2) | 1 | 2004-01-01 to 2004-01-01 |
+| `783-55` | Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Hochwald und deren Reinigung in den basellandschaftlichen Abwasserreinigungsanlagen Birs 1 und Birs 2 | 1 | 2004-01-01 to 2004-01-01 |
+| `783-56` | Vertrag über die Ableitung der Abwässer der Einwohnergemeinde Nuglar-St. Pantaleon (Ortsteile St. Pantaleon, Neu-Nuglar und Orismühle) und deren Reinigung in der basellandschaftlichen Abwasserreinigungsanlage Ergolz 2 (ARA Ergolz 2) | 1 | 2006-01-01 to 2006-01-01 |
+| `784-9` | Vereinbarung zwischen den Kantonen Basel-Stadt und Basel-Landschaft über die Annahme von Abfällen in der Kehrichtverwertungsanlage Basel und der Deponie Elbisgraben | 1 | 2019-10-01 to 2019-10-01 |
+| `786-131` | Vereinbarung über die Kontrolle der Industriefeuerungen | 1 | 1988-02-24 to 1988-02-24 |
+| `901-12` | Regierungsratsbeschluss betreffend Ruhegehalt der Hebammen | 1 | 1959-04-07 to 1959-04-07 |
+| `902-121` | Weisung zu den nicht subventionsberechtigten konservierenden Behandlungen (Negativliste) in der Kinder- und Jugendzahnpflege | 1 | 1997-08-11 to 1997-08-11 |
+| `904-12` | Vertrag über die Kremation von Leichen aus dem Kanton Basel-Landschaft und die Abdankung im Krematorium der Stadt Basel | 1 | 1975-01-28 to 1975-01-28 |
+| `906-111` | Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über das Krebsregister beider Basel | 1 | 2019-01-01 to 2019-01-01 |
+| `143-12` | Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion | 1 | 2026-06-01 to 2026-06-01 |
+| `523-12` | Regierungsratsbeschluss betreffend die Reservationsgebiete in der Gemeinde Augst, Zone Kraftwerk-Stausee und Ergolz | 1 | 1960-01-12 to 1960-01-12 |
+| `523-13` | Regierungsratsbeschluss betreffend Natur-, Jagd- und Vogelschutzreservat im Rutschgebiet unter der Fluh (Parzelle 988 im Büchlihau), Gemeinde Füllinsdorf | 1 | 1960-02-16 to 1960-02-16 |
+| `523-14` | Regierungsratsbeschluss betreffend Schaffung eines Vogelschutzreservates in der Gemeinde Muttenz | 1 | 1960-03-01 to 1960-03-01 |
+| `523-15` | Regierungsratsbeschluss betreffend Schaffung eines Naturschutzreservates an der Birs in der Gemeinde Münchenstein | 1 | 1960-03-22 to 1960-03-22 |
+| `761-1` | Dekret über die Sorgfaltspflicht bei Feuerungsanlagen | 1 | 2018-01-01 to 2018-01-01 |
+| `930-001` | Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft betreffend Planung, Regulation und Aufsicht in der Gesundheitsversorgung | 1 | 2019-07-01 to 2019-07-01 |
+| `930-1` | Dekret über die Betriebsstandorte des Kantonsspitals Baselland (KSBL) | 1 | 2021-01-01 to 2021-01-01 |
+| `930-131` | Vertrag für halbprivatversicherte Patientinnen und Patienten | 1 | 1998-01-01 to 1998-01-01 |
+| `930-132` | Vertrag für die ambulante Behandlung | 1 | 2006-01-01 to 2006-01-01 |
+| `930-133` | Vertrag für die stationäre Behandlung von grundversicherten Patienten | 1 | 2008-01-01 to 2008-01-01 |
+| `930-134` | Vertrag für die Physio- und Ergotherapie, Logopädie und Ernährungsberatung | 1 | 2002-01-01 to 2002-01-01 |
+| `932-4` | Staatsvertrag zwischen den Kantonen Basel-Stadt und Basel-Landschaft über das Universitäts-Kinderspital beider Basel | 1 | 2013-01-01 to 2013-01-01 |
+| `932-41` | Statuten des Universitäts-Kinderspitals beider Basel | 1 | 2004-02-06 to 2004-02-06 |
+| `934-13` | Vereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Basel-Stadt über die gegenseitige Benützung von Einrichtungen des koordinierten Sanitätsdienstes | 1 | 1978-02-01 to 1978-02-01 |
+| `934-400` | Vereinbarung über die Aufnahme von Patientinnen und Patienten aus dem Kanton Basel-Landschaft in die Chrischonaklinik | 1 | 2009-01-01 to 2009-01-01 |
+| `792-1` | Vertrag über die Römerstadt Augusta Raurica | 1 | 2026-01-01 to 2026-01-01 |
+| `681-22` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung | 1 | 2007-08-01 to 2007-08-01 |
+| `131-1` | Dekret zum Gesetz über die Organisation und die Geschäftsführung des Landrats | 1 | 2026-01-01 to 2026-01-01 |
+| `131-2` | Landratsbeschluss betreffend die Ausübung des Begnadigungsrechtes | 1 | 1971-07-01 to 1971-07-01 |
+| `131-9` | Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz | 1 | 2023-02-25 to 2023-02-25 |
+| `643-12` | Vertrag über das Regionale Gymnasium Laufental-Thierstein | 1 | 2014-08-01 to 2014-08-01 |
+| `855-2` | Interkantonale Vereinbarung für soziale Einrichtungen | 1 | 2020-06-01 to 2020-06-01 |
+| `420` | Einführungsgesetz zur interkantonalen Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2024-01-01 to 2024-01-01 |
+| `420-001` | Pflichtenheft des Beirats für das öffentliche Beschaffungswesen | 1 | 2024-01-01 to 2024-01-01 |
+| `420-12` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2003-01-01 to 2003-01-01 |
+| `420-121` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2021-07-01 to 2021-07-01 |
+| `421-1` | Staatsvertrag über die Zusammenlegung der Rheinschifffahrtsdirektion Basel und der Rheinhäfen des Kantons Basel-Landschaft zu einer Anstalt öffentlichen Rechts mit eigener Rechtspersönlichkeit unter dem Namen «Schweizerische Rheinhäfen» («Ports Rhénans Suisses», «Swiss Rhine Ports») | 1 | 2008-01-01 to 2008-01-01 |
+| `421-13` | Hafenordnung für die Rheinhäfen beider Basel | 1 | 2011-01-01 to 2011-01-01 |
+| `421-17` | Gebührentarif der Schweizerischen Rheinhäfen | 1 | 2017-01-01 to 2017-01-01 |
+| `402` | Regierungsratsbeschluss betreffend Bauten und Anlagen mit besonders starker Verkehrserzeugung | 1 | 1974-03-12 to 1974-03-12 |
+| `437` | Regierungsratsbeschluss betreffend Gebührenerhebung für Sondertransporte | 1 | 1976-07-01 to 1976-07-01 |
+| `941-11` | Altersbetreuungs- und Pflegeverordnung | 1 | 2026-01-01 to 2026-01-01 |
+| `941-14` | Vertrag betreffend Leistungen und Tarife bei Aufenthalt im Pflegeheim im Rahmen der obligatorischen Krankenpflegeversicherung KVG | 1 | 2008-01-01 to 2008-01-01 |
+| `662-2` | Interkantonale Fachhochschulvereinbarung (FHV) ab 2005 | 1 | 2005-10-01 to 2005-10-01 |
+| `662-5` | Dekret über die Arbeitsverhältnisse der Fachhochschulen | 1 | 2004-02-01 to 2004-02-01 |
+| `834-1` | Dekret über die berufliche Vorsorge durch die Basellandschaftliche Pensionskasse | 1 | 2019-01-01 to 2019-01-01 |
+| `834-3` | Dekret über die berufliche Vorsorge für Mitglieder des Regierungsrates und über die Lohnleistungen beim Ausscheiden aus dem Amt | 1 | 2015-01-01 to 2015-01-01 |
+| `834-400` | Ordnung über die berufliche Vorsorge | 1 | 2025-07-01 to 2025-07-01 |
+| `148-11` | Übereinkommen zwischen dem Schweizerischen Bundesrat, der Regierung der Bundesrepublik Deutschland, der Regierung der französischen Republik und der Regierung des Grossherzogtums Luxemburg über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen | 1 | 2004-07-02 to 2004-07-02 |
+| `148-12` | Vereinbarung zur Gründung des Oberrheinrates | 1 | 1997-12-16 to 1997-12-16 |
+| `221` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung | 1 | 2025-08-01 to 2025-08-01 |
+| `221-2` | Dekret zum Bundesgesetz betreffend die Arbeit in den Fabriken vom 18. Juni 1914 | 1 | 2011-01-01 to 2011-01-01 |
+| `649-1` | Konkordat über die Schulkoordination | 1 | 1970-12-14 to 1970-12-14 |
+| `649-11` | Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule | 1 | 2010-09-26 to 2010-09-26 |
+| `649-12` | Interkantonale Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik | 1 | 2011-01-01 to 2011-01-01 |
+| `649-2` | Regionales Schulabkommen über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen | 1 | 2026-08-01 to 2026-08-01 |
+| `649-22` | Vertrag zwischen den Kantonen Aargau, Basel-Landschaft, Basel-Stadt und Solothurn über die Fachhochschule Nordwestschweiz (FHNW) | 1 | 2012-01-01 to 2012-01-01 |
+| `649-222` | Vereinbarung zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Trennung der bikantonalen Verantwortung für die Rentnerinnen und Rentner der ehemaligen Fachhochschule beider Basel (FHBB) und der ehemaligen Hochschule für Pädagogik und Soziale Arbeit beider Basel (HPSA-BB) im Rahmen der Anschlussverhältnisse zur Basellandschaftlichen Pensionskasse (BLPK) und der Anschlussverträge zur Pensionskasse Basel-Stadt (PKBS) | 1 | 2011-01-01 to 2011-01-01 |
+| `649-6` | Interregionale Vereinbarung über Beiträge an ausseruniversitäre Bildungsanstalten im tertiären Bereich | 1 | 1994-08-01 to 1994-08-01 |
+| `649-611` | Interkantonale Fachschulvereinbarung | 1 | 2000-08-01 to 2000-08-01 |
+| `649-612` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2014-01-01 to 2014-01-01 |
+| `649-7` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 1 | 2014-09-01 to 2014-09-01 |
+| `649-71` | Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren (GDK) | 1 | 2009-05-14 to 2009-05-14 |
+| `649-711` | Anerkennungsreglemente der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) | 1 | 2012-09-01 to 2012-09-01 |
+| `649-911` | Vereinbarung zwischen der Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft und dem Erziehungsdepartement des Kantons Jura über den Besuch des fremdsprachigen zehnten Schuljahres durch Schülerinnen und Schüler aus den Vereinbarungskantonen | 1 | 2001-08-01 to 2001-08-01 |
+| `649-912` | Vereinbarung zwischen dem Kanton Basel-Landschaft und dem Kanton Jura über den gemeinsamen gymnasialen bilingualen Bildungsgang am Regionalen Gymnasium Laufental-Thierstein in Laufen und am Lycée cantonal in Porrentruy | 1 | 2017-08-01 to 2017-08-01 |
+| `601-115` | Tarifordnung Archäologie und Museum Basel-Landschaft | 1 | 2013-01-01 to 2013-01-01 |
+| `601-116` | Tarifordnung Römerstadt Augusta Raurica | 1 | 2013-01-01 to 2013-01-01 |
+| `604-111` | Tarifordnung für die Kantonsbibliothek Baselland | 1 | 2024-10-08 to 2024-10-08 |
+| `515-12` | Weisungen des Regierungsrates betreffend Schätzungen und Bewertungen sowie Restkostenverteilung bei Felderregulierungen (Gesamtmeliorationen) | 1 | 2013-07-01 to 2013-07-01 |
+| `684-12` | Vertrag zwischen aprentas und dem Kanton Basel-Landschaft über die Führung einer Berufsfachschule | 1 | 2014-07-01 to 2014-07-01 |
+| `665-1` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Trägerschaft des Schweizerischen Tropen- und Public Health-Instituts | 1 | 2017-01-01 to 2017-01-01 |
+| `645-1` | Dekret über die Unterstellung der nicht mehr schulpflichtigen Schüler und Lehrlinge unter den gesundheitlichen Dienst | 1 | 1997-08-11 to 1997-08-11 |
+| `640-111` | Lehrpläne der Schulen des Kantons Basel-Landschaft | 1 | 2002-09-18 to 2002-09-18 |
+| `191-1` | Kirchendekret | 1 | 2007-01-01 to 2007-01-01 |
+| `191-11` | Regierungsratsbeschluss betreffend die Zugehörigkeit der Kantonseinwohner zu den drei Landeskirchen des Kantons Basel-Landschaft | 1 | 1950-12-01 to 1950-12-01 |
+| `191-12` | Regierungsratsbeschluss betreffend die Wahl der Pfarrer in den drei Landeskirchen des Kantons Basel-Landschaft | 1 | 1957-07-23 to 1957-07-23 |
+| `191-2` | Dekret über die Stiftung Kirchengut | 1 | 2020-01-01 to 2020-01-01 |
+| `192-111` | Vereinbarung zwischen der Evangelisch-reformierten, der Römisch-katholischen und der Christkatholischen Landeskirche des Kantons Basel-Landschaft betreffend die Erhebung der Kirchensteuern bei konfessionell gemischten Familien und eingetragenen Partnerschaften | 1 | 2007-01-01 to 2007-01-01 |
+| `194` | Verfassung der Evangelisch-reformierten Kirche des Kantons Basel-Landschaft | 1 | 2022-01-01 to 2022-01-01 |
+| `194-1` | Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst | 1 | 2004-01-01 to 2004-01-01 |
+| `195-1` | Vereinigungs-Urkunde | 1 | 1815-11-07 to 1815-11-07 |
+| `195-2` | Übereinkunft wegen der Wiederherstel­lung und neuen Umschrei­bung des Bist­hums Basel | 1 | 1828-03-26 to 1828-03-26 |
+| `195-3` | Übereinkunft zwischen den hohen Ständen Lucern, Bern, Solothurn und Zug für die Organisation des Bisthums Basel | 1 | 1828-03-26 to 1828-03-26 |
+| `195-4` | Bulle des Papstes Leo XII. "Inter praecipua" vom 7. Mai 1828 betreffend Wiederherstellung und Reorganisation des Bistums Basel | 1 | 1828-05-07 to 1828-05-07 |
+| `195-5` | Beitritts-Erklärung zu dem neu organisirten Bisthum Basel | 1 | 1829-10-06 to 1829-10-06 |
+| `195-6` | Konkordat betreffend die Verhältnisse und Rechte des Staates in Kirchensachen | 1 | 1834-05-30 to 1834-05-30 |
+| `196` | Verfassung der Römisch-katholischen Landeskirche des Kantons Basel-Landschaft | 1 | 2025-01-01 to 2025-01-01 |
+| `197` | Verfassung der Christkatholischen Landeskirche des Kantons Basel-Landschaft | 1 | 1984-01-01 to 1984-01-01 |
+| `350-1` | Dekret zum Gebäudeversicherungsgesetz Basel-Landschaft | 1 | 2023-01-01 to 2023-01-01 |
+| `149-01` | Vereinbarung zwischen dem Kanton Basel-Stadt und dem Kanton Basel-Landschaft über die Zusammenarbeit der Behörden | 1 | 2012-01-01 to 2012-01-01 |
+| `149-10` | Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz | 1 | 2014-01-01 to 2014-01-01 |
+| `149-11` | Interkantonale Vereinbarung über die hochspezialisierte Medizin | 1 | 2009-01-01 to 2009-01-01 |
+| `149-21` | Vereinbarung über die Konferenz der Kantonsregierungen | 1 | 1993-10-08 to 1993-10-08 |
+| `149-41` | Vereinbarung über die Nordwestschweizer Regierungskonferenz | 1 | 2025-07-01 to 2025-07-01 |
+| `149-5` | Vereinbarung über die Organisation und die Führung der Regionalplanung beider Basel | 1 | 2004-07-01 to 2004-07-01 |
+| `149-61` | Vereinbarung über die Zusammenarbeit der Kantone Basel-Stadt und Basel-Landschaft in der projektorientierten Kunst- und Kulturförderung | 1 | 2024-07-01 to 2024-07-01 |
+| `149-72` | Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe | 1 | 2010-08-02 to 2010-08-02 |
+| `149-91` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2007-05-11 to 2007-05-11 |
+| `149-95` | Vereinbarung der Kantone Basel-Landschaft und Bern über den Vollzug der Bundesgesetzgebung über das Bergführerwesen und Anbieten weiterer Risikoaktivitäten | 1 | 2014-01-01 to 2014-01-01 |
+| `660-1` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-01-01 to 2015-01-01 |
+| `642-1` | Dekret über die Sekundarschulkreise und Sekundarschulstandorte | 1 | 2024-08-01 to 2024-08-01 |
+| `951-5` | Vereinbarung der nordwestschweizerischen Kantone über die Führung eines regionalen Heilmittelinspektorates | 1 | 2003-07-16 to 2003-07-16 |
+| `953-1` | Dekret über die Betäubungsmittel | 1 | 2015-01-01 to 2015-01-01 |
+| `853-111` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Nutzung und Abgeltung ambulanter Angebote der Behindertenhilfe und allfälliger Folgekosten | 1 | 2017-01-01 to 2017-01-01 |
+| `562-1` | Dekret betreffend das Verfahren bei Gewährleistung im Viehhandel | 1 | 2011-01-01 to 2011-01-01 |
+| `562-3` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2003-02-04 to 2003-02-04 |
+| `566-1` | Dekret über explosionsgefährliche Stoffe | 1 | 2015-01-01 to 2015-01-01 |
+| `180-12` | Regierungsratsbeschluss betreffend die Wappen der basellandschaftlichen Gemeinden | 1 | 1952-11-06 to 1952-11-06 |
+| `189-1` | Dekret über die Umsetzung NFA und die Lastenverteilung auf Kanton und Gemeinden | 1 | 2008-01-01 to 2008-01-01 |
+| `271` | Gesetz über die Verfassungs- und Verwaltungsprozessordnung | 1 | 2024-01-01 to 2024-01-01 |
+| `170-1` | Dekret zum Gesetz über die Organisation der Gerichte | 1 | 2026-04-01 to 2026-04-01 |
+| `170-112` | Geschäfts- und Organisationsreglement der Gerichte des Kantons Basel-Landschaft | 1 | 2023-02-01 to 2023-02-01 |
+| `178-112` | Tarifordnung für die Anwältinnen und Anwälte | 1 | 2014-01-01 to 2014-01-01 |
+| `331-1` | Dekret zum Steuergesetz | 1 | 2011-04-01 to 2011-04-01 |
+| `331-15` | Regierungsratsbeschluss über die pauschale Steueranrechnung | 1 | 2005-01-01 to 2005-01-01 |
+| `331-19` | Vereinbarung zwischen dem Schweizerischen Bundesrat und der Regierung der Französischen Republik über die Besteuerung der Erwerbseinkünfte von Grenzgängern | 1 | 1986-12-18 to 1986-12-18 |
+| `331-2` | Dekret über den Steuerfuss | 1 | 2026-01-01 to 2026-01-01 |
+| `336-3` | Dekret zum Bundesgesetz über die Verrechnungssteuer | 1 | 2011-07-01 to 2011-07-01 |
+| `338-1` | Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen | 1 | 1949-10-06 to 1949-10-06 |
+| `338-11` | Gegenrechtsvereinbarungen über die Steuerbefreiung für Zuwendungen an gemeinnützige und wohltätige Einrichtungen | 1 | 2008-05-26 to 2008-05-26 |
+| `211-1` | Dekret über das Zivilstandswesen | 1 | 2018-07-01 to 2018-07-01 |
+| `211-2` | Vertrag über die BVG- und Stiftungsaufsicht beider Basel | 1 | 2012-01-01 to 2012-01-01 |
+| `211-201` | Ordnung über die Stiftungsaufsicht | 1 | 2023-01-01 to 2023-01-01 |
+| `211-5` | Dekret über die Kostentragung der amtlichen Vermessung | 1 | 2013-01-01 to 2013-01-01 |
+| `211-501` | Vertrag zwischen dem Bund und den Kantonen betreffend der Abgeltung und der Modalitäten des Austauschs von Geobasisdaten des Bundesrechts unter Behörden | 1 | 2016-10-01 to 2016-10-01 |
+| `543-3` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
+| `543-4` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
+| `543-41` | Zusatzvereinbarung zur Interkantonalen Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten vom 7.1.2005 (IVLW) | 1 | 2019-02-01 to 2019-02-01 |
+| `546-112` | Taxi-Tarifordnung | 1 | 2009-01-01 to 2009-01-01 |
+| `150-1` | Dekret zum Personalgesetz | 1 | 2026-08-01 to 2026-08-01 |
+| `530-5` | Übereinkunft betreffend die Ausübung des Fischfanges in den interkantonalen Fischgewässern von Holderbank (Kanton Solothurn) und Langen­bruck (Kanton Basel-Landschaft), dem Augstbach und dem Musbächlein, abgeschlossen zwischen dem Regierungsrat des Kantons Solothurn und dem Regierungsrat des Kan­tons Basel-Land­schaft | 1 | 1963-05-01 to 1963-05-01 |
+| `570-1` | Dekret über die Bewilligung für Veranstaltungen im Wald | 1 | 1999-01-01 to 1999-01-01 |
+| `571-12` | Vereinbarung über das Amt für Wald und Wild beider Basel (AfWW beider Basel) | 1 | 2025-01-01 to 2025-01-01 |
+| `973-111` | Konvention über das nationale Fremdstoffuntersuchungsprogramm | 1 | 2020-01-01 to 2020-01-01 |
+| `100-1` | Beschluss betreffend Bestimmung der basellandschaftlichen Kantonsfarbe | 1 | 1836-02-02 to 1836-02-02 |
+| `100-11` | Regierungsratsbeschluss betreffend die Bezeichnung des amtlichen Kantonswappens | 1 | 1948-03-09 to 1948-03-09 |
+| `101` | Vertrag über die Aufnahme des bernischen Amtsbezirks Laufen und seiner Gemeinden Blauen, Brislach, Burg im Leimen­tal, Dittingen, Duggin­gen, Grellingen, Laufen, Liesberg, Nenzlingen, Roggenburg, Röschenz, Wah­len, Zwingen in den Kanton Basel-Landschaft | 1 | 1994-01-01 to 1994-01-01 |
+| `102` | Vereinbarung über die Anpassung des Laufentalvertrages vom 10. Februar 1983 | 1 | 1994-01-01 to 1994-01-01 |
+| `147-11` | Dienstordnung der Landeskanzlei | 1 | 2024-11-25 to 2024-11-25 |
+| `146-11` | Dienstordnung der Bildungs-, Kultur- und Sportdirektion | 1 | 2026-08-01 to 2026-08-01 |
+| `836-1` | Dekret zum Bundesgesetz über die Unfallversicherung | 1 | 2015-01-01 to 2015-01-01 |
+| `381-2` | Vertrag zwischen dem Kanton Basel-Landschaft und der Schweizer Salinen AG über die Rechte an den Salzlagern und Solen im Kanton Basel-Landschaft | 1 | 2026-01-01 to 2026-01-01 |
+| `381-21` | Regierungsratsbeschluss betreffend die Verschmelzung der Saline Schweizerhalle mit den Aargauischen Salinen Rheinfelden und Ryburg | 1 | 1909-06-16 to 1909-06-16 |
+| `381-3` | Zusatzprotokoll zum Konzessionsvertrag vom 30. Oktober 1962 / 29. März 1963 | 1 | 1963-03-29 to 1963-03-29 |
+| `381-4` | Zusatz zum Konzessionsvertrag | 1 | 1976-01-01 to 1976-01-01 |
+| `381-51` | Regierungsratsbeschluss betreffend Schürfkonzession | 1 | 1974-09-03 to 1974-09-03 |
+| `381-6` | Zusatz zum Konzessionsvertrag | 1 | 1989-03-09 to 1989-03-09 |
+| `382-1` | Dekret zum Gesetz vom 7. Juni 1971 über das Salzregal | 1 | 2015-01-01 to 2015-01-01 |
+| `382-11` | Regierungsratsbeschluss betreffend die Festsetzung der Salzverkaufspreise | 1 | 1973-05-15 to 1973-05-15 |
+| `382-2` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `386-1` | Konzession zum Bau und Betrieb einer Eisenbahn von Liestal nach Waldenburg eventuell Langenbruck | 1 | 1870-04-19 to 1870-04-19 |
+| `386-2` | Landratsbeschluss betreffend die Benützung von Strassenterrain zum Bau und Betrieb einer Birsigtalbahn | 1 | 1975-01-01 to 1975-01-01 |
+| `386-3` | Landratsbeschluss betreffend Erteilung einer Bewilligung zur Benutzung öffentlicher Strassen an die BLT Baselland Transport AG für den Betrieb der Linie 10 | 1 | 1980-06-29 to 1980-06-29 |
+| `386-4` | Landratsbeschluss betreffend Erteilung einer Bewilligung zur Benützung öffentlicher Strassen an die BLT Baselland Transport AG für den Betrieb der Linie 11, Basel – Reinach – Aesch | 1 | 1984-01-01 to 1984-01-01 |
+| `386-5` | Landratsbeschluss betreffend Benützung von Strassenterrain zum Bau und Betrieb der basellandschaftlichen Überlandbahn Strecke St. Jakob–Muttenz | 1 | 1975-01-01 to 1975-01-01 |
+| `386-6` | Landratsbeschluss betreffend Erteilung der Bewilligung zur Benützung öffentlicher Strassen an den Kanton Basel-Stadt für den Betrieb von Stras­senbah­nen | 1 | 1971-07-01 to 1971-07-01 |
+| `233-1` | Konkordat über die Gewährung gegenseitiger Rechtshilfe zur Vollstreckung öffentlichrechtlicher Ansprüche | 1 | 1979-01-01 to 1979-01-01 |
+| `687-14` | Vertrag zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die Abgeltung der Kosten der nichtakademischen Berufsausbildungen im Gesundheitswesen auf Sekundarstufe II und auf Tertiärstufe | 1 | 2005-01-01 to 2005-01-01 |
+| `687-20` | Regionales Schulabkommen über die Finanzierung der Aus- und Weiterbildung für Gesundheitsberufe | 1 | 2001-01-01 to 2001-01-01 |
+| `144-12` | Dienstordnung der Bau- und Umweltschutzdirektion | 1 | 2026-01-01 to 2026-01-01 |
+| `144-211` | Pflichtenheft für die Aufgaben des Amts für Orts- und Regionalplanung im Rahmen der Schulplanung | 1 | 2022-01-01 to 2022-01-01 |
+| `144-221` | Weisung über die Energiesparmassnahmen in der kantonalen Verwaltung | 1 | 1978-01-01 to 1978-01-01 |
+| `963-13` | Vertrag zwischen der Sanitätsdirektion des Kantons Basel-Landschaft und dem Erziehungsdepartement des Kantons Basel-Stadt betreffend Überlassung von Leichen an die normal-anatomische Anstalt der Universität Basel | 1 | 1948-09-15 to 1948-09-15 |
 
-The build made 1361 commits:
+The build made 1607 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 608 | first version of an act |
+| 854 | first version of an act |
 | 753 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 3 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 32 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2075 laws in the record.
-- 2717 tags.
+- 2964 tags.
 
 ## Dates
 
@@ -647,13 +893,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9fb38914ff6b5e6e170c568cf3d153f856ec5667f82ec7d9404a5563c11812f5` (15139759 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `d4bfb7714a9c426effbb251506c55f8b3eac1eb45027cc2556e7d02c73d6e6af` (17879185 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1675 versions of 608 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -664,6 +910,7 @@ No second build of this corpus has been compared yet.
 - Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+- Single-file current texts from the canton's current XHTML; text-layer annexes, including SGS 649.711's enactment-title list, are extracted from the official annex PDFs. Publisher Vademecum, old-code copies, translations, and signed-copy reference attachments are excluded only when ancillary. SGS 715.111, 430.111, 530.6, and 934.12 are held for scan/OCR verification. The In-force day is the source's current-version 'in Kraft seit' date; first_law is null because earlier text is outside this breadth part.
 
 ## What AI did and did not do
 
@@ -675,3 +922,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the canton's own collection.
+- A model wrote extraction code; no law wording was written or corrected by a model.
