@@ -1,0 +1,33 @@
+# Ergänzungsleistungsgesetz zur AHV und IV
+
+SGS 833 · 6 versions, from 2011-01-01 (latest in force: 2024-01-01) · <https://bl.clex.ch/app/de/texts_of_law/833>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| § 1 | [art-001.md](art-001.md) | 1 | 2021-01-01 |
+| § 1a | [art-001a.md](art-001a.md) | 2 | 2018-01-01 |
+| § 2 | [art-002.md](art-002.md) | 0 |  |
+| § 2a | [art-002a.md](art-002a.md) | 2 | 2021-01-01 |
+| § 2abis | [art-002abis.md](art-002abis.md) | 2 | 2021-01-01 |
+| § 2aquater | [art-002aquater.md](art-002aquater.md) | 1 | 2018-01-01 |
+| § 2aquinquies | [art-002aquinquies.md](art-002aquinquies.md) | 2 | 2021-01-01 |
+| § 2ater | [art-002ater.md](art-002ater.md) | 2 | 2021-01-01 |
+| § 2b | [art-002b.md](art-002b.md) | 1 | 2017-01-01 |
+| § 2c | [art-002c.md](art-002c.md) | 2 | 2018-01-01 |
+| § 3 | [art-003.md](art-003.md) | 0 |  |
+| § 4 | [art-004.md](art-004.md) | 0 |  |
+| § 5 | [art-005.md](art-005.md) | 0 |  |
+| § 6 | [art-006.md](art-006.md) | 1 | 2018-01-01 |
+| § 7 | [art-007.md](art-007.md) | 1 | 2021-01-01 |
+| § 8 | [art-008.md](art-008.md) | 0 |  |
+| § 9 | [art-009.md](art-009.md) | 0 |  |
+| § 10 | [art-010.md](art-010.md) | 0 |  |
+| § 11 | [art-011.md](art-011.md) | 0 |  |
+| § 12 | [art-012.md](art-012.md) | 0 |  |
+| § 13 | [art-013.md](art-013.md) | 2 | 2021-01-01 |
+| § 13a | [art-013a.md](art-013a.md) | 1 | 2024-01-01 |
+| § 14 | [art-014.md](art-014.md) | 0 |  |
+| § 15 | [art-015.md](art-015.md) | 0 |  |
+| § 16 | [art-016.md](art-016.md) | 3 | 2018-01-01 |
+| Gliederung | [gliederung.md](gliederung.md) | 0 |  |
+| Titel und Ingress | [ingress.md](ingress.md) | 1 | 2018-01-01 |

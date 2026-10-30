@@ -1,0 +1,11 @@
+{
+  "path": "ch-bl",
+  "code": "CH-BL",
+  "name": "Basel-Landschaft",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-basel-landschaft-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (608 acts, 1675 versions) from the SGS",
+  "language": "de",
+  "sources": 1
+}
