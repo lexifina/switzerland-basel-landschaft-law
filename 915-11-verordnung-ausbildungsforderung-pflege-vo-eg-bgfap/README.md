@@ -4,6 +4,7 @@ Verordnung Ausbildungsförderung Pflege, Vo EG BGFAP · 2 versions, from 2022-04
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang 1: Formel für die Berechnung der Ausbildungsleistung | [annex-1.md](annex-1.md) | 1 | 2024-07-01 |
 | § 1 | [art-001.md](art-001.md) | 1 | 2024-07-01 |
 | § 2 | [art-002.md](art-002.md) | 1 | 2024-07-01 |
 | § 3 | [art-003.md](art-003.md) | 1 | 2024-07-01 |

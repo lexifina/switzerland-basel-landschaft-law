@@ -928,6 +928,12 @@
     "980-112"
    ],
    "sha256": "6818349bfe6dc740b106d8b393a840732290850e661af0c81e5d3462e1b8fbc6"
+  },
+  "51-annex-text-915-11.json": {
+   "acts": [
+    "915-11-verordnung-ausbildungsforderung-pflege-vo-eg-bgfap"
+   ],
+   "sha256": "1e62b8585907240a6a9c1289813737fda3e7ed14732b095e4ba2cb999496e5ef"
   }
  },
  "schema": 1

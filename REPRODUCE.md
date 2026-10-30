@@ -869,7 +869,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `144-221` | Weisung über die Energiesparmassnahmen in der kantonalen Verwaltung | 1 | 1978-01-01 to 1978-01-01 |
 | `963-13` | Vertrag zwischen der Sanitätsdirektion des Kantons Basel-Landschaft und dem Erziehungsdepartement des Kantons Basel-Stadt betreffend Überlassung von Leichen an die normal-anatomische Anstalt der Universität Basel | 1 | 1948-09-15 to 1948-09-15 |
 
-The build made 1607 commits:
+The build made 1608 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -893,7 +893,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d4bfb7714a9c426effbb251506c55f8b3eac1eb45027cc2556e7d02c73d6e6af` (17879185 bytes).
+- Corpus: sha256 `f302245f85cd5331caecbb251c3bf368a076c56c7ad2b0589736ad24420386d3` (17904844 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -901,7 +901,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 1605 history commits and 2963 tags (history tip `546fa95c917299c2c012e5c9ce7510e22c50efb1`).
 
 ## Decisions made by hand
 
@@ -911,6 +911,7 @@ No second build of this corpus has been compared yet.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
 - Single-file current texts from the canton's current XHTML; text-layer annexes, including SGS 649.711's enactment-title list, are extracted from the official annex PDFs. Publisher Vademecum, old-code copies, translations, and signed-copy reference attachments are excluded only when ancillary. SGS 715.111, 430.111, 530.6, and 934.12 are held for scan/OCR verification. The In-force day is the source's current-version 'in Kraft seit' date; first_law is null because earlier text is outside this breadth part.
+- SGS 915.11, version in force 2024-07-01: restore Annex 1 from the official PDF text layer at https://bl.clex.ch/api/de/versions/3966/annexes. PDF SHA-256 d276b0a289d80230bb9a7cb10a06f28f491cd40b4eaa87d964f63220ec4fdb13. The PDF text was extracted mechanically without word changes; earlier versions are unchanged.
 
 ## What AI did and did not do
 
@@ -923,3 +924,4 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the canton's own collection.
 - A model wrote extraction code; no law wording was written or corrected by a model.
+- No model wrote or corrected law text; the annex unit is the official PDF text layer.
