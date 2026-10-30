@@ -934,6 +934,16 @@
     "915-11-verordnung-ausbildungsforderung-pflege-vo-eg-bgfap"
    ],
    "sha256": "1e62b8585907240a6a9c1289813737fda3e7ed14732b095e4ba2cb999496e5ef"
+  },
+  "86-lexwork-01.json": {
+   "acts": [
+    "430-111",
+    "530-6",
+    "562-22",
+    "715-111",
+    "934-12-vereinbarung-sanitatsdienst"
+   ],
+   "sha256": "4b6afbb166cdf3c685558418909517fbf543c303284cf09da3502709eb629fa3"
   }
  },
  "schema": 1

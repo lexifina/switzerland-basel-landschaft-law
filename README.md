@@ -900,3 +900,17 @@ The author of a commit is the amending act, named by its entry in the chronologi
 ## Limits
 
 This is not an official publication. The binding text is the one the canton publishes as binding (its chronological collection, or its systematic collection where cantonal law makes that binding). The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. Only the acts listed above are included.
+
+<!-- lexwork-runner:start -->
+## Further acts in force
+
+5 further acts with 7 versions from the same collection, in the parts `86-lexwork-NN`: the acts in force that the parts above did not hold (decrees, decisions, agreements, tariffs, rules of procedure and the rest of the systematic collection), each with every consolidated version the collection gives, dated and credited the same way. Acts published only as PDF, land-use plans, concessions, internal directives and repealed acts are not included. The counts earlier in this file cover the earlier parts only.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `430-111/` | Vereinbarung zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Ausgabe von Gewerbeparkkarten (SGS 430.111) | 1 | as enacted, 1 January 2015 |
+| `530-6/` | Convention entre les cantons de Bâle-Campagne et du Jura concernant I'exercice de la pêche dans les eaux intercantonales de la Birse (SGS 530.6) | 1 | as enacted, 1 January 2016 |
+| `562-22/` | Interkantonale Vereinbarung zur Aufhebung des Viehhandelskonkordats (Interkantonale Übereinkunft über den Viehhandel vom 13. September 1943) (SGS 562.22) | 1 | as enacted, 1 March 2016 |
+| `715-111/` | Verwaltungsvereinbarung zwischen dem Kanton Basel-Landschaft und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Polizei Basel-Landschaft und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung (SGS 715.111) | 2 | as enacted, then each consolidated version: 13 October 2009 to 1 January 2025 |
+| `934-12-vereinbarung-sanitatsdienst/` | Vereinbarung über Dienstleistungen der Sanität Basel auf dem Gebiet des Kantons Basel-Landschaft (SGS 934.12) | 2 | oldest version available, then each consolidated version: 1 January 2014 to 1 January 2015 |
+<!-- lexwork-runner:end -->

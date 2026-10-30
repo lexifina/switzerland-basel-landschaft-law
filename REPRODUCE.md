@@ -868,20 +868,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `144-211` | Pflichtenheft für die Aufgaben des Amts für Orts- und Regionalplanung im Rahmen der Schulplanung | 1 | 2022-01-01 to 2022-01-01 |
 | `144-221` | Weisung über die Energiesparmassnahmen in der kantonalen Verwaltung | 1 | 1978-01-01 to 1978-01-01 |
 | `963-13` | Vertrag zwischen der Sanitätsdirektion des Kantons Basel-Landschaft und dem Erziehungsdepartement des Kantons Basel-Stadt betreffend Überlassung von Leichen an die normal-anatomische Anstalt der Universität Basel | 1 | 1948-09-15 to 1948-09-15 |
+| `430-111` | Vereinbarung zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Ausgabe von Gewerbeparkkarten | 1 | 2015-01-01 to 2015-01-01 |
+| `530-6` | Convention entre les cantons de Bâle-Campagne et du Jura concernant I'exercice de la pêche dans les eaux intercantonales de la Birse | 1 | 2016-01-01 to 2016-01-01 |
+| `562-22` | Interkantonale Vereinbarung zur Aufhebung des Viehhandelskonkordats (Interkantonale Übereinkunft über den Viehhandel vom 13. September 1943) | 1 | 2016-03-01 to 2016-03-01 |
+| `715-111` | Verwaltungsvereinbarung zwischen dem Kanton Basel-Landschaft und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Polizei Basel-Landschaft und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung | 2 | 2009-10-13 to 2025-01-01 |
+| `934-12-vereinbarung-sanitatsdienst` | Vereinbarung über Dienstleistungen der Sanität Basel auf dem Gebiet des Kantons Basel-Landschaft | 2 | 2014-01-01 to 2015-01-01 |
 
-The build made 1608 commits:
+The build made 1615 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 854 | first version of an act |
-| 753 | one law on its in-force day |
+| 859 | first version of an act |
+| 755 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 3 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
 - 32 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2075 laws in the record.
-- 2964 tags.
+- 2084 laws in the record.
+- 2976 tags.
 
 ## Dates
 
@@ -893,7 +898,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f302245f85cd5331caecbb251c3bf368a076c56c7ad2b0589736ad24420386d3` (17904844 bytes).
+- Corpus: sha256 `0715856a3c327acb87e0b93781361e7398773949e7d7f0a7bf8e7ebfa5afd4a4` (17945266 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -901,7 +906,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 1605 history commits and 2963 tags (history tip `546fa95c917299c2c012e5c9ce7510e22c50efb1`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 

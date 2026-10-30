@@ -18358,6 +18358,88 @@
      "sha256": "8e6230364b6d2a9cf38a0468844d40a668893aff8fe12652fb990cb04545c2c9"
     }
    ]
+  },
+  {
+   "slug": "430-111",
+   "short": "SGS 430.111",
+   "title": "Vereinbarung zwischen den Kantonen Basel-Landschaft und Basel-Stadt über die gemeinsame Ausgabe von Gewerbeparkkarten",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/430.111",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 9,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/430.111",
+     "sha256": "e129a5dabb8dc9f354cf09e524372f19f5b99589b21ea3ec50812bc8db9aaa74"
+    }
+   ]
+  },
+  {
+   "slug": "530-6",
+   "short": "SGS 530.6",
+   "title": "Convention entre les cantons de Bâle-Campagne et du Jura concernant I'exercice de la pêche dans les eaux intercantonales de la Birse",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/530.6",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 4,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/530.6",
+     "sha256": "b0423cafb9c5020a9b9958e37b2b963bac23c0ef2cb3602e849cb4644d09e979"
+    }
+   ]
+  },
+  {
+   "slug": "562-22",
+   "short": "SGS 562.22",
+   "title": "Interkantonale Vereinbarung zur Aufhebung des Viehhandelskonkordats (Interkantonale Übereinkunft über den Viehhandel vom 13. September 1943)",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/562.22",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 4,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/562.22",
+     "sha256": "f180d534cea430fa8924be52fa386dc45ce2ee5d0def3ee483ee6a508ba0f220"
+    }
+   ]
+  },
+  {
+   "slug": "715-111",
+   "short": "SGS 715.111",
+   "title": "Verwaltungsvereinbarung zwischen dem Kanton Basel-Landschaft und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Polizei Basel-Landschaft und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/715.111",
+   "versions": [
+    {
+     "from": "2009-10-13",
+     "units": 29,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/715.111/versions/2448",
+     "sha256": "f5b111f9c37d5e529e590d5f8e1f69ae6fc4ca2dbfcc52125e75f3dbe2608d7b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 29,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/715.111",
+     "sha256": "30617f8f2177057563024d72808589e7c314861c8c5761f85e7bbbaf0c1045a4"
+    }
+   ]
+  },
+  {
+   "slug": "934-12-vereinbarung-sanitatsdienst",
+   "short": "Vereinbarung Sanitätsdienst",
+   "title": "Vereinbarung über Dienstleistungen der Sanität Basel auf dem Gebiet des Kantons Basel-Landschaft",
+   "url": "https://bl.clex.ch/app/de/texts_of_law/934.12",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 13,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/934.12/versions/1013",
+     "sha256": "2d68d1d5aba5226a4d52cb2c87972e8e160e3fb6fdab04b05786aad0835c42fd"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 13,
+     "source_url": "https://bl.clex.ch/api/de/texts_of_law/934.12",
+     "sha256": "fa46c7f8711c0def1ff82457675a3443af87d9cd2da56ed81ed8758bd1423541"
+    }
+   ]
   }
  ]
 }
